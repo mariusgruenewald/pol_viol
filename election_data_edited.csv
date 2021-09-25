@@ -16869,7 +16869,6 @@
 14,Cottbus,CDU,49,,14,2014.0,BB,3046,12052000.0,,Christlich Demokratische Union Deutschlands,52000.0
 15,Cottbus,FDP,30,,7,2014.0,BB,3046,12052000.0,,Freie Demokratische Partei,52000.0
 16,Cottbus,GRÜNE,39,,16,2014.0,BB,3046,12052000.0,,BÜNDNIS 90/DIE GRÜNEN,52000.0
-17,Cottbus,NPD,5,,0,2014.0,BB,3046,12052000.0,,Nationaldemokratische Partei Deutschlands,52000.0
 18,Cottbus,AfD,22,,3,2014.0,BB,3046,12052000.0,,Alternative für Deutschland,52000.0
 19,Cottbus,CDU,38,,11,2019.0,BB,3046,12052000.0,,Christlich Demokratische Union Deutschlands,52000.0
 20,Cottbus,DIE LINKE,43,,14,2019.0,BB,3046,12052000.0,,DIE LINKE,52000.0
@@ -16877,21 +16876,16 @@
 22,Cottbus,AfD,24,,7,2019.0,BB,3046,12052000.0,,Alternative für Deutschland,52000.0
 23,Cottbus,GRÜNE,53,,22,2019.0,BB,3046,12052000.0,,BÜNDNIS 90/DIE GRÜNEN,52000.0
 24,Cottbus,FDP,13,,3,2019.0,BB,3046,12052000.0,,Freie Demokratische Partei ,52000.0
-25,Cottbus,NPD,4,,0,2019.0,BB,3046,12052000.0,,Nationaldemokratische Partei Deutschlands,52000.0
 26,Frankfurt (Oder),DIE LINKE,50,,18,2014.0,BB,15230,12053000.0,,DIE LINKE,53000.0
 27,Frankfurt (Oder),SPD,43,,12,2014.0,BB,15230,12053000.0,,Sozialdemokratische Partei Deutschlands,53000.0
 28,Frankfurt (Oder),CDU,36,,7,2014.0,BB,15230,12053000.0,,Christlich Demokratische Union Deutschlands,53000.0
 29,Frankfurt (Oder),FDP,17,,2,2014.0,BB,15230,12053000.0,,Freie Demokratische Partei,53000.0
 30,Frankfurt (Oder),AfD,14,,3,2014.0,BB,15230,12053000.0,,Alternative für Deutschland,53000.0
-31,Frankfurt (Oder),Die Partei,1,,0,2014.0,BB,15230,12053000.0,,"Partei für Arbeit, Rechtsstaat, Tierschutz,Elitenförderung und basisdemokratische Initiative",53000.0
-32,Frankfurt (Oder),Piraten,4,,1,2014.0,BB,15230,12053000.0,,Piratenpartei Deutschland,53000.0
 33,Frankfurt (Oder),DIE LINKE,26,,11,2019.0,BB,15230,12053000.0,,DIE LINKE,53000.0
 34,Frankfurt (Oder),CDU,39,,3,2019.0,BB,15230,12053000.0,,Christlich Demokratische Union Deutschlands,53000.0
 35,Frankfurt (Oder),SPD,14,,3,2019.0,BB,15230,12053000.0,,Sozialdemokratische Partei Deutschlands,53000.0
 36,Frankfurt (Oder),AfD,16,,1,2019.0,BB,15230,12053000.0,,Alternative für Deutschland,53000.0
 37,Frankfurt (Oder),FDP,15,,2,2019.0,BB,15230,12053000.0,,Freie Demokratische Partei,53000.0
-38,Frankfurt (Oder),PIRATEN,4,,1,2019.0,BB,15230,12053000.0,,Piratenpartei Deutschland,53000.0
-39,Frankfurt (Oder),Die PARTEI,4,,1,2019.0,BB,15230,12053000.0,,"Partei für Arbeit, Rechtsstaat, Tierschutz,Elitenförderung und basisdemokratische Initiative",53000.0
 40,Potsdam,DIE LINKE,82,,26,2014.0,BB,14469,12054000.0,,DIE LINKE,54000.0
 41,Potsdam,SPD,83,,33,2014.0,BB,14469,12054000.0,,Sozialdemokratische Partei Deutschlands,54000.0
 42,Potsdam,GRÜNE,79,,28,2014.0,BB,14469,12054000.0,,BÜNDNIS 90/DIE GRÜNEN,54000.0
@@ -16903,7 +16897,6 @@
 48,Potsdam,GRÜNE,84,,42,2019.0,BB,14469,12054000.0,,BÜNDNIS 90/DIE GRÜNEN,54000.0
 49,Potsdam,AfD,11,,0,2019.0,BB,14469,12054000.0,,Alternative für Deutschland,54000.0
 50,Potsdam,FDP,71,,18,2019.0,BB,14469,12054000.0,,Freie Demokratische Partei,54000.0
-51,Potsdam,Die PARTEI,6,,3,2019.0,BB,14469,12054000.0,,"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative",54000.0
 52,Ahrensfelde,DIE LINKE,8.0,,5.0,2014.0,BB,16356,12060005.0,,DIE LINKE,60005.0
 53,Ahrensfelde,SPD,9.0,,1.0,2014.0,BB,16356,12060005.0,,Sozialdemokratische Partei Deutschlands,60005.0
 54,Ahrensfelde,CDU,15.0,,3.0,2014.0,BB,16356,12060005.0,,Christlich Demokratische Union Deutschlands,60005.0
@@ -16920,42 +16913,34 @@
 65,Bernau,CDU,13.0,,2.0,2014.0,BB,16321,12060020.0,,Christlich Demokratische Union Deutschlands,60020.0
 66,Bernau,FDP,2.0,,0.0,2014.0,BB,16321,12060020.0,,Freie Demokratische Partei,60020.0
 67,Bernau,GRÜNE,8.0,,3.0,2014.0,BB,16321,12060020.0,,BÜNDNIS 90/DIE GRÜNEN,60020.0
-68,Bernau,NPD,4.0,,1.0,2014.0,BB,16321,12060020.0,,Nationaldemokratische Partei Deutschlands,60020.0
-69,Bernau,PIRATEN,2.0,,0.0,2014.0,BB,16321,12060020.0,,Piratenpartei Deutschlands,60020.0
 70,Bernau,DIE LINKE,27.0,,9.0,2019.0,BB,16321,12060020.0,,DIE LINKE,60020.0
 71,Bernau,CDU,26.0,,4.0,2019.0,BB,16321,12060020.0,,Christlich Demokratische Union Deutschlands,60020.0
 72,Bernau,SPD,20.0,,6.0,2019.0,BB,16321,12060020.0,,Sozialdemokratische Partei Deutschlands,60020.0
-73,Bernau,GRÜNE/B90,10.0,,3.0,2019.0,BB,16321,12060020.0,,Bündnis 90/DIE GRÜNEN,60020.0
+73,Bernau,GRÜNE,10.0,,3.0,2019.0,BB,16321,12060020.0,,Bündnis 90/DIE GRÜNEN,60020.0
 74,Bernau,FDP,2.0,,0.0,2019.0,BB,16321,12060020.0,,Freie Demokratische Partei,60020.0
 75,Bernau,AfD,5.0,,0.0,2019.0,BB,16321,12060020.0,,Alternative für Deutschland,60020.0
-76,Bernau,Die PARTEI,3.0,,2.0,2019.0,BB,16321,12060020.0,,"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative",60020.0
-77,Bernau,PIRATEN,2.0,,1.0,2019.0,BB,16321,12060020.0,,Piratenpartei Deutschland,60020.0
-78,Eberswalde,Die Linke,25.0,,6.0,2014.0,BB,16225,12060052.0,,Die Linke,60052.0
+78,Eberswalde,DIE LINKE,25.0,,6.0,2014.0,BB,16225,12060052.0,,Die Linke,60052.0
 79,Eberswalde,SPD,26.0,,3.0,2014.0,BB,16225,12060052.0,,Sozialdemokratische Partei Deutschlands,60052.0
 80,Eberswalde,CDU,16.0,,2.0,2014.0,BB,16225,12060052.0,,Christlich Demokratische Union Deutschlands,60052.0
 81,Eberswalde,FDP,27.0,,5.0,2014.0,BB,16225,12060052.0,,Freie Demokratische Partei,60052.0
-82,Eberswalde,Grüne/B90,12.0,,3.0,2014.0,BB,16225,12060052.0,,Bündnis 90/Die Grünen,60052.0
-83,Eberswalde,Piraten,1.0,,0.0,2014.0,BB,16225,12060052.0,,Piratenpartei Deutschland,60052.0
+82,Eberswalde,GRÜNE,12.0,,3.0,2014.0,BB,16225,12060052.0,,Bündnis 90/Die Grünen,60052.0
 84,Eberswalde,DIE LINKE,21.0,,4.0,2019.0,BB,16225,12060052.0,,DIE LINKE,60052.0
 85,Eberswalde,CDU,22.0,,2.0,2019.0,BB,16225,12060052.0,,Christlich Demokratische Union Deutschlands,60052.0
 86,Eberswalde,SPD,25.0,,5.0,2019.0,BB,16225,12060052.0,,Sozialdemokratische Partei Deutschlands,60052.0
-87,Eberswalde,GRÜNE/B90,17.0,,7.0,2019.0,BB,16225,12060052.0,,BÜNDNIS 90/DIE GRÜNEN,60052.0
+87,Eberswalde,GRÜNE,17.0,,7.0,2019.0,BB,16225,12060052.0,,BÜNDNIS 90/DIE GRÜNEN,60052.0
 88,Eberswalde,FDP,22.0,,4.0,2019.0,BB,16225,12060052.0,,Freie Demokratische Partei,60052.0
 89,Eberswalde,AfD,5.0,,1.0,2019.0,BB,16225,12060052.0,,Alternative für Deutschland,60052.0
 90,Panketal,DIE LINKE,16.0,,5.0,2014.0,BB,16341,12060181.0,,DIE LINKE,60181.0
 91,Panketal,SPD,20.0,,5.0,2014.0,BB,16341,12060181.0,,Sozialdemokratische Partei Deutschlands,60181.0
 92,Panketal,CDU,18.0,,4.0,2014.0,BB,16341,12060181.0,,Christlich Demokratische Union Deutschlands,60181.0
 93,Panketal,FDP,7.0,,1.0,2014.0,BB,16341,12060181.0,,Freie Demokratische Partei,60181.0
-94,Panketal,GRÜNE/ B 90,11.0,,2.0,2014.0,BB,16341,12060181.0,,BÜNDNIS 90/DIE GRÜNEN,60181.0
-95,Panketal,NPD,1.0,,0.0,2014.0,BB,16341,12060181.0,,Nationaldemokratische Partei Deutschlands,60181.0
+94,Panketal,GRÜNE,11.0,,2.0,2014.0,BB,16341,12060181.0,,BÜNDNIS 90/DIE GRÜNEN,60181.0
 96,Panketal,DIE LINKE,14.0,,5.0,2019.0,BB,16341,12060181.0,,DIE LINKE,60181.0
 97,Panketal,CDU,12.0,,3.0,2019.0,BB,16341,12060181.0,,Christlich Demokratische Union Deutschlands,60181.0
 98,Panketal,SPD,20.0,,5.0,2019.0,BB,16341,12060181.0,,Sozialdemokratische Partei Deutschlands,60181.0
 99,Panketal,GRÜNE,15.0,,5.0,2019.0,BB,16341,12060181.0,,BÜNDNIS 90/DIE GRÜNEN,60181.0
 100,Panketal,FDP,6.0,,0.0,2019.0,BB,16341,12060181.0,,Freie Demokratische Partei,60181.0
 101,Panketal,AfD,9.0,,1.0,2019.0,BB,16341,12060181.0,,Alternative für Deutschland,60181.0
-102,Panketal,DIE PARTEI,1.0,,0.0,2019.0,BB,16341,12060181.0,,"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und 
-basisdemokratische Initiative",60181.0
 103,Schorfheide,DIE LINKE,5.0,,1.0,2014.0,BB,16244,12060198.0,,DIE LINKE,60198.0
 104,Schorfheide,SPD,5.0,,0.0,2014.0,BB,16244,12060198.0,,Sozialdemokratische Partei Deutschlands,60198.0
 105,Schorfheide,FDP,2.0,,0.0,2014.0,BB,16244,12060198.0,,Freie Demokratische Partei,60198.0
@@ -16968,14 +16953,13 @@ basisdemokratische Initiative",60181.0
 112,Wandlitz,SPD,19.0,,4.0,2014.0,BB,16348,12060269.0,,Sozialdemokratische Partei Deutschlands,60269.0
 113,Wandlitz,CDU,11.0,,1.0,2014.0,BB,16348,12060269.0,,Christlich Demokratische Union Deutschlands,60269.0
 114,Wandlitz,FDP,1.0,,0.0,2014.0,BB,16348,12060269.0,,Freie Demokratische Partei,60269.0
-115,Wandlitz,GRÜNE/B90,6.0,,3.0,2014.0,BB,16348,12060269.0,,BÜNDNIS 90/ DIE GRÜNEN,60269.0
+115,Wandlitz,GRÜNE,6.0,,3.0,2014.0,BB,16348,12060269.0,,BÜNDNIS 90/ DIE GRÜNEN,60269.0
 116,Wandlitz,DIE LINKE,16.0,,6.0,2019.0,BB,16348,12060269.0,,DIE LINKE ,60269.0
 117,Wandlitz,CDU,16.0,,3.0,2019.0,BB,16348,12060269.0,,Christlich Demokratische Union Deutschlands,60269.0
 118,Wandlitz,SPD,20.0,,6.0,2019.0,BB,16348,12060269.0,,Sozialdemokratische Partei Deutschlands,60269.0
 119,Wandlitz,GRÜNE,6.0,,3.0,2019.0,BB,16348,12060269.0,,BÜNDNIS 90/DIE GRÜNEN,60269.0
 120,Wandlitz,FDP,3.0,,1.0,2019.0,BB,16348,12060269.0,,Freie Demokratische Partei,60269.0
 121,Wandlitz,AfD,5.0,,1.0,2019.0,BB,16348,12060269.0,,Alternative für Deutschland,60269.0
-122,Wandlitz,Die PARTEI,1.0,,0.0,2019.0,BB,16348,12060269.0,,"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative",60269.0
 123,Werneuchen,DIE LINKE,8.0,,2.0,2014.0,BB,16356,12060280.0,,DIE LINKE,60280.0
 124,Werneuchen,SPD,4.0,,0.0,2014.0,BB,16356,12060280.0,,Sozialdemokratische Partei Deutschlands,60280.0
 125,Werneuchen,CDU,8.0,,1.0,2014.0,BB,16356,12060280.0,,Christlich Demokratische Union Deutschlands,60280.0
@@ -16985,7 +16969,6 @@ basisdemokratische Initiative",60181.0
 129,Werneuchen,SPD,6.0,,2.0,2019.0,BB,16356,12060280.0,,Sozialdemokratische Partei Deutschlands,60280.0
 130,Werneuchen,FDP,3.0,,1.0,2019.0,BB,16356,12060280.0,,Freie Demokratische Partei,60280.0
 131,Werneuchen,AfD,6.0,,0.0,2019.0,BB,16356,12060280.0,,Alternative für Deutschland,60280.0
-132,Werneuchen,Die Partei,1.0,,0.0,2019.0,BB,16356,12060280.0,,"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung &    basisdemokratische Initiative",60280.0
 133,Biesenthal,DIE LINKE,10.0,,5.0,2014.0,BB,16359,12060024.0,,DIE LINKE,60024.0
 134,Biesenthal,SPD,4.0,,0.0,2014.0,BB,16359,12060024.0,,Sozialdemokratische Partei Deutschlands,60024.0
 135,Biesenthal,CDU,10.0,,0.0,2014.0,BB,16359,12060024.0,,Christlich Demokratische Union Deutschlands,60024.0
@@ -16994,7 +16977,7 @@ basisdemokratische Initiative",60181.0
 138,Biesenthal,DIE LINKE,7.0,,4.0,2019.0,BB,16359,12060024.0,,DIE LINKE,60024.0
 139,Biesenthal,CDU,19.0,,5.0,2019.0,BB,16359,12060024.0,,Christlich Demokratische Union Deutschlands,60024.0
 140,Biesenthal,SPD,4.0,,1.0,2019.0,BB,16359,12060024.0,,Sozialdemokratische Partei Deutschlands,60024.0
-141,Biesenthal,GRÜNE/B90,10.0,,7.0,2019.0,BB,16359,12060024.0,,BÜNDNIS 90/DIE GRÜNEN,60024.0
+141,Biesenthal,GRÜNE,10.0,,7.0,2019.0,BB,16359,12060024.0,,BÜNDNIS 90/DIE GRÜNEN,60024.0
 142,Breydin,SPD,6.0,,3.0,2014.0,BB,16230,12060034.0,,Sozialdemokratische Partei Deutschlands,60034.0
 143,Breydin,FDP,1.0,,1.0,2014.0,BB,16230,12060034.0,,Freie Demokratische Partei,60034.0
 144,Breydin,SPD,5.0,,4.0,2019.0,BB,16230,12060034.0,,Sozialdemokratische Partei Deutschlands,60034.0
@@ -17008,18 +16991,16 @@ basisdemokratische Initiative",60181.0
 152,Joachimsthal,SPD,8.0,,2.0,2014.0,BB,16247,12060068.0,,Sozialdemokratische Partei Deutschlands,60068.0
 153,Joachimsthal,CDU,8.0,,3.0,2014.0,BB,16247,12060068.0,,Christlich Demokratische Union Deutschlands,60068.0
 154,Joachimsthal,FDP,2.0,,1.0,2014.0,BB,16247,12060068.0,,Freie Demokratische Partei,60068.0
-155,Joachimsthal,NPD,1.0,,0.0,2014.0,BB,16247,12060068.0,,Nationaldemokratische Partei Deutschlands,60068.0
 156,Joachimsthal,DIE LINKE,1.0,,0.0,2019.0,BB,16247,12060068.0,,DIE LINKE,60068.0
 157,Joachimsthal,CDU,10.0,,4.0,2019.0,BB,16247,12060068.0,,Christlich Demokratische Union Deutschlands,60068.0
 158,Joachimsthal,SPD,5.0,,1.0,2019.0,BB,16247,12060068.0,,Sozialdemokratische Partei Deutschlands,60068.0
 159,Joachimsthal,GRÜNE,7.0,,6.0,2019.0,BB,16247,12060068.0,,BÜNDNIS 90/DIE GRÜNEN,60068.0
 160,Britz,FDP,1.0,,0.0,2014.0,BB,16230,12060036.0,,Freie Demokratische Partei ,60036.0
-161,Chorin,NPD,1.0,,0.0,2014.0,BB,16230,12060045.0,,Nationaldemokratische Partei Deutschlands ,60045.0
 162,Chorin,CDU,4.0,,0.0,2014.0,BB,16230,12060045.0,,Christlich Demokratische Union Deutschlands,60045.0
 163,Chorin,FDP,1.0,,0.0,2014.0,BB,16230,12060045.0,,Freie Demokratische Partei,60045.0
 164,Chorin,DIE LINKE,4.0,,1.0,2019.0,BB,16230,12060045.0,,DIE LINKE,60045.0
 165,Chorin,CDU,8.0,,0.0,2019.0,BB,16230,12060045.0,,Christlich Demokratische Union Deutschlands,60045.0
-166,Chorin,GRÜNE/B90,2.0,,2.0,2019.0,BB,16230,12060045.0,,Bündnis 90/Die Grünen,60045.0
+166,Chorin,GRÜNE,2.0,,2.0,2019.0,BB,16230,12060045.0,,Bündnis 90/Die Grünen,60045.0
 167,Niederfinow,SPD,1.0,,0.0,2014.0,BB,16248,12060172.0,,Sozialdemokratische Partei Deutschlands,60172.0
 168,Niederfinow,SPD,1.0,,0.0,2019.0,BB,16248,12060172.0,,Sozialdemokratische Partei Deutschlands,60172.0
 169,Oderberg,SPD,1.0,,0.0,2014.0,BB,16248,12060176.0,,Sozialdemokratische Partei Deutschlands,60176.0
@@ -17045,10 +17026,9 @@ basisdemokratische Initiative",60181.0
 189,Eichwalde,AfD,1.0,,0.0,2019.0,BB,15732,12061112.0,,Alternative für Deutschland,61112.0
 190,Eichwalde,GRÜNE,8.0,,5.0,2019.0,BB,15732,12061112.0,,BÜNDNIS 90/DIE GRÜNEN,61112.0
 191,Heidesee,SPD,6.0,,2.0,2014.0,BB,15754,12061217.0,,Sozialdemokratische Partei Deutschlands,61217.0
-192,Heidesee,DIE LINKE.,6.0,,2.0,2014.0,BB,15754,12061217.0,,DIE LINKE.,61217.0
+192,Heidesee,DIE LINKE,6.0,,2.0,2014.0,BB,15754,12061217.0,,DIE LINKE.,61217.0
 193,Heidesee,CDU,5.0,,0.0,2014.0,BB,15754,12061217.0,,Christlich Demokratische Union Deutschland,61217.0
 194,Heidesee,FDP,1.0,,0.0,2014.0,BB,15754,12061217.0,,Freie Demokratische Partei,61217.0
-195,Heidesee,NPD,1.0,,0.0,2014.0,BB,15754,12061217.0,,Nationaldemokratische Partei Deutschlands,61217.0
 196,Heidesee,SPD,4,,1.0,2019.0,BB,15754,12061217.0,,Sozialdemokratische Partei Deutschlands,61217.0
 197,Heidesee,CDU,4,,2.0,2019.0,BB,15754,12061217.0,,Christlich Demokratische Partei Deutschlands,61217.0
 198,Heidesee,DIE LINKE,5,,1.0,2019.0,BB,15754,12061217.0,,DIE LINKE,61217.0
@@ -17063,10 +17043,7 @@ basisdemokratische Initiative",60181.0
 207,Konigs Wusterhausen,DIE LINKE,15.0,,5.0,2014.0,BB,15711,12061260.0,,DIE LINKE,61260.0
 208,Konigs Wusterhausen,CDU,21.0,,6.0,2014.0,BB,15711,12061260.0,,Christliche Demokratische Union Deutschlands,61260.0
 209,Konigs Wusterhausen,FDP,23.0,,6.0,2014.0,BB,15711,12061260.0,,Frei Demokratische Partei,61260.0
-210,Konigs Wusterhausen,NPD,2.0,,0.0,2014.0,BB,15711,12061260.0,,National Demokratische Partei Deutschlands,61260.0
 211,Konigs Wusterhausen,AfD,2.0,,0.0,2014.0,BB,15711,12061260.0,,Alternative für Deutschland,61260.0
-212,Konigs Wusterhausen,PIRATEN,1.0,,0.0,2014.0,BB,15711,12061260.0,,Piratenpartei Deutschland,61260.0
-213,Konigs Wusterhausen,DKP,1.0,,0.0,2014.0,BB,15711,12061260.0,,Deutsche Kommunistitische Partei,61260.0
 214,Konigs Wusterhausen,SPD,27,,9,2019.0,BB,15711,12061260.0,,Sozialdemokratische Partei Deutschlands,61260.0
 215,Konigs Wusterhausen,CDU,14,,8,2019.0,BB,15711,12061260.0,,Christlich Demokratische Partei Deutschlands,61260.0
 216,Konigs Wusterhausen,DIE LINKE,6,,3,2019.0,BB,15711,12061260.0,,DIE LINKE,61260.0
@@ -17077,10 +17054,10 @@ basisdemokratische Initiative",60181.0
 221,Lubben,DIE LINKE,6.0,,0.0,2014.0,BB,,,,DIE LINKE,
 222,Lubben,CDU,10.0,,1.0,2014.0,BB,,,,Christlich Demokratische Union Deutschlands,
 223,Lubben,FDP,3.0,,0.0,2014.0,BB,,,,Freie Demokratische Partei,
-224,Lubben,GRÜNE/B90,4.0,,2.0,2014.0,BB,,,,BÜNDNIS 90/DIE GRÜNEN    ,
+224,Lubben,GRÜNE,4.0,,2.0,2014.0,BB,,,,BÜNDNIS 90/DIE GRÜNEN    ,
 225,Mittenwalde,SPD,7.0,,1.0,2014.0,BB,,,,Sozialdemokratische Partei Deutschlands ,
 226,Mittenwalde,DIE LINKE,11.0,,3.0,2014.0,BB,,,,DIE LINKE,
-227,Mittenwalde,CDU ,21.0,,3.0,2014.0,BB,,,,Christlich Demokratische Union Deutschlands,
+227,Mittenwalde,CDU,21.0,,3.0,2014.0,BB,,,,Christlich Demokratische Union Deutschlands,
 228,Mittenwalde,AfD,2.0,,0.0,2014.0,BB,,,,Alternative für Deutschland,
 229,Golzow,CDU,1.0,,0.0,2014.0,BB,,,,Christlich Demokratische Union Deutschlands,
 230,Golzow,FDP,2.0,,0.0,2014.0,BB,,,,Freie Demokratische Partei,
@@ -17090,9 +17067,7 @@ basisdemokratische Initiative",60181.0
 234,Belzig,FDP,6.0,,0.0,2014.0,BB,,,,Freie Demokratische Partei,
 235,Belzig,GRÜNE,5.0,,2.0,2014.0,BB,,,,BÜNDNIS 90/DIE GRÜNEN,
 236,Belzig,AfD,2.0,,1.0,2014.0,BB,,,,Alternative für Deutschland,
-237,Belzig,NPD,2.0,,0.0,2014.0,BB,,,,Nationaldemokratische Partei Deutschlands,
 238,Golzow,SPD,1.0,,1.0,2014.0,BB,,,,Sozialdemokratische Partei Deutschlands,
-239,Mittenwalde,,2.0,,1.0,2014.0,BB,,,,DIE LINKE,
 240,Lubben,SPD,9,,3,2019.0,BB,,,,Sozialdemokratische Partei Deutschland,
 241,Lubben,CDU,11,,4,2019.0,BB,,,,Christlich Demokratische Union Deutschlands,
 242,Lubben,DIE LINKE,6,,0,2019.0,BB,,,,DIE LINKE,
@@ -17107,17 +17082,15 @@ basisdemokratische Initiative",60181.0
 251,Belzig,CDU,11,,2,2019.0,BB,,,,Christlich Demokratische Union Deutschlands,
 252,Belzig,SPD,11,,2,2019.0,BB,,,,Sozialdemokratische Partei Deutschlands,
 253,Belzig,DIE LINKE,6,,3,2019.0,BB,,,,DIE LINKE,
-254,Belzig,GRÜNE/B90,12,,4,2019.0,BB,,,,BÜNDNIS 90/DIE GRÜNEN,
+254,Belzig,GRÜNE,12,,4,2019.0,BB,,,,BÜNDNIS 90/DIE GRÜNEN,
 255,Belzig,AfD,1,,0,2019.0,BB,,,,Alternative für Deutschland,
 256,Belzig,FDP,2,,0,2019.0,BB,,,,Freie Demokratische Partei,
-257,Belzig,NPD,1,,0,2019.0,BB,,,,Nationaldemokratische Partei Deutschlands,
-258,Belzig,PIRATEN,1,,0,2019.0,BB,,,,Piratenpartei Deutschland,
 259,Mittenwalde,DIE LINKE,2,,1,2019.0,BB,,,,DIE LINKE,
 260,Luckau,SPD,9.0,,4.0,2014.0,BB,15926,12061320.0,,Sozialdemokratische Partei Deutschlands,61320.0
-261,Luckau,Die Linke,9.0,,4.0,2014.0,BB,15926,12061320.0,,Die Linke,61320.0
+261,Luckau,DIE LINKE,9.0,,4.0,2014.0,BB,15926,12061320.0,,Die Linke,61320.0
 262,Luckau,CDU,9.0,,0.0,2014.0,BB,15926,12061320.0,,Christlich Demokratische Union Deutschlands,61320.0
 263,Luckau,FDP,6.0,,0.0,2014.0,BB,15926,12061320.0,,Frei Demokratische Partei,61320.0
-264,Luckau,B90/Grüne,6.0,,2.0,2014.0,BB,15926,12061320.0,,BÜNDNIS 90/DIE GRÜNEN,61320.0
+264,Luckau,GRÜNE,6.0,,2.0,2014.0,BB,15926,12061320.0,,BÜNDNIS 90/DIE GRÜNEN,61320.0
 265,Luckau,AfD,2.0,,0.0,2014.0,BB,15926,12061320.0,,Alternative für Deutschland,61320.0
 266,Luckau,SPD,9,,6.0,2019.0,BB,15926,12061320.0,,Sozialdemokratische Partei Deutschlands,61320.0
 267,Luckau,CDU,7,,0.0,2019.0,BB,15926,12061320.0,,Christlich Demokratische Union Deutschlands,61320.0
@@ -17135,7 +17108,7 @@ basisdemokratische Initiative",60181.0
 279,Schonefeld,DIE LINKE,5.0,,2.0,2014.0,BB,12529,12061433.0,,DIE LINKE,61433.0
 280,Schonefeld,CDU,11.0,,2.0,2014.0,BB,12529,12061433.0,,Christlich Demokratische Union Deutschlands,61433.0
 281,Schonefeld,FDP,2.0,,1.0,2014.0,BB,12529,12061433.0,,Frei Demokratische Partei ,61433.0
-282,Schonefeld,GRÜNE/B90,3.0,,3.0,2014.0,BB,12529,12061433.0,,BÜNDNIS90/ DIE GRÜNEN,61433.0
+282,Schonefeld,GRÜNE,3.0,,3.0,2014.0,BB,12529,12061433.0,,BÜNDNIS90/ DIE GRÜNEN,61433.0
 283,Schonefeld,SPD,10,,2,2019.0,BB,12529,12061433.0,,Sozialdemokratische Partei Deutschlands ,61433.0
 284,Schonefeld,CDU,13,,4,2019.0,BB,12529,12061433.0,,Christlich Demokratische Union Deutschlands,61433.0
 285,Schonefeld,DIE LINKE,3,,0,2019.0,BB,12529,12061433.0,,DIE LINKE,61433.0
@@ -17143,11 +17116,10 @@ basisdemokratische Initiative",60181.0
 287,Schonefeld,GRÜNE,3,,3,2019.0,BB,12529,12061433.0,,BÜNDNIS 90/DIE GRÜNEN,61433.0
 288,Schonefeld,FDP,4,,1,2019.0,BB,12529,12061433.0,,Freie Demokratische Partei,61433.0
 289,Schulzendorf,SPD,4.0,,1.0,2014.0,BB,15732,12061444.0,,Sozialdemokratische Partei Deutschlands,61444.0
-290,Schulzendorf,Die Linke,10.0,,4.0,2014.0,BB,15732,12061444.0,,Die Linke,61444.0
+290,Schulzendorf,DIE LINKE,10.0,,4.0,2014.0,BB,15732,12061444.0,,Die Linke,61444.0
 291,Schulzendorf,CDU,10.0,,3.0,2014.0,BB,15732,12061444.0,,Christlich Demokratische Union Deutschlands,61444.0
 292,Schulzendorf,FDP,2.0,,0.0,2014.0,BB,15732,12061444.0,,Freie Demokratische Partei,61444.0
-293,Schulzendorf,NPD,1.0,,0.0,2014.0,BB,15732,12061444.0,,Nationaldemokratische Partei Deutschlands,61444.0
-294,Schulzendorf,Grüne/B90,3.0,,1.0,2014.0,BB,15732,12061444.0,,Bündnis 90 / Die Grünen,61444.0
+294,Schulzendorf,GRÜNE,3.0,,1.0,2014.0,BB,15732,12061444.0,,Bündnis 90 / Die Grünen,61444.0
 295,Schulzendorf,SPD,8,,2,2019.0,BB,15732,12061444.0,,Sozialdemokratische Partei Deutschlands,61444.0
 296,Schulzendorf,CDU,5,,1,2019.0,BB,15732,12061444.0,,Christlich Demokratische Union Deutschlands,61444.0
 297,Schulzendorf,DIE LINKE,7,,3,2019.0,BB,15732,12061444.0,,DIE LINKE,61444.0
@@ -17155,21 +17127,19 @@ basisdemokratische Initiative",60181.0
 299,Schulzendorf,GRÜNE,6,,3,2019.0,BB,15732,12061444.0,,BÜNDNIS 90/DIE GRÜNEN,61444.0
 300,Schulzendorf,FDP,1,,0,2019.0,BB,15732,12061444.0,,Freie Demokratische Partei ,61444.0
 301,Wildau,SPD,13.0,,5.0,2014.0,BB,15745,12061540.0,,Sozialdemokratische Partei Deutschlands,61540.0
-302,Wildau,Die Linke,20.0,,7.0,2014.0,BB,15745,12061540.0,,Die Linke,61540.0
+302,Wildau,DIE LINKE,20.0,,7.0,2014.0,BB,15745,12061540.0,,Die Linke,61540.0
 303,Wildau,CDU,15.0,,4.0,2014.0,BB,15745,12061540.0,,Christlich Demokratische Union Deutschlands,61540.0
 304,Wildau,FDP,4.0,,0.0,2014.0,BB,15745,12061540.0,,Freie Demokratische Partei,61540.0
-305,Wildau,DKP,2.0,,0.0,2014.0,BB,15745,12061540.0,,Deutsche Kommunistische Partei,61540.0
 306,Wildau,SPD,12,,4.0,2019.0,BB,15745,12061540.0,,Sozialdemokratische Partei Deutschlands,61540.0
 307,Wildau,CDU,13,,2.0,2019.0,BB,15745,12061540.0,,Christlich Demokratische Union,61540.0
 308,Wildau,DIE LINKE,13,,3.0,2019.0,BB,15745,12061540.0,,DIE LINKE,61540.0
 309,Wildau,GRÜNE,2,,0.0,2019.0,BB,15745,12061540.0,,Bündinis 90/ Die Grünen ,61540.0
 310,Wildau,FDP,3,,0.0,2019.0,BB,15745,12061540.0,,Freie Demokratische Partei,61540.0
-311,Wildau,DKP,1,,1.0,2019.0,BB,15745,12061540.0,,Deutsche Kommunistische Partei,61540.0
 312,Zeuthen,SPD,14.0,,8.0,2014.0,BB,15738,12061572.0,,Sozialdemokratische Partei Deutschlands,61572.0
 313,Zeuthen,DIE LINKE,7.0,,3.0,2014.0,BB,15738,12061572.0,,DIE LINKE,61572.0
 314,Zeuthen,CDU,9.0,,1.0,2014.0,BB,15738,12061572.0,,Christlich Demokratische Partei,61572.0
 315,Zeuthen,FDP,5.0,,0.0,2014.0,BB,15738,12061572.0,,Freie Demokratische Partei,61572.0
-316,Zeuthen,GRÜNE/ B 90,7.0,,3.0,2014.0,BB,15738,12061572.0,,BÜNDNIS 90 / DIE GRÜNEN,61572.0
+316,Zeuthen,GRÜNE,7.0,,3.0,2014.0,BB,15738,12061572.0,,BÜNDNIS 90 / DIE GRÜNEN,61572.0
 317,Zeuthen,SPD,14,,6,2019.0,BB,15738,12061572.0,,Sozialdemokratische Partei Deutschlands,61572.0
 318,Zeuthen,CDU,10,,4,2019.0,BB,15738,12061572.0,,Christlich Demokratische Union Deutschlands,61572.0
 319,Zeuthen,DIE LINKE,5,,2,2019.0,BB,15738,12061572.0,,DIE LINKE,61572.0
@@ -17177,25 +17147,23 @@ basisdemokratische Initiative",60181.0
 321,Zeuthen,GRÜNE,12,,4,2019.0,BB,15738,12061572.0,,Bündnis 90/Die Grünen,61572.0
 322,Zeuthen,FDP,9,,3,2019.0,BB,15738,12061572.0,,Freie Demokratische Partei,61572.0
 323,Gross Koris,SPD,4.0,,1.0,2014.0,BB,15746,12061192.0,,Sozialdemokratische Partei Deutschlands,61192.0
-324,Gross Koris,Die Linke,2.0,,1.0,2014.0,BB,15746,12061192.0,,Die Linke,61192.0
+324,Gross Koris,DIE LINKE,2.0,,1.0,2014.0,BB,15746,12061192.0,,Die Linke,61192.0
 325,Gross Koris,CDU,4.0,,1.0,2014.0,BB,15746,12061192.0,,Christlich demokratische Union ,61192.0
 326,Gross Koris,FDP,1.0,,0.0,2014.0,BB,15746,12061192.0,,Freie demokratische Partei,61192.0
 327,Gross Koris,AfD,1.0,,1.0,2014.0,BB,15746,12061192.0,,Alternative für Deutschland,61192.0
 328,Gross Koris,SPD,4,,3,2019.0,BB,15746,12061192.0,,Sozialdemokratische Partei Deutschlands,61192.0
 329,Gross Koris,CDU,2,,2,2019.0,BB,15746,12061192.0,,Christlich Demokratische Union Deutschlands,61192.0
-330,Gross Koris,Die Linke,2,,2,2019.0,BB,15746,12061192.0,,Die Linke. Landesverband Brandenburg,61192.0
+330,Gross Koris,DIE LINKE,2,,2,2019.0,BB,15746,12061192.0,,Die Linke. Landesverband Brandenburg,61192.0
 331,Gross Koris,FDP,3,,0,2019.0,BB,15746,12061192.0,,Freie Demokrtische Partei ,61192.0
-332,Halbe,Die Linke,6.0,,1.0,2014.0,BB,15757,12061216.0,,Die Linke,61216.0
+332,Halbe,DIE LINKE,6.0,,1.0,2014.0,BB,15757,12061216.0,,Die Linke,61216.0
 333,Halbe,FDP,1.0,,0.0,2014.0,BB,15757,12061216.0,,Freie demokratische Partei ,61216.0
-334,Halbe,NPD,1.0,,0.0,2014.0,BB,15757,12061216.0,,Nationaldemokratische Partei deutschlands,61216.0
-335,Halbe,Die Linke,5,,0,2019.0,BB,15757,12061216.0,,Die Linke. Landesverband Brandenburg,61216.0
-336,Halbe,Grüne/B90,2,,0,2019.0,BB,15757,12061216.0,,Bündnis 90/Die Grünen,61216.0
+335,Halbe,DIE LINKE,5,,0,2019.0,BB,15757,12061216.0,,Die Linke. Landesverband Brandenburg,61216.0
+336,Halbe,GRÜNE,2,,0,2019.0,BB,15757,12061216.0,,Bündnis 90/Die Grünen,61216.0
 337,Halbe,FDP,1,,0,2019.0,BB,15757,12061216.0,,Freie Demokratische Partei ,61216.0
 338,Markisch Buchholz,SPD,1.0,,1.0,2014.0,BB,15748,12061328.0,,Sozialdemokratische Partei Deutschlands,61328.0
 339,Markisch Buchholz,FDP,1.0,,0.0,2014.0,BB,15748,12061328.0,,Freie demokratische Partei,61328.0
-340,Markisch Buchholz,NPD,2.0,,0.0,2014.0,BB,15748,12061328.0,,Nationaldemokratische Partei deutschlands,61328.0
 341,Markisch Buchholz,SPD,1,,1,2019.0,BB,15748,12061328.0,,Sozialdemokratische Partei Deutschlands,61328.0
-342,Munchehofe,Die Linke,1.0,,0.0,2014.0,BB,15748,12061344.0,,Die Linke,61344.0
+342,Munchehofe,DIE LINKE,1.0,,0.0,2014.0,BB,15748,12061344.0,,Die Linke,61344.0
 343,Munchehofe,SPD,2,,0,2019.0,BB,15748,12061344.0,,Sozialdemokratische Partei Deutschlands,61344.0
 344,Schwerin,SPD,1.0,,0.0,2014.0,BB,15755,12061448.0,,Sozialdemokratische Partei Deutschlands,61448.0
 345,Schwerin,GRÜNE,4,,3,2019.0,BB,15755,12061448.0,,BÜNDNIS 90/DIE GRÜNEN,61448.0
@@ -17203,7 +17171,6 @@ basisdemokratische Initiative",60181.0
 347,Teupitz,CDU,1,,0,2019.0,BB,15755,12061492.0,,Christlich Demokratische Union Deutschlands,61492.0
 348,Byhleguhre-Byhlen,DIE LINKE,1.0,,1.0,2014.0,BB,15913,12061061.0,,DIE LINKE,61061.0
 349,Lieberose,DIE LINKE,6.0,,3.0,2014.0,BB,15868,12061308.0,,DIE LINKE,61308.0
-350,Lieberose,PIRATEN,1.0,,0.0,2014.0,BB,15868,12061308.0,,Piratenpartei Deutschland,61308.0
 351,Lieberose,DIE LINKE,5,,2,2019.0,BB,15868,12061308.0,,DIE LINKE,61308.0
 352,Neu Zauche,DIE LINKE,1.0,,0.0,2014.0,BB,15913,12061352.0,,DIE LINKE,61352.0
 353,Spreewaldheide,FDP,1.0,,1.0,2014.0,BB,15913,12061470.0,,Freie Demokratische Partei,61470.0
@@ -17211,7 +17178,7 @@ basisdemokratische Initiative",60181.0
 355,Spreewaldheide,AfD,1,,0,2019.0,BB,15913,12061470.0,,Alternative für Deutschland ,61470.0
 356,Straupitz,FDP,1.0,,0.0,2014.0,BB,15913,12061476.0,,Freie Demokratische Partei,61476.0
 357,Drahnsdorf,GRÜNE,2.0,,1.0,2014.0,BB,15938,12061097.0,,BÜNDNIS 90/DIE GRÜNEN,61097.0
-358,Drahnsdorf,GRÜNE/B90,1,,1,2019.0,BB,15938,12061097.0,,BÜNDNIS90/DIE GRÜNEN,61097.0
+358,Drahnsdorf,GRÜNE,1,,1,2019.0,BB,15938,12061097.0,,BÜNDNIS90/DIE GRÜNEN,61097.0
 359,Golssen,SPD,15.0,,4.0,2014.0,BB,15938,12061164.0,,Sozialdemokratische Partei Deutschlands,61164.0
 360,Golssen,DIE LINKE,10.0,,0.0,2014.0,BB,15938,12061164.0,,DIE LINKE,61164.0
 361,Golssen,CDU,10.0,,1.0,2014.0,BB,15938,12061164.0,,Christlich Demokratische Union Deutschlands,61164.0
@@ -17220,7 +17187,6 @@ basisdemokratische Initiative",60181.0
 364,Golssen,AfD,5,,1,2019.0,BB,15938,12061164.0,,Alternative für Deutschland,61164.0
 365,Kasel-Golzig,CDU,1.0,,0.0,2014.0,BB,15938,12061244.0,,Christlich Demokratische Union Deutschlands,61244.0
 366,Bersteland,CDU,8.0,,1.0,2014.0,BB,15910,12061017.0,,Christlich Demokratische Union Deutschlands,61017.0
-367,Bersteland,REP,1.0,,0.0,2014.0,BB,15910,12061017.0,,DIE REPUBLIKANER,61017.0
 368,Bersteland,CDU,1,,0,2019.0,BB,15910,12061017.0,,Christlich Demokratische Union Deutschlands,61017.0
 369,Krausnick-Gross Wasserburg,CDU,2.0,,0.0,2014.0,BB,15910,12061265.0,,Christlich Demokratische Union Deutschlands,61265.0
 370,Krausnick-Gross Wasserburg,CDU,1,,0,2019.0,BB,15910,12061265.0,,Christlich Demokratische Union Deutschlands,61265.0
@@ -17239,7 +17205,7 @@ basisdemokratische Initiative",60181.0
 383,Bad Liebenwerda,SPD,7,,1,2019.0,BB,4924,12062024.0,,Sozialdemokratische Partei Deutschlands,62024.0
 384,Bad Liebenwerda,FDP,8,,3,2019.0,BB,4924,12062024.0,,Freie Demokratische Partei ,62024.0
 385,Bad Liebenwerda,AfD,2,,0,2019.0,BB,4924,12062024.0,,Alternative für Deutschland,62024.0
-386,Bad Liebenwerda,Grüne/B 90,1,,1,2019.0,BB,4924,12062024.0,,BÜNDNIS 90/DIE GRÜNEN,62024.0
+386,Bad Liebenwerda,GRÜNE,1,,1,2019.0,BB,4924,12062024.0,,BÜNDNIS 90/DIE GRÜNEN,62024.0
 387,Doberlug-Kirchhain,CDU,15.0,,0.0,2014.0,BB,3253,12062092.0,,Christlich Demokratische Union Deutschlands,62092.0
 388,Doberlug-Kirchhain,SPD,10.0,,1.0,2014.0,BB,3253,12062092.0,,Sozialdemokratische Partei Deutschlands,62092.0
 389,Doberlug-Kirchhain,DIE LINKE,10.0,,3.0,2014.0,BB,3253,12062092.0,,DIE LINKE,62092.0
@@ -17253,10 +17219,8 @@ basisdemokratische Initiative",60181.0
 397,Elsterwerda,CDU,11.0,,5.0,2014.0,BB,4910,12062124.0,,Christlich Demokratische Union Deutschlands,62124.0
 398,Elsterwerda,SPD,16.0,,1.0,2014.0,BB,4910,12062124.0,,Sozialdemokratische Partei Deutschlands,62124.0
 399,Elsterwerda,DIE LINKE,6.0,,1.0,2014.0,BB,4910,12062124.0,,DIE LINKE,62124.0
-400,Elsterwerda,Grüne/B 90,1.0,,1.0,2014.0,BB,4910,12062124.0,,Bündnis 90/Die Grünen,62124.0
+400,Elsterwerda,GRÜNE,1.0,,1.0,2014.0,BB,4910,12062124.0,,Bündnis 90/Die Grünen,62124.0
 401,Elsterwerda,AfD,2.0,,0.0,2014.0,BB,4910,12062124.0,,Alternative für Deutschland,62124.0
-402,Elsterwerda,DKP,1.0,,0.0,2014.0,BB,4910,12062124.0,,Deutsche Kommunistische Partei,62124.0
-403,Elsterwerda,PIRATEN,1.0,,1.0,2014.0,BB,4910,12062124.0,,Piratenpartei Deutschland,62124.0
 404,Elsterwerda,CDU,18,,7,2019.0,BB,4910,12062124.0,,Christliche Demokratische Union Deutschlands,62124.0
 405,Elsterwerda,DIE LINKE,7,,1,2019.0,BB,4910,12062124.0,,DIE LINKE,62124.0
 406,Elsterwerda,SPD,9,,2,2019.0,BB,4910,12062124.0,,Sozialdemokratische Partei Deutschlands,62124.0
@@ -17270,17 +17234,17 @@ basisdemokratische Initiative",60181.0
 414,Falkenberg (Elster),DIE LINKE,2,,2,2019.0,BB,4895,12062128.0,,DIE LINKE,62128.0
 415,Falkenberg (Elster),SPD,12,,1,2019.0,BB,4895,12062128.0,,Sozialdemokratische Partei Deutschlands,62128.0
 416,Falkenberg (Elster),FDP,5,,1,2019.0,BB,4895,12062128.0,,Freie Demokratische Partei,62128.0
-417,Falkenberg (Elster),Grüne/B90,1,,0,2019.0,BB,4895,12062128.0,,Bündnis 90/DIE GRÜNEN,62128.0
+417,Falkenberg (Elster),GRÜNE,1,,0,2019.0,BB,4895,12062128.0,,Bündnis 90/DIE GRÜNEN,62128.0
 418,Finsterwalde,CDU,26.0,,6.0,2014.0,BB,3238,12062140.0,,Christlich Demokratische Union Deutschlands,62140.0
 419,Finsterwalde,SPD,13.0,,3.0,2014.0,BB,3238,12062140.0,,Sozialdemokratische Partei Deutschlands,62140.0
 420,Finsterwalde,DIE LINKE,17.0,,7.0,2014.0,BB,3238,12062140.0,,DIE LINKE,62140.0
 421,Finsterwalde,FDP,5.0,,1.0,2014.0,BB,3238,12062140.0,,Freie Demokratische Partei,62140.0
-422,Finsterwalde,GRÜNE/B90,1.0,,0.0,2014.0,BB,3238,12062140.0,,BÜNDNIS 90/DIE GRÜNEN,62140.0
+422,Finsterwalde,GRÜNE,1.0,,0.0,2014.0,BB,3238,12062140.0,,BÜNDNIS 90/DIE GRÜNEN,62140.0
 423,Finsterwalde,CDU,31,,7,2019.0,BB,3238,12062140.0,,Christlich Demokratische Union Deutschlands,62140.0
-424,Finsterwalde,Die Linke,16,,6,2019.0,BB,3238,12062140.0,,Die Linke,62140.0
+424,Finsterwalde,DIE LINKE,16,,6,2019.0,BB,3238,12062140.0,,Die Linke,62140.0
 425,Finsterwalde,SPD,11,,3,2019.0,BB,3238,12062140.0,,Sozialdemokratische Partei Deutschlands,62140.0
 426,Finsterwalde,AfD,5,,0,2019.0,BB,3238,12062140.0,,Alternative für Deutschland,62140.0
-427,Finsterwalde,Grüne/B 90,2,,0,2019.0,BB,3238,12062140.0,,Bündnis 90/ Die Grünen,62140.0
+427,Finsterwalde,GRÜNE,2,,0,2019.0,BB,3238,12062140.0,,Bündnis 90/ Die Grünen,62140.0
 428,Herzberg(Elster),CDU,23.0,,6.0,2014.0,BB,4916,12062224.0,,Christlich Demokratische Union Deutschlands,62224.0
 429,Herzberg(Elster),SPD,9.0,,4.0,2014.0,BB,4916,12062224.0,,Sozialdemokratische Partei Deutschlands,62224.0
 430,Herzberg(Elster),DIE LINKE,10.0,,4.0,2014.0,BB,4916,12062224.0,,DIE LINKE,62224.0
@@ -17288,23 +17252,22 @@ basisdemokratische Initiative",60181.0
 432,Herzberg(Elster),CDU,8,,1,2019.0,BB,4916,12062224.0,,Christlich Demokratische Union Deutschlands,62224.0
 433,Herzberg(Elster),SPD,8,,6,2019.0,BB,4916,12062224.0,,Sozialdemokratische Partei Deutschlands,62224.0
 434,Herzberg(Elster),AfD,1,,0,2019.0,BB,4916,12062224.0,,Alternative für Deutschland ,62224.0
-435,Herzberg(Elster),NPD,1,,1,2019.0,BB,4916,12062224.0,,Nationaldemokratische Partei Deutschlands,62224.0
 436,Muhlberg(Elbe),CDU,7.0,,1.0,2014.0,BB,4931,12062341.0,,Christlich Demokratische Union Deutschlands,62341.0
 437,Muhlberg(Elbe),CDU,7,,2,2019.0,BB,4931,12062341.0,,Christlich Demokratische Union Deutschlands,62341.0
 438,Roderland,CDU,,,,2014.0,BB,4932,12062410.0,,Christilich Demokratische Union,62410.0
 439,Roderland,SPD,,,,2014.0,BB,4932,12062410.0,,Sozialdemokratische Partei Deutschland,62410.0
 440,Roderland,DIE LINKE,,,,2014.0,BB,4932,12062410.0,,DIE LINKE,62410.0
 441,Roderland,CDU,2,,0,2019.0,BB,4932,12062410.0,,Christlich Demokratische Union Deutschlands,62410.0
-442,Roderland,LINKE,2,,0,2019.0,BB,4932,12062410.0,,DIE LINKE,62410.0
+442,Roderland,DIE LINKE,2,,0,2019.0,BB,4932,12062410.0,,DIE LINKE,62410.0
 443,Roderland,SPD,4,,1,2019.0,BB,4932,12062410.0,,Sozialdemokratische Partei Deutschlands,62410.0
 444,Roderland,AfD,1,,1,2019.0,BB,4932,12062410.0,,Alternative für Deutschland,62410.0
 445,Schonewalde,CDU,4.0,,0.0,2014.0,BB,4916,12062461.0,,Christlich Demokratische Union Deutschlands,62461.0
 446,Schonewalde,DIE LINKE,5.0,,3.0,2014.0,BB,4916,12062461.0,,DIE LINKE,62461.0
-447,Schonewalde,GRÜNE/B90,1.0,,0.0,2014.0,BB,4916,12062461.0,,BÜNDNIS 90/DIE GRÜNEN,62461.0
+447,Schonewalde,GRÜNE,1.0,,0.0,2014.0,BB,4916,12062461.0,,BÜNDNIS 90/DIE GRÜNEN,62461.0
 448,Schonewalde,CDU,3,,0,2019.0,BB,4916,12062461.0,,Christiliche Demokratische Union Deutschland,62461.0
 449,Schonewalde,DIE LINKE,2,,0,2019.0,BB,4916,12062461.0,,DIE LINKE,62461.0
 450,Schonewalde,AfD,2,,1,2019.0,BB,4916,12062461.0,,Alternative für Deutschland ,62461.0
-451,Schonewalde,Grüne/B90,6,,4,2019.0,BB,4916,12062461.0,,BÜNDNIS 90/DIE GRÜNEN,62461.0
+451,Schonewalde,GRÜNE,6,,4,2019.0,BB,4916,12062461.0,,BÜNDNIS 90/DIE GRÜNEN,62461.0
 452,Sonnewalde,CDU,10.0,,5.0,2014.0,BB,3249,12062469.0,,Christlich Demokratische Union ,62469.0
 453,Sonnewalde,SPD,6.0,,0.0,2014.0,BB,3249,12062469.0,,Sozialdemokratische Partei Deutschlands,62469.0
 454,Sonnewalde,DIE LINKE,1.0,,1.0,2014.0,BB,3249,12062469.0,,DIE LINKE,62469.0
@@ -17316,7 +17279,7 @@ basisdemokratische Initiative",60181.0
 460,Uebigau-Wahrenbruck,SPD,3.0,,0.0,2014.0,BB,4938,12062500.0,,Sozialdemokratische Partei Deutschland,62500.0
 461,Uebigau-Wahrenbruck,DIE LINKE,3.0,,2.0,2014.0,BB,4938,12062500.0,,DIE LINKE,62500.0
 462,Uebigau-Wahrenbruck,FDP,6.0,,0.0,2014.0,BB,4938,12062500.0,,Freie Demokratische Partei,62500.0
-463,Uebigau-Wahrenbruck,GRÜNE/B90,2.0,,0.0,2014.0,BB,4938,12062500.0,,BÜNDNIS 90/DIE GRÜNEN,62500.0
+463,Uebigau-Wahrenbruck,GRÜNE,2.0,,0.0,2014.0,BB,4938,12062500.0,,BÜNDNIS 90/DIE GRÜNEN,62500.0
 464,Uebigau-Wahrenbruck,CDU,14,,4,2019.0,BB,4938,12062500.0,,Christlich Demokratische Union Deutschland,62500.0
 465,Uebigau-Wahrenbruck,DIE LINKE,9,,6,2019.0,BB,4938,12062500.0,,DIE LINKE,62500.0
 466,Uebigau-Wahrenbruck,FDP,8,,1,2019.0,BB,4938,12062500.0,,Freie Demokratische Partei ,62500.0
@@ -17338,7 +17301,7 @@ basisdemokratische Initiative",60181.0
 482,Crinitz,CDU,4.0,,0.0,2014.0,BB,3246,12062088.0,,Christlich Demokratische Union Deutschlands,62088.0
 483,Crinitz,DIE LINKE,1.0,,0.0,2014.0,BB,3246,12062088.0,,DIE LINKE,62088.0
 484,Crinitz,CDU,6,,1,2019.0,BB,3246,12062088.0,,Cristlich Demokratische Union Deutschlands,62088.0
-485,Crinitz,Die LINKE,2,,0,2019.0,BB,3246,12062088.0,,Die LINKE,62088.0
+485,Crinitz,DIE LINKE,2,,0,2019.0,BB,3246,12062088.0,,Die LINKE,62088.0
 486,Massen-Niederlausitz,CDU,9.0,,1.0,2014.0,BB,3238,12062333.0,,Christlich Demokratische Union Deutschlands,62333.0
 487,Massen-Niederlausitz,SPD,5.0,,3.0,2014.0,BB,3238,12062333.0,,Sozialdemokratische Partei Deutschlands,62333.0
 488,Massen-Niederlausitz,DIE LINKE,1.0,,0.0,2014.0,BB,3238,12062333.0,,DIE LINKE,62333.0
@@ -17354,7 +17317,7 @@ basisdemokratische Initiative",60181.0
 498,Hohenleipisch,CDU,11.0,,2.0,2014.0,BB,4934,12062240.0,,Christlich Demokratische Union Deutschlands,62240.0
 499,Hohenleipisch,SPD,5.0,,0.0,2014.0,BB,4934,12062240.0,,Sozialdemokratische Partei Deutschlands,62240.0
 500,Hohenleipisch,CDU,7,,1,2019.0,BB,4934,12062240.0,,Christlich Demokratische Union,62240.0
-501,Hohenleipisch,LINKE,1,,0,2019.0,BB,4934,12062240.0,,DIE LINKE,62240.0
+501,Hohenleipisch,DIE LINKE,1,,0,2019.0,BB,4934,12062240.0,,DIE LINKE,62240.0
 502,Hohenleipisch,SPD,9,,2,2019.0,BB,4934,12062240.0,,Sozialdemokratische Partei Deutschlands,62240.0
 503,Hohenleipisch,AfD,1,,0,2019.0,BB,4934,12062240.0,,Alternative für Deutschland,62240.0
 504,Plessa,CDU,11.0,,3.0,2014.0,BB,4928,12062372.0,,Christlich Demokratische Union Deutschlands,62372.0
@@ -17378,15 +17341,13 @@ basisdemokratische Initiative",60181.0
 522,Grossthiemig,CDU,1.0,,0.0,2014.0,BB,4932,12062208.0,,Christlich Demokratische Union Deutschlands,62208.0
 523,Grossthiemig,CDU,1,,0,2019.0,BB,4932,12062208.0,,Christlich Demokratische Union,62208.0
 524,Hirschfeld,CDU,1.0,,0.0,2014.0,BB,4932,12062232.0,,Christlich Demokratische Union Deutschlands,62232.0
-525,Hirschfeld,LINKE,1,,0,2019.0,BB,4932,12062232.0,,Die Linke,62232.0
-526,Hirschfeld,NPD,1,,0,2019.0,BB,4932,12062232.0,,Nationaldemokratische Partei Deutschlands,62232.0
+525,Hirschfeld,DIE LINKE,1,,0,2019.0,BB,4932,12062232.0,,Die Linke,62232.0
 527,Merzdorf,CDU,6.0,,1.0,2014.0,BB,4932,12062336.0,,Christlich Demokratische Union Deutschlands,62336.0
 528,Merzdorf,CDU,5,,0,2019.0,BB,4932,12062336.0,,Christlich Demokratische Union ,62336.0
 529,Brieselang,SPD,11.0,,4.0,2014.0,BB,14656,12063036.0,,Sozialdemokratische Partei Deutschlands,63036.0
 530,Brieselang,CDU,8.0,,1.0,2014.0,BB,14656,12063036.0,,Christlich Demokratische Union Deutschlands,63036.0
 531,Brieselang,DIE LINKE,6.0,,3.0,2014.0,BB,14656,12063036.0,,DIE LINKE ,63036.0
 532,Brieselang,GRÜNE,5.0,,3.0,2014.0,BB,14656,12063036.0,,BÜNDNIS 90/DIE GRÜNEN,63036.0
-533,Brieselang,NPD,1.0,,0.0,2014.0,BB,14656,12063036.0,,Nationaldemokratische Partei Deutschlands,63036.0
 534,Brieselang,SPD,11,,4,2019.0,BB,14656,12063036.0,,Sozialdemokratische Partei Deutschlands,63036.0
 535,Brieselang,CDU,14,,5,2019.0,BB,14656,12063036.0,,Christlich Demokratische Union Deutschlands,63036.0
 536,Brieselang,DIE LINKE,7,,3,2019.0,BB,14656,12063036.0,,DIE LINKE,63036.0
@@ -17422,7 +17383,7 @@ basisdemokratische Initiative",60181.0
 566,Ketzin,SPD,11,,3,2019.0,BB,14669,12063148.0,,Sozialdemokratische Partei Deutschlands,63148.0
 567,Ketzin,CDU,8,,4,2019.0,BB,14669,12063148.0,,Christlich Demokratische Union Deutschlands,63148.0
 568,Ketzin,DIE LINKE,4,,2,2019.0,BB,14669,12063148.0,,DIE LINKE,63148.0
-569,Ketzin,GRÜNE/B90,7,,4,2019.0,BB,14669,12063148.0,,BÜNDNIS 90/Die GRÜNEN,63148.0
+569,Ketzin,GRÜNE,7,,4,2019.0,BB,14669,12063148.0,,BÜNDNIS 90/Die GRÜNEN,63148.0
 570,Ketzin,FDP,5,,0,2019.0,BB,14669,12063148.0,,Freie Demokratische Partei,63148.0
 571,Milower Land,SPD,9.0,,1.0,2014.0,BB,14715,12063189.0,,Sozialdemokratische Partei Deutschlands,63189.0
 572,Milower Land,CDU,24.0,,8.0,2014.0,BB,14715,12063189.0,,Christlich Demokratische Union Deutschlands,63189.0
@@ -17433,11 +17394,10 @@ basisdemokratische Initiative",60181.0
 577,Nauen,SPD,19.0,,0.0,2014.0,BB,,,,Sozialdemokratische Partei Deutschlands,13208.0
 578,Nauen,CDU,8.0,,1.0,2014.0,BB,,,,Christlich Demokratische Union Deutschlands,13208.0
 579,Nauen,DIE LINKE,8.0,,3.0,2014.0,BB,,,,DIE LINKE,13208.0
-580,Nauen,NPD,2.0,,0.0,2014.0,BB,,,,Nationaldemokratische Partei Deutschlands,13208.0
 581,Nauen,SPD,15,,2,2019.0,BB,,,,Sozialdemokratische Partei Deutschlands,13208.0
 582,Nauen,CDU,13,,3,2019.0,BB,,,,Christlich Demokratische Union Deutschlands ,13208.0
 583,Nauen,DIE LINKE,5,,2,2019.0,BB,,,,DIE LINKE,13208.0
-584,Nauen,GRÜNE/B90,2,,1,2019.0,BB,,,,BÜNDNIS 90/DIE GRÜNEN,13208.0
+584,Nauen,GRÜNE,2,,1,2019.0,BB,,,,BÜNDNIS 90/DIE GRÜNEN,13208.0
 585,Nauen,AfD,6,,0,2019.0,BB,,,,Alternative für Deutschland,13208.0
 586,Nauen,FDP,1,,0,2019.0,BB,,,,Freie Demokratische Partei,13208.0
 587,Premnitz,SPD,12.0,,3.0,2014.0,BB,14727,12063244.0,,Sozialdemokratische Partei Deutschlands,63244.0
@@ -17455,27 +17415,21 @@ basisdemokratische Initiative",60181.0
 599,Rathenow,DIE LINKE,22.0,,5.0,2014.0,BB,14712,12063252.0,,DIE LINKE,63252.0
 600,Rathenow,FDP,20.0,,1.0,2014.0,BB,14712,12063252.0,,Freie Demokratische Partei,63252.0
 601,Rathenow,GRÜNE,1.0,,0.0,2014.0,BB,14712,12063252.0,,BÜNDNIS 90/DIE GRÜNEN,63252.0
-602,Rathenow,NPD,2.0,,0.0,2014.0,BB,14712,12063252.0,,Nationaldemokratische Partei Deutschlands,63252.0
 603,Rathenow,SPD,22,,6,2019.0,BB,14712,12063252.0,,Sozialdemokratische Partei Deutschlands,63252.0
 604,Rathenow,CDU,42,,15,2019.0,BB,14712,12063252.0,,Christlich Demokratische Union Deutschlands,63252.0
 605,Rathenow,DIE LINKE,22,,7,2019.0,BB,14712,12063252.0,,DIE LINKE,63252.0
 606,Rathenow,GRÜNE,2,,0,2019.0,BB,14712,12063252.0,,BÜNDNIS 90/ DIE GRÜNEN,63252.0
 607,Rathenow,AfD,4,,1,2019.0,BB,14712,12063252.0,,Alternative für Deutschland,63252.0
 608,Rathenow,FDP,15,,1,2019.0,BB,14712,12063252.0,,Freie Demokratische Partei,63252.0
-609,Rathenow,NPD,1,,0,2019.0,BB,14712,12063252.0,,Nationaldemokratische Partei Deutschlands,63252.0
-610,Schonwalde-Glien,SPD ,22.0,,7.0,2014.0,BB,14621,12063273.0,,Sozialdemokratische Partei Deutschlands ,63273.0
-611,Schonwalde-Glien,CDU ,27.0,,6.0,2014.0,BB,14621,12063273.0,,Christlich Demokratische Union Deutschlands,63273.0
-612,Schonwalde-Glien,DIE LINKE ,11.0,,5.0,2014.0,BB,14621,12063273.0,,DIE LINKE ,63273.0
+610,Schonwalde-Glien,SPD,22.0,,7.0,2014.0,BB,14621,12063273.0,,Sozialdemokratische Partei Deutschlands ,63273.0
+611,Schonwalde-Glien,CDU,27.0,,6.0,2014.0,BB,14621,12063273.0,,Christlich Demokratische Union Deutschlands,63273.0
+612,Schonwalde-Glien,DIE LINKE,11.0,,5.0,2014.0,BB,14621,12063273.0,,DIE LINKE ,63273.0
 613,Schonwalde-Glien,GRÜNE,2.0,,0.0,2014.0,BB,14621,12063273.0,,BÜNDNIS 90/DIE GRÜNEN,63273.0
-614,Schonwalde-Glien,NPD ,1.0,,0.0,2014.0,BB,14621,12063273.0,,Nationaldemokratische Partei Deutschlands ,63273.0
-615,Schonwalde-Glien,FAMILIE,5.0,,3.0,2014.0,BB,14621,12063273.0,,Familien-Partei Deutschlands,63273.0
 616,Schonwalde-Glien,SPD,12,,4,2019.0,BB,14621,12063273.0,,Sozialdemokratische Partei Deutschlands ,63273.0
 617,Schonwalde-Glien,CDU,27,,4,2019.0,BB,14621,12063273.0,,Christlich Demokratische Union Deutschlands ,63273.0
 618,Schonwalde-Glien,DIE LINKE,5,,1,2019.0,BB,14621,12063273.0,,DIE LINKE ,63273.0
 619,Schonwalde-Glien,GRÜNE,7,,4,2019.0,BB,14621,12063273.0,,BÜNDNIS 90/DIE GRÜNEN ,63273.0
-620,Schonwalde-Glien,AfD ,11,,4,2019.0,BB,14621,12063273.0,,Alternative für Deutschland ,63273.0
-621,Schonwalde-Glien,NPD ,1,,0,2019.0,BB,14621,12063273.0,,Nationaldemokratische Partei Deutschlands,63273.0
-622,Schonwalde-Glien,FAMILIE,6,,3,2019.0,BB,14621,12063273.0,,Familien-Partei Deutschlands ,63273.0
+620,Schonwalde-Glien,AfD,11,,4,2019.0,BB,14621,12063273.0,,Alternative für Deutschland ,63273.0
 623,Wustermark,SPD,16.0,,4.0,2014.0,BB,14641,12063357.0,,Sozialdemokratische Partei Deutschlands,63357.0
 624,Wustermark,CDU,20.0,,4.0,2014.0,BB,14641,12063357.0,,Christlich Demokratische Union Deutschlands,63357.0
 625,Wustermark,DIE LINKE,10.0,,5.0,2014.0,BB,14641,12063357.0,,DIE LINKE,63357.0
@@ -17498,7 +17452,7 @@ basisdemokratische Initiative",60181.0
 642,Paulineaue,SPD,5,,2,2019.0,BB,14641,12063228.0,,Sozialdemokratische Partei Deutschlands,63228.0
 643,Paulineaue,DIE LINKE,2,,1,2019.0,BB,14641,12063228.0,,DIE LINKE,63228.0
 644,Markisch Luch,CDU,2.0,,1.0,2014.0,BB,14715,12063186.0,,Christlich Demokratische Union Deutschlands,63186.0
-645,Nennhausen,FDP ,1.0,,0.0,2014.0,BB,14715,12063212.0,,Freie Demokratische Partei,63212.0
+645,Nennhausen,FDP,1.0,,0.0,2014.0,BB,14715,12063212.0,,Freie Demokratische Partei,63212.0
 646,Gollenberg,SPD,6.0,,1.0,2014.0,BB,14728,12063094.0,,Sozialdemokratische Partei Deutschlands,63094.0
 647,Gollenberg,FDP,10.0,,7.0,2014.0,BB,14728,12063094.0,,Freie Demokratische Partei,63094.0
 648,Gollenberg,SPD,2,,0,2019.0,BB,14728,12063094.0,,Sozialdemokratische Partei Deutschlands,63094.0
@@ -17535,22 +17489,21 @@ basisdemokratische Initiative",60181.0
 679,Altlandsberg,DIE LINKE,16.0,,5.0,2014.0,BB,15345,12064029.0,,DIE LINKE,64029.0
 680,Altlandsberg,SPD,14.0,,2.0,2014.0,BB,15345,12064029.0,,Sozialdemokratische Partei Deutschlands,64029.0
 681,Altlandsberg,CDU,15.0,,1.0,2014.0,BB,15345,12064029.0,,Christlich Demokratische Union Deutschlands,64029.0
-682,Altlandsberg,Die Linke,12.0,,3.0,2019.0,BB,15345,12064029.0,,Die Linke,64029.0
+682,Altlandsberg,DIE LINKE,12.0,,3.0,2019.0,BB,15345,12064029.0,,Die Linke,64029.0
 683,Altlandsberg,SPD,11.0,,2.0,2019.0,BB,15345,12064029.0,,Sozialdemokratische Partei Deutschlands,64029.0
 684,Altlandsberg,CDU,12.0,,1.0,2019.0,BB,15345,12064029.0,,Christlich Demokratische Union Deutschlands,64029.0
 685,Altlandsberg,AfD,2.0,,0.0,2019.0,BB,15345,12064029.0,,Alternative für Deutschland,64029.0
-686,Bad Freienwalde (Oder),DIE LINKE ,11.0,,5.0,2014.0,BB,16259,12064044.0,,DIE LINKE ,64044.0
+686,Bad Freienwalde (Oder),DIE LINKE,11.0,,5.0,2014.0,BB,16259,12064044.0,,DIE LINKE ,64044.0
 687,Bad Freienwalde (Oder),SPD,11.0,,1.0,2014.0,BB,16259,12064044.0,,Sozialdemokratische Partei Deutschland ,64044.0
-688,Bad Freienwalde (Oder),CDU ,18.0,,3.0,2014.0,BB,16259,12064044.0,,Christlich Demokratische Union Deutschlands ,64044.0
+688,Bad Freienwalde (Oder),CDU,18.0,,3.0,2014.0,BB,16259,12064044.0,,Christlich Demokratische Union Deutschlands ,64044.0
 689,Bad Freienwalde (Oder),GRÜNE,2.0,,0.0,2014.0,BB,16259,12064044.0,,BÜNDNIS 90/DIE GRÜNEN ,64044.0
 690,Bad Freienwalde (Oder),DIE LINKE,11.0,,5.0,2019.0,BB,16259,12064044.0,,DIE LINKE ,64044.0
-691,Bad Freienwalde (Oder),SPD ,8.0,,2.0,2019.0,BB,16259,12064044.0,,Sozialdemokratische Partei Deutschlands ,64044.0
-692,Bad Freienwalde (Oder),CDU ,16.0,,2.0,2019.0,BB,16259,12064044.0,,Christlich  Demokratische Union Deutschlands ,64044.0
+691,Bad Freienwalde (Oder),SPD,8.0,,2.0,2019.0,BB,16259,12064044.0,,Sozialdemokratische Partei Deutschlands ,64044.0
+692,Bad Freienwalde (Oder),CDU,16.0,,2.0,2019.0,BB,16259,12064044.0,,Christlich  Demokratische Union Deutschlands ,64044.0
 693,Bad Freienwalde (Oder),AfD,4.0,,0.0,2019.0,BB,16259,12064044.0,,Alternative für Deutschland ,64044.0
 694,Bad Freienwalde (Oder),GRÜNE,3.0,,1.0,2019.0,BB,16259,12064044.0,,BÜNDNIS 90/DIE GRÜNEN,64044.0
 695,Bad Freienwalde (Oder),FDP,10.0,,2.0,2019.0,BB,16259,12064044.0,,Freie Demokratische Partei ,64044.0
-696,Bad Freienwalde (Oder),NPD,3.0,,0.0,2019.0,BB,16259,12064044.0,,Nationaldemokratische Partei Deutschlands ,64044.0
-697,Fredersdorf-Vogelsdorf,Die Linke,13.0,,7.0,2014.0,BB,15370,12064136.0,,Die Linke,64136.0
+697,Fredersdorf-Vogelsdorf,DIE LINKE,13.0,,7.0,2014.0,BB,15370,12064136.0,,Die Linke,64136.0
 698,Fredersdorf-Vogelsdorf,SPD,12.0,,3.0,2014.0,BB,15370,12064136.0,,Sozialdemokratische Partei Deutschlands,64136.0
 699,Fredersdorf-Vogelsdorf,CDU,15.0,,3.0,2014.0,BB,15370,12064136.0,,Christlich Demokratische Union Deutschlands,64136.0
 700,Fredersdorf-Vogelsdorf,FDP,3.0,,1.0,2014.0,BB,15370,12064136.0,,Freie Demokratische Partei,64136.0
@@ -17559,18 +17512,18 @@ basisdemokratische Initiative",60181.0
 703,Fredersdorf-Vogelsdorf,SPD,6.0,,3.0,2019.0,BB,15370,12064136.0,,Sozialdemokratische Partei Deutschlands ,64136.0
 704,Fredersdorf-Vogelsdorf,CDU,16.0,,4.0,2019.0,BB,15370,12064136.0,,Christlich Demokratische Union Deutschlands ,64136.0
 705,Fredersdorf-Vogelsdorf,AfD,6.0,,1.0,2019.0,BB,15370,12064136.0,,Alternative für Deutschland ,64136.0
-706,Fredersdorf-Vogelsdorf,GRÜNE B/90,2.0,,0.0,2019.0,BB,15370,12064136.0,,BÜNDNIS 90/DIE GRÜNEN,64136.0
+706,Fredersdorf-Vogelsdorf,GRÜNE,2.0,,0.0,2019.0,BB,15370,12064136.0,,BÜNDNIS 90/DIE GRÜNEN,64136.0
 707,Fredersdorf-Vogelsdorf,FDP,3.0,,0.0,2019.0,BB,15370,12064136.0,,Freie Demokratische Partei ,64136.0
 708,Hoppegarten,DIE LINKE,12.0,,6.0,2014.0,BB,15366,12064227.0,,DIE LINKE,64227.0
 709,Hoppegarten,SPD,13.0,,4.0,2014.0,BB,15366,12064227.0,,Sozialdemokratische Partei Deutschlands,64227.0
 710,Hoppegarten,CDU,15.0,,3.0,2014.0,BB,15366,12064227.0,,Christlich Demokratische Union Deutschlands,64227.0
 711,Hoppegarten,FDP,7.0,,1.0,2014.0,BB,15366,12064227.0,,Freie Demokratische Partei,64227.0
-712,Hoppegarten,Grüne / B90,3.0,,0.0,2014.0,BB,15366,12064227.0,,BÜNDNIS 90 / DIE GRÜNEN,64227.0
+712,Hoppegarten,GRÜNE,3.0,,0.0,2014.0,BB,15366,12064227.0,,BÜNDNIS 90 / DIE GRÜNEN,64227.0
 713,Hoppegarten,DIE LINKE,13.0,,7.0,2019.0,BB,15366,12064227.0,,DIE LINKE,64227.0
 714,Hoppegarten,SPD,15.0,,7.0,2019.0,BB,15366,12064227.0,,Sozialdemokratische Partei Deutschlands ,64227.0
 715,Hoppegarten,CDU,17.0,,4.0,2019.0,BB,15366,12064227.0,,Christlich Demokratische Union Deutschlands,64227.0
 716,Hoppegarten,AfD,4.0,,1.0,2019.0,BB,15366,12064227.0,,Alternative für Deutschland,64227.0
-717,Hoppegarten,GRÜNE / B90,6.0,,3.0,2019.0,BB,15366,12064227.0,,BÜNDNIS 90 / DIE GRÜNEN,64227.0
+717,Hoppegarten,GRÜNE,6.0,,3.0,2019.0,BB,15366,12064227.0,,BÜNDNIS 90 / DIE GRÜNEN,64227.0
 718,Hoppegarten,FDP,6.0,,3.0,2019.0,BB,15366,12064227.0,,Freie Demokratische Partei,64227.0
 719,Letschin,DIE LINKE,3.0,,0.0,2014.0,BB,15324,12064274.0,,DIE LINKE,64274.0
 720,Letschin,SPD,13.0,,5.0,2014.0,BB,15324,12064274.0,,Sozialdemokratische Partei Deutschlands,64274.0
@@ -17590,18 +17543,18 @@ basisdemokratische Initiative",60181.0
 734,Neuenhagen bei Berlin,SPD,8.0,,1.0,2014.0,BB,15366,12064336.0,,Sozialdemokratische Partei Deutschlands,64336.0
 735,Neuenhagen bei Berlin,CDU,14.0,,5.0,2014.0,BB,15366,12064336.0,,Christlich Demokratische Union Deutschlands,64336.0
 736,Neuenhagen bei Berlin,FDP,7.0,,2.0,2014.0,BB,15366,12064336.0,,Freie Demokratische Partei,64336.0
-737,Neuenhagen bei Berlin,GRÜNE/B90,10.0,,4.0,2014.0,BB,15366,12064336.0,,BÜNDNIS 90/DIE GRÜNEN,64336.0
+737,Neuenhagen bei Berlin,GRÜNE,10.0,,4.0,2014.0,BB,15366,12064336.0,,BÜNDNIS 90/DIE GRÜNEN,64336.0
 738,Neuenhagen bei Berlin,DIE LINKE,9,,4,2019.0,BB,15366,12064336.0,,DIE LINKE,64336.0
 739,Neuenhagen bei Berlin,SPD,10,,2,2019.0,BB,15366,12064336.0,,Sozialdemokratische Partei Deutschlands,64336.0
 740,Neuenhagen bei Berlin,CDU,12,,4,2019.0,BB,15366,12064336.0,,Christlich Demokratische Union Deutschlands,64336.0
 741,Neuenhagen bei Berlin,AfD,2,,0,2019.0,BB,15366,12064336.0,,Alternative für Deutschland,64336.0
-742,Neuenhagen bei Berlin,GRÜNE/B90,8,,3,2019.0,BB,15366,12064336.0,,BÜNDNIS 90/DIE GRÜNEN,64336.0
+742,Neuenhagen bei Berlin,GRÜNE,8,,3,2019.0,BB,15366,12064336.0,,BÜNDNIS 90/DIE GRÜNEN,64336.0
 743,Neuenhagen bei Berlin,FDP,7,,1,2019.0,BB,15366,12064336.0,,Freie Demokratische Partei,64336.0
 744,Petershagen-Eggersdorf,DIE LINKE,10.0,,1.0,2014.0,BB,15345,12064380.0,,DIE LINKE,64380.0
 745,Petershagen-Eggersdorf,SPD,7.0,,2.0,2014.0,BB,15345,12064380.0,,Sozialdemokratische Partei Deutschlands,64380.0
 746,Petershagen-Eggersdorf,CDU,12.0,,1.0,2014.0,BB,15345,12064380.0,,Christlich Demokratische Union Deutschlands,64380.0
 747,Petershagen-Eggersdorf,FDP,8.0,,3.0,2014.0,BB,15345,12064380.0,,Freie Demokratische Partei,64380.0
-748,Petershagen-Eggersdorf,GRÜNE/B90,5.0,,2.0,2014.0,BB,15345,12064380.0,,BÜNDNIS 90/DIE GRÜNEN,64380.0
+748,Petershagen-Eggersdorf,GRÜNE,5.0,,2.0,2014.0,BB,15345,12064380.0,,BÜNDNIS 90/DIE GRÜNEN,64380.0
 749,Petershagen-Eggersdorf,AfD,1.0,,0.0,2014.0,BB,15345,12064380.0,,Alternative für Deutschland,64380.0
 750,Petershagen-Eggersdorf,DIE LINKE,10,,2,2019.0,BB,15345,12064380.0,,DIE LINKE,64380.0
 751,Petershagen-Eggersdorf,SPD,7,,1,2019.0,BB,15345,12064380.0,,Sozialdemokratische Partei Deutschlands,64380.0
@@ -17609,7 +17562,7 @@ basisdemokratische Initiative",60181.0
 753,Petershagen-Eggersdorf,AfD,1,,0,2019.0,BB,15345,12064380.0,,Alternative für Deutschland,64380.0
 754,Petershagen-Eggersdorf,GRÜNE,8,,3,2019.0,BB,15345,12064380.0,,BÜNDNIS 90/DIE GRÜNEN,64380.0
 755,Petershagen-Eggersdorf,FDP,5,,2,2019.0,BB,15345,12064380.0,,Freie Demokratische Partei,64380.0
-756,Rudersdorf bei Berlin,Die Linke,11.0,,1.0,2014.0,BB,15562,12064428.0,,Die Linke,64428.0
+756,Rudersdorf bei Berlin,DIE LINKE,11.0,,1.0,2014.0,BB,15562,12064428.0,,Die Linke,64428.0
 757,Rudersdorf bei Berlin,SPD,13.0,,6.0,2014.0,BB,15562,12064428.0,,Sozialdemokratische Partei Deutschlands,64428.0
 758,Rudersdorf bei Berlin,CDU,23.0,,4.0,2014.0,BB,15562,12064428.0,,Christlich Demokratische Union Deutschlands,64428.0
 759,Rudersdorf bei Berlin,DIE LINKE,10,,3,2019.0,BB,15562,12064428.0,,DIE LINKE,64428.0
@@ -17632,20 +17585,19 @@ basisdemokratische Initiative",60181.0
 776,Strausberg,CDU,9.0,,1.0,2014.0,BB,15344,12064472.0,,Christlich Demokratische Union Deutschlands,64472.0
 777,Strausberg,FDP,5.0,,0.0,2014.0,BB,15344,12064472.0,,Freie Demokratische Partei,64472.0
 778,Strausberg,GRÜNE,3.0,,0.0,2014.0,BB,15344,12064472.0,,BÜNDNIS 90/DIE GRÜNEN,64472.0
-779,Strausberg,DIE LINKE ,20,,6,2019.0,BB,15344,12064472.0,,DIE LINKE ,64472.0
+779,Strausberg,DIE LINKE,20,,6,2019.0,BB,15344,12064472.0,,DIE LINKE ,64472.0
 780,Strausberg,SPD,13,,7,2019.0,BB,15344,12064472.0,,Sozialdemokratische Partei Deutschlands ,64472.0
 781,Strausberg,CDU,14,,2,2019.0,BB,15344,12064472.0,,Christlich Demokratische Union Deutschlands ,64472.0
 782,Strausberg,AfD,5,,0,2019.0,BB,15344,12064472.0,,Alternative für Deutschland  ,64472.0
-783,Strausberg,GRÜNE/B90,1,,0,2019.0,BB,15344,12064472.0,,BÜNDNIS 90/DIE GRÜNEN ,64472.0
+783,Strausberg,GRÜNE,1,,0,2019.0,BB,15344,12064472.0,,BÜNDNIS 90/DIE GRÜNEN ,64472.0
 784,Strausberg,FDP,6,,1,2019.0,BB,15344,12064472.0,,Freie Demokratische Partei ,64472.0
-785,Strausberg,Die PARTEI,7,,2,2019.0,BB,15344,12064472.0,,"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative  ",64472.0
 786,Wriezen,SPD,15.0,,5.0,2014.0,BB,16269,12064512.0,,Sozialdemoktatische Partei Deutschlands,64512.0
 787,Wriezen,CDU,7.0,,0.0,2014.0,BB,16269,12064512.0,,Christlich Demokratische Union Deutschlands,64512.0
 788,Wriezen,FDP,10.0,,0.0,2014.0,BB,16269,12064512.0,,Freie Demokratische Partei,64512.0
 789,Wriezen,SPD,7,,3,2019.0,BB,16269,12064512.0,,Sozialdemokratische Partei Deutschlands,64512.0
 790,Wriezen,CDU,8,,2,2019.0,BB,16269,12064512.0,,Christlich Demokratische Union Deutschlands,64512.0
 791,Wriezen,AfD,10,,2,2019.0,BB,16269,12064512.0,,Alternative für Deutschland,64512.0
-792,Wriezen,Grüne/B 90,4,,2,2019.0,BB,16269,12064512.0,,Bündnis 90/Die Grünen,64512.0
+792,Wriezen,GRÜNE,4,,2,2019.0,BB,16269,12064512.0,,Bündnis 90/Die Grünen,64512.0
 793,Wriezen,FDP,11,,1,2019.0,BB,16269,12064512.0,,Freie Demokratische Partei,64512.0
 794,Falkenberg,DIE LINKE,1.0,,1.0,2014.0,BB,16259,12064125.0,,DIE LINKE,64125.0
 795,Falkenberg,SPD,5.0,,1.0,2014.0,BB,16259,12064125.0,,Sozialdemokratische Partei Deutschlands,64125.0
@@ -17677,7 +17629,7 @@ basisdemokratische Initiative",60181.0
 821,Zeschdorf,SPD,4,,1,2019.0,BB,15326,12064539.0,,Sozialdemokratische Partei Deutschlands,64539.0
 822,Zeschdorf,CDU,1,,0,2019.0,BB,15326,12064539.0,,Christlich Demokratische Union Deutschlands,64539.0
 823,Zeschdorf,AfD,1,,0,2019.0,BB,15326,12064539.0,,Alternative für Deutschland,64539.0
-824,Buckow (Markische Schweiz),Die Linke,7.0,,2.0,2014.0,BB,15377,12064084.0,,Die Linke,64084.0
+824,Buckow (Markische Schweiz),DIE LINKE,7.0,,2.0,2014.0,BB,15377,12064084.0,,Die Linke,64084.0
 825,Buckow (Markische Schweiz),SPD,6.0,,4.0,2014.0,BB,15377,12064084.0,,Sozialdemokratische Partei Deutschlands,64084.0
 826,Buckow (Markische Schweiz),CDU,7.0,,0.0,2014.0,BB,15377,12064084.0,,Christlich Demokratische Union Deutschlands,64084.0
 827,Buckow (Markische Schweiz),DIE LINKE,6,,3,2019.0,BB,15377,12064084.0,,DIE LINKE,64084.0
@@ -17685,7 +17637,7 @@ basisdemokratische Initiative",60181.0
 829,Buckow (Markische Schweiz),CDU,6,,1,2019.0,BB,15377,12064084.0,,Christlich Demokratische Union Deutschlands,64084.0
 830,Garzau-Garzin,CDU,1.0,,0.0,2014.0,BB,15345,12064153.0,,Christlich Demokratische Union Deutschlands,64153.0
 831,Garzau-Garzin,CDU,1,,0,2019.0,BB,15345,12064153.0,,Christlich Demokratische Union Deutschlands,64153.0
-832,Rehfelde,Die Linke,13.0,,4.0,2014.0,BB,15345,12064408.0,,Die Linke,64408.0
+832,Rehfelde,DIE LINKE,13.0,,4.0,2014.0,BB,15345,12064408.0,,Die Linke,64408.0
 833,Rehfelde,CDU,9.0,,2.0,2014.0,BB,15345,12064408.0,,Christlich Demokratische Union Deutschlands,64408.0
 834,Rehfelde,FDP,2.0,,1.0,2014.0,BB,15345,12064408.0,,Freie Demokratische Partei,64408.0
 835,Rehfelde,DIE LINKE,11,,4,2019.0,BB,15345,12064408.0,,DIE LINKE,64408.0
@@ -17699,7 +17651,6 @@ basisdemokratische Initiative",60181.0
 843,Neuhardenberg,DIE LINKE,7,,1,2019.0,BB,15320,12064340.0,,DIE LINKE,64340.0
 844,Neuhardenberg,SPD,4,,1,2019.0,BB,15320,12064340.0,,Sozialdemokratische Partei Deutschlands,64340.0
 845,Neuhardenberg,GRÜNE,1,,0,2019.0,BB,15320,12064340.0,,BÜNDNIS 90/DIE GRÜNEN,64340.0
-846,Neuhardenberg,NPD,1,,0,2019.0,BB,15320,12064340.0,,Nationaldemokratische Partei Deutschlands,64340.0
 847,Falkenhagen (Mark),SPD,4.0,,2.0,2014.0,BB,15306,12064128.0,,Sozialdemokratische Partei Deutschlands,64128.0
 848,Falkenhagen (Mark),CDU,1.0,,1.0,2014.0,BB,15306,12064128.0,,Christlich Demokratische Union Deutschlands,64128.0
 849,Falkenhagen (Mark),FDP,2.0,,0.0,2014.0,BB,15306,12064128.0,,Freie Demokratische Partei,64128.0
@@ -17716,80 +17667,70 @@ basisdemokratische Initiative",60181.0
 860,Neutrebbin,CDU,2,,1,2019.0,BB,15320,12064365.0,,Christlich Demokratische Union Deutschlands,64365.0
 861,Neutrebbin,AfD,1,,0,2019.0,BB,15320,12064365.0,,Alternative für Deutschland,64365.0
 862,Neutrebbin,FDP,1,,0,2019.0,BB,15320,12064365.0,,Freie Demokratische Partei ,64365.0
-863,Oderaue,Die Linke,1.0,,0.0,2014.0,BB,16259,12064371.0,,Die Linke,64371.0
+863,Oderaue,DIE LINKE,1.0,,0.0,2014.0,BB,16259,12064371.0,,Die Linke,64371.0
 864,Oderaue,DIE LINKE,1,,0,2019.0,BB,16259,12064371.0,,DIE LINKE,64371.0
 865,Protzel,SPD,1.0,,1.0,2014.0,BB,15345,12064393.0,,Sozialdemokratische Partei Deutschlands,64393.0
 866,Protzel,CDU,4.0,,2.0,2014.0,BB,15345,12064393.0,,Christlich Demokratische Union Deutschlands,64393.0
 867,Birkenwerder,SPD,7.0,,2.0,2014.0,BB,16547,12065036.0,,Sozialdemokratische Partei Deutschlands,65036.0
 868,Birkenwerder,DIE LINKE,5.0,,0.0,2014.0,BB,16547,12065036.0,,DIE LINKE,65036.0
 869,Birkenwerder,CDU,8.0,,3.0,2014.0,BB,16547,12065036.0,,Christliche Demokratische Union,65036.0
-870,Birkenwerder,Grüne/B90,3.0,,0.0,2014.0,BB,16547,12065036.0,,Bündnis 90/ Die Grünen,65036.0
+870,Birkenwerder,GRÜNE,3.0,,0.0,2014.0,BB,16547,12065036.0,,Bündnis 90/ Die Grünen,65036.0
 871,Birkenwerder,FDP,5.0,,2.0,2014.0,BB,16547,12065036.0,,Freie Demokratische Partei,65036.0
 872,Birkenwerder,SPD,7,,1,2019.0,BB,16547,12065036.0,,Sozialdemokratische Partei Deutschlands,65036.0
 873,Birkenwerder,CDU,10,,4,2019.0,BB,16547,12065036.0,,Christlich Demokratische Union Deutschlands,65036.0
 874,Birkenwerder,DIE LINKE,5,,2,2019.0,BB,16547,12065036.0,,DIE LINKE,65036.0
 875,Birkenwerder,GRÜNE,5,,1,2019.0,BB,16547,12065036.0,,BÜNDNIS 90/DIE GRÜNEN,65036.0
-876,Birkenwerder,AfD ,4,,2,2019.0,BB,16547,12065036.0,,Alternative für Deutschland ,65036.0
+876,Birkenwerder,AfD,4,,2,2019.0,BB,16547,12065036.0,,Alternative für Deutschland ,65036.0
 877,Furstenberg (Havel),SPD,3.0,,0.0,2014.0,BB,16798,12065084.0,,Sozialdemokratische Partei Deutschlands,65084.0
 878,Furstenberg (Havel),DIE LINKE,6.0,,1.0,2014.0,BB,16798,12065084.0,,DIE LINKE,65084.0
 879,Furstenberg (Havel),CDU,12.0,,4.0,2014.0,BB,16798,12065084.0,,Christlich-Demokratische-Union Deutschlands,65084.0
 880,Furstenberg (Havel),GRÜNE,2.0,,0.0,2014.0,BB,16798,12065084.0,,BÜNDNIS 90/DIE GRÜNEN,65084.0
-881,Furstenberg (Havel),NPD,2.0,,1.0,2014.0,BB,16798,12065084.0,,Nationaldemokratische Partei Deutschlands,65084.0
 882,Furstenberg (Havel),SPD,2,,0,2019.0,BB,16798,12065084.0,,Sozialdemokratische Partei Deutschlands,65084.0
 883,Furstenberg (Havel),CDU,10,,3,2019.0,BB,16798,12065084.0,,Christlich Demokratische Union Deutschlands,65084.0
 884,Furstenberg (Havel),DIE LINKE,6,,2,2019.0,BB,16798,12065084.0,,DIE LINKE,65084.0
 885,Furstenberg (Havel),GRÜNE,3,,0,2019.0,BB,16798,12065084.0,,BÜNDNIS 90/DIE Grünen,65084.0
 886,Furstenberg (Havel),AfD,7,,1,2019.0,BB,16798,12065084.0,,Alternative für Deutschland,65084.0
-887,Furstenberg (Havel),Tierschutzpartei,1,,0,2019.0,BB,16798,12065084.0,,PARTEI MENSCH UMWELT TIERSCHUTZ,65084.0
 888,Glienicke-Nordbahn,SPD,19.0,,5.0,2014.0,BB,16548,12065096.0,,Sozialdemokratische Partei Deutschlands,65096.0
-889,Glienicke-Nordbahn,Die Linke,6.0,,1.0,2014.0,BB,16548,12065096.0,,Die Linke,65096.0
+889,Glienicke-Nordbahn,DIE LINKE,6.0,,1.0,2014.0,BB,16548,12065096.0,,Die Linke,65096.0
 890,Glienicke-Nordbahn,CDU,16.0,,2.0,2014.0,BB,16548,12065096.0,,Christlich Demokratische Union Deutschlands,65096.0
-891,Glienicke-Nordbahn,Grüne / B 90,5.0,,4.0,2014.0,BB,16548,12065096.0,,Bündnis 90 / Die Grünen,65096.0
+891,Glienicke-Nordbahn,GRÜNE,5.0,,4.0,2014.0,BB,16548,12065096.0,,Bündnis 90 / Die Grünen,65096.0
 892,Glienicke-Nordbahn,FDP,10.0,,2.0,2014.0,BB,16548,12065096.0,,Freie Demokratische Partei,65096.0
-893,Glienicke-Nordbahn,Piraten,1.0,,0.0,2014.0,BB,16548,12065096.0,,Piratenpartei Deutschland,65096.0
 894,Glienicke-Nordbahn,SPD,18,,7,2019.0,BB,16548,12065096.0,,Sozialdemokratische Partei Deutschlands,65096.0
 895,Glienicke-Nordbahn,CDU,17,,2,2019.0,BB,16548,12065096.0,,Christlich Demokratische Union Deutschlands,65096.0
 896,Glienicke-Nordbahn,DIE LINKE,7,,2,2019.0,BB,16548,12065096.0,,DIE LINKE,65096.0
 897,Glienicke-Nordbahn,GRÜNE,8,,3,2019.0,BB,16548,12065096.0,,BÜNDNIS 90/DIE GRÜNEN,65096.0
 898,Glienicke-Nordbahn,FDP,11,,3,2019.0,BB,16548,12065096.0,,Freie Demokratische Partei,65096.0
-899,Glienicke-Nordbahn,PIRATEN,1,,0,2019.0,BB,16548,12065096.0,,Piratenpartei Deutschland,65096.0
 900,Glienicke-Nordbahn,AfD,3,,0,2019.0,BB,16548,12065096.0,,Alternative für Deutschland,65096.0
 901,Hennigsdorf,SPD,24.0,,1.0,2014.0,BB,16761,12065136.0,,Sozialdemokratische Partei Deutschlands,65136.0
 902,Hennigsdorf,DIE LINKE,10.0,,7.0,2014.0,BB,16761,12065136.0,,DIE LINKE,65136.0
 903,Hennigsdorf,CDU,16.0,,4.0,2014.0,BB,16761,12065136.0,,Christlich Demokratische Union Deutschlands,65136.0
 904,Hennigsdorf,GRÜNE,6.0,,5.0,2014.0,BB,16761,12065136.0,,BÜNDNIS 90/DIE GRÜNEN ,65136.0
 905,Hennigsdorf,FDP,8.0,,1.0,2014.0,BB,16761,12065136.0,,Freie Demokratische Partei,65136.0
-906,Hennigsdorf,NPD,1.0,,0.0,2014.0,BB,16761,12065136.0,,Nationaldemokratische Partei Deutschlands,65136.0
 907,Hennigsdorf,SPD,21,,6,2019.0,BB,16761,12065136.0,,Sozialdemokratische Partei Deutschlands,65136.0
 908,Hennigsdorf,CDU,11,,1,2019.0,BB,16761,12065136.0,,Christlich Demokratische Union Deutschlands,65136.0
 909,Hennigsdorf,DIE LINKE,9,,5,2019.0,BB,16761,12065136.0,,DIE LINKE,65136.0
 910,Hennigsdorf,GRÜNE,14,,8,2019.0,BB,16761,12065136.0,,BÜNDNIS 90/DIE GRÜNEN,65136.0
-911,Hennigsdorf,NPD,1,,0,2019.0,BB,16761,12065136.0,,Nationaldemokratische Partei Deutschlands,65136.0
 912,Hennigsdorf,FDP,7,,0,2019.0,BB,16761,12065136.0,,Freie Demokratische Partei ,65136.0
 913,Hennigsdorf,AfD,9,,2,2019.0,BB,16761,12065136.0,,Alternative für Deutschland,65136.0
 914,Hohen Neuendorf,SPD,17.0,,5.0,2014.0,BB,16540,12065144.0,,Sozialdemokratische Partei Deutschlands,65144.0
 915,Hohen Neuendorf,DIE LINKE,16.0,,3.0,2014.0,BB,16540,12065144.0,,DIE LINKE,65144.0
 916,Hohen Neuendorf,CDU,16.0,,2.0,2014.0,BB,16540,12065144.0,,Christlich Demokratische Union,65144.0
-917,Hohen Neuendorf,GRÜNE/B90,10.0,,3.0,2014.0,BB,16540,12065144.0,,BÜNDNIS 90/DIE GRÜNEN,65144.0
+917,Hohen Neuendorf,GRÜNE,10.0,,3.0,2014.0,BB,16540,12065144.0,,BÜNDNIS 90/DIE GRÜNEN,65144.0
 918,Hohen Neuendorf,FDP,18.0,,4.0,2014.0,BB,16540,12065144.0,,Freide Demokratische Partei ,65144.0
 919,Hohen Neuendorf,SPD,20,,9,2019.0,BB,16540,12065144.0,,Sozialdemokratische Partei Deutschlands,65144.0
 920,Hohen Neuendorf,CDU,21,,5,2019.0,BB,16540,12065144.0,,Christliuch Demokratische Union Deutschlands,65144.0
 921,Hohen Neuendorf,DIE LINKE,13,,4,2019.0,BB,16540,12065144.0,,DIE LINKE.,65144.0
-922,Hohen Neuendorf,GRÜNE/B90,12,,5,2019.0,BB,16540,12065144.0,,Bündnis 90 / Die Grünen,65144.0
+922,Hohen Neuendorf,GRÜNE,12,,5,2019.0,BB,16540,12065144.0,,Bündnis 90 / Die Grünen,65144.0
 923,Hohen Neuendorf,FDP,10,,2,2019.0,BB,16540,12065144.0,,Freie Demokratische Partei,65144.0
 924,Hohen Neuendorf,AfD,6,,0,2019.0,BB,16540,12065144.0,,Alternative für Deutschland,65144.0
-925,Hohen Neuendorf,Tierschutzpartei,1,,1,2019.0,BB,16540,12065144.0,,PARTEI MENSCH UMWELT TIERSCHUTZ,65144.0
 926,Kremmen,SPD,11.0,,3.0,2014.0,BB,16766,12065165.0,,Sozialdemokratische Partei Deutschlands,65165.0
 927,Kremmen,DIE LINKE,3.0,,0.0,2014.0,BB,16766,12065165.0,,DIE LINKE,65165.0
 928,Kremmen,CDU,12.0,,2.0,2014.0,BB,16766,12065165.0,,Christlich Demokratische Union Deutschlands,65165.0
 929,Kremmen,GRÜNE,3.0,,1.0,2014.0,BB,16766,12065165.0,,BÜNDNIS 90/DIE GRÜNEN,65165.0
-930,Kremmen,NPD,2.0,,0.0,2014.0,BB,16766,12065165.0,,Nationaldemokratische Partei Deutschlands,65165.0
-931,Kremmen,Piraten,1.0,,0.0,2014.0,BB,16766,12065165.0,,Piratenpartei Deutschland,65165.0
 932,Kremmen,SPD,9,,2,2019.0,BB,16766,12065165.0,,Sozialdemokratische Partei Deutschlands,65165.0
 933,Kremmen,CDU,19,,4,2019.0,BB,16766,12065165.0,,Christlich Demokratische Union Deutschlands,65165.0
 934,Kremmen,DIE LINKE,2,,0,2019.0,BB,16766,12065165.0,,DIE LINKE,65165.0
 935,Kremmen,GRÜNE,1,,0,2019.0,BB,16766,12065165.0,,BÜNDNIS 90/DIE GRÜNEN,65165.0
-936,Kremmen,NPD,1,,0,2019.0,BB,16766,12065165.0,,Nationaldemokratische Partei Deutschlands,65165.0
 937,Leegebruch,SPD,4.0,,3.0,2014.0,BB,16767,12065180.0,,Sozialdemokratische Partei Deutschlands,65180.0
 938,Leegebruch,DIE LINKE,9.0,,5.0,2014.0,BB,16767,12065180.0,,DIE LINKE,65180.0
 939,Leegebruch,CDU,14.0,,5.0,2014.0,BB,16767,12065180.0,,Christlich Demokratische Union,65180.0
@@ -17813,57 +17754,47 @@ basisdemokratische Initiative",60181.0
 957,Lowenberger Land,SPD,10,,6,2019.0,BB,16775,12065198.0,,Sozialdemokratische Partei Deutschlands,65198.0
 958,Lowenberger Land,CDU,14,,5,2019.0,BB,16775,12065198.0,,Christlich-Demokratische Union Deutschlands,65198.0
 959,Lowenberger Land,DIE LINKE,5,,1,2019.0,BB,16775,12065198.0,,DIE LINKE,65198.0
-960,Lowenberger Land,NPD,1,,0,2019.0,BB,16775,12065198.0,,Nationaldemokratische Partei Deutschlands,65198.0
 961,Lowenberger Land,FDP,1,,0,2019.0,BB,16775,12065198.0,,Freie Demokratische Partei ,65198.0
 962,Lowenberger Land,AfD,2,,0,2019.0,BB,16775,12065198.0,,Alternative für Deutschland,65198.0
 963,Muhlenbecker Land,SPD,27.0,,7.0,2014.0,BB,16567,12065225.0,,Sozialdemokratische Partei Deutschlands ,65225.0
 964,Muhlenbecker Land,DIE LINKE,11.0,,5.0,2014.0,BB,16567,12065225.0,,Die LINKE,65225.0
 965,Muhlenbecker Land,CDU,13.0,,2.0,2014.0,BB,16567,12065225.0,,Christlich Demokratische Union Deutschlands,65225.0
-966,Muhlenbecker Land,B 90/Grüne,1.0,,0.0,2014.0,BB,16567,12065225.0,,BÜNDNIS 90/DIE GRÜNEN,65225.0
+966,Muhlenbecker Land,GRÜNE,1.0,,0.0,2014.0,BB,16567,12065225.0,,BÜNDNIS 90/DIE GRÜNEN,65225.0
 967,Muhlenbecker Land,FDP,6.0,,0.0,2014.0,BB,16567,12065225.0,,Freie Demokratische Partei,65225.0
-968,Muhlenbecker Land,NPD,1.0,,1.0,2014.0,BB,16567,12065225.0,,Nationaldemokratische Partei Deutschlands ,65225.0
 969,Muhlenbecker Land,SPD,29,,9,2019.0,BB,16567,12065225.0,,Sozialdemokratische Partei Deutschlands,65225.0
 970,Muhlenbecker Land,CDU,26,,7,2019.0,BB,16567,12065225.0,,Christlich Demokratische Union Deutschlands,65225.0
 971,Muhlenbecker Land,DIE LINKE,11,,4,2019.0,BB,16567,12065225.0,,DIE LINKE,65225.0
 972,Muhlenbecker Land,GRÜNE,8,,4,2019.0,BB,16567,12065225.0,,BÜNDNIS 90/DIE GRÜNEN,65225.0
 973,Muhlenbecker Land,FDP,6,,1,2019.0,BB,16567,12065225.0,,Freie Demokratische Partei,65225.0
-974,Muhlenbecker Land,PIRATEN,1,,0,2019.0,BB,16567,12065225.0,,Piratenpartei Deutschland,65225.0
 975,Oberkramer,SPD,13.0,,2.0,2014.0,BB,16727,12065251.0,,Sozialdemokratische Partei Deutschlands,65251.0
 976,Oberkramer,DIE LINKE,5.0,,1.0,2014.0,BB,16727,12065251.0,,DIE LINKE,65251.0
 977,Oberkramer,CDU,11.0,,1.0,2014.0,BB,16727,12065251.0,,Christlich Demokratische Union Deutschlands,65251.0
 978,Oberkramer,GRÜNE,1.0,,0.0,2014.0,BB,16727,12065251.0,,BÜNDNIS 90/DIE GRÜNEN,65251.0
 979,Oberkramer,FDP,6.0,,1.0,2014.0,BB,16727,12065251.0,,Freie Demokratische Partei,65251.0
-980,Oberkramer,NPD,1.0,,0.0,2014.0,BB,16727,12065251.0,,Nationaldemokratische Partei Deutschlands,65251.0
 981,Oberkramer,SPD,11,,4,2019.0,BB,16727,12065251.0,,Sozialdemokratische Partei Deutschlands,65251.0
 982,Oberkramer,CDU,8,,2,2019.0,BB,16727,12065251.0,,Christlich Demokratische Union Deutschlands,65251.0
 983,Oberkramer,DIE LINKE,6,,2,2019.0,BB,16727,12065251.0,,DIE LINKE,65251.0
-984,Oberkramer,GRÜNE/B90,2,,1,2019.0,BB,16727,12065251.0,,BÜNDNIS 90/DIE GRÜNEN,65251.0
+984,Oberkramer,GRÜNE,2,,1,2019.0,BB,16727,12065251.0,,BÜNDNIS 90/DIE GRÜNEN,65251.0
 985,Oberkramer,FDP,1,,1,2019.0,BB,16727,12065251.0,,Freie Demokratische Partei,65251.0
 986,Oberkramer,AfD,6,,0,2019.0,BB,16727,12065251.0,,Alternative für Deutschland,65251.0
 987,Oranienburg,SPD,23.0,,7.0,2014.0,BB,16515,12065256.0,,Sozialdemokratische Partei Deutschlands,65256.0
-988,Oranienburg,Die LINKE,27.0,,7.0,2014.0,BB,16515,12065256.0,,DIE LINKE,65256.0
+988,Oranienburg,DIE LINKE,27.0,,7.0,2014.0,BB,16515,12065256.0,,DIE LINKE,65256.0
 989,Oranienburg,CDU,20.0,,6.0,2014.0,BB,16515,12065256.0,,Christlich Demokratische Union Deutschlands,65256.0
-990,Oranienburg,Grüne / B 90,13.0,,3.0,2014.0,BB,16515,12065256.0,,Bündnis 90 / Die Grünen,65256.0
+990,Oranienburg,GRÜNE,13.0,,3.0,2014.0,BB,16515,12065256.0,,Bündnis 90 / Die Grünen,65256.0
 991,Oranienburg,FDP,13.0,,1.0,2014.0,BB,16515,12065256.0,,Freie Demokratische Partei Deutschlands,65256.0
-992,Oranienburg,NPD,5.0,,0.0,2014.0,BB,16515,12065256.0,,Nationaldemokratische Partei Deutschlands,65256.0
-993,Oranienburg,PIRATEN,1.0,,0.0,2014.0,BB,16515,12065256.0,,Piratenpartei Deutschland,65256.0
 994,Oranienburg,SPD,45,,15,2019.0,BB,16515,12065256.0,,Sozialdemokratische Partei Deutschlands,65256.0
 995,Oranienburg,CDU,24,,7,2019.0,BB,16515,12065256.0,,Christlich Demokratische Union Deutschlands,65256.0
 996,Oranienburg,DIE LINKE,29,,9,2019.0,BB,16515,12065256.0,,DIE LINKE,65256.0
 997,Oranienburg,GRÜNE,17,,4,2019.0,BB,16515,12065256.0,,BÜNDNIS 90 / DIE GRÜNEN,65256.0
 998,Oranienburg,FDP,16,,1,2019.0,BB,16515,12065256.0,,Freie Demokratische Partei,65256.0
-999,Oranienburg,PIRATEN,5,,1,2019.0,BB,16515,12065256.0,,Piratenpartei Deutschland,65256.0
 1000,Oranienburg,AfD,11,,1,2019.0,BB,16515,12065256.0,,Alternative für Deutschland,65256.0
-1001,Oranienburg,Die Partei,5,,0,2019.0,BB,16515,12065256.0,,"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative",65256.0
 1002,Velten,SPD,17.0,,3.0,2014.0,BB,16727,12065332.0,,Sozialdemokratische Partei Deutschlands,65332.0
 1003,Velten,DIE LINKE,7.0,,2.0,2014.0,BB,16727,12065332.0,,DIE LINKE,65332.0
 1004,Velten,CDU,14.0,,3.0,2014.0,BB,16727,12065332.0,,Christlich Demokratische Union Deutschlands,65332.0
 1005,Velten,FDP,2.0,,0.0,2014.0,BB,16727,12065332.0,,Freie Demokratische Partei,65332.0
-1006,Velten,NPD,2.0,,1.0,2014.0,BB,16727,12065332.0,,Nationaldemokratische Partei Deutschlands,65332.0
 1007,Velten,SPD,17,,4,2019.0,BB,16727,12065332.0,,Sozialdemokratische Partei Deutschlands,65332.0
 1008,Velten,CDU,12,,4,2019.0,BB,16727,12065332.0,,Christlich Demokratische Union Deutschlands,65332.0
 1009,Velten,DIE LINKE,5,,1,2019.0,BB,16727,12065332.0,,DIE LINKE,65332.0
-1010,Velten,NPD,2,,0,2019.0,BB,16727,12065332.0,,Nationaldemokratische Partei Deutschlands,65332.0
 1011,Velten,FDP,1,,0,2019.0,BB,16727,12065332.0,,Freie Demokratische Partei,65332.0
 1012,Velten,AfD,5,,1,2019.0,BB,16727,12065332.0,,Alternative für Deutschland,65332.0
 1013,Zehdenick,SPD,12.0,,4.0,2014.0,BB,16792,12065356.0,,Sozialdemokratische Partei Deutschlands,65356.0
@@ -17874,21 +17805,17 @@ basisdemokratische Initiative",60181.0
 1018,Zehdenick,CDU,12,,2,2019.0,BB,16792,12065356.0,,Christlich Demokratische Union Deutschlands,65356.0
 1019,Zehdenick,DIE LINKE,8,,2,2019.0,BB,16792,12065356.0,,DIE LINKE,65356.0
 1020,Zehdenick,GRÜNE,2,,0,2019.0,BB,16792,12065356.0,,BÜNDNIS 90/DIE GRÜNEN,65356.0
-1021,Zehdenick,NPD,1,,1,2019.0,BB,16792,12065356.0,,Nationaldemokratische Partei Deutschlands,65356.0
 1022,Zehdenick,FDP,4,,1,2019.0,BB,16792,12065356.0,,Freie Demokratische Partei,65356.0
 1023,Zehdenick,AfD,6,,2,2019.0,BB,16792,12065356.0,,Alternative für Deutschland,65356.0
 1024,Gransee,SPD,11.0,,4.0,2014.0,BB,16775,12065100.0,,Sozialdemokratische Partei Deutschland,65100.0
-1025,Gransee,Die LINKE,8.0,,4.0,2014.0,BB,16775,12065100.0,,Die LINKE,65100.0
+1025,Gransee,DIE LINKE,8.0,,4.0,2014.0,BB,16775,12065100.0,,Die LINKE,65100.0
 1026,Gransee,CDU,20.0,,3.0,2014.0,BB,16775,12065100.0,,Christlich Demikratische Union,65100.0
-1027,Gransee,Piraten,2.0,,0.0,2014.0,BB,16775,12065100.0,,Piratenpartei Deutschland,65100.0
 1028,Gransee,SPD,13,,7,2019.0,BB,16775,12065100.0,,Sozialdemokratische Partei Deutschlands,65100.0
 1029,Gransee,CDU,23,,5,2019.0,BB,16775,12065100.0,,Christlich Demokratische Union,65100.0
 1030,Gransee,DIE LINKE,4,,1,2019.0,BB,16775,12065100.0,,Die Linke,65100.0
 1031,Gransee,GRÜNE,2,,1,2019.0,BB,16775,12065100.0,,BÜNDNIS 90/DIE GRÜNEN,65100.0
-1032,Gransee,PIRATEN,1,,0,2019.0,BB,16775,12065100.0,,Piratenpartei Deutschland,65100.0
-1033,Grosswoltersdorf,Die LINKE,1.0,,1.0,2014.0,BB,16775,12065117.0,,Die LINKE,65117.0
+1033,Grosswoltersdorf,DIE LINKE,1.0,,1.0,2014.0,BB,16775,12065117.0,,Die LINKE,65117.0
 1034,Grosswoltersdorf,CDU,4.0,,0.0,2014.0,BB,16775,12065117.0,,Christlich Demokratische Union,65117.0
-1035,Grosswoltersdorf,Piraten,1.0,,0.0,2014.0,BB,16775,12065117.0,,Piratenpartei Deutschland,65117.0
 1036,Grosswoltersdorf,CDU,3,,0,2019.0,BB,16775,12065117.0,,Christlich Demokratische Union,65117.0
 1037,Grosswoltersdorf,DIE LINKE,1,,1,2019.0,BB,16775,12065117.0,,Die Linke,65117.0
 1038,Grosswoltersdorf,GRÜNE,2,,2,2019.0,BB,16775,12065117.0,,BÜNDNIS 90/DIE GRÜNEN,65117.0
@@ -17896,19 +17823,16 @@ basisdemokratische Initiative",60181.0
 1040,Sonnenberg,CDU,1.0,,0.0,2014.0,BB,16775,12065301.0,,Christlich Demokratische Union,65301.0
 1041,Sonnenberg,SPD,1,,0,2019.0,BB,16775,12065301.0,,Sozialdemokratische Partei Deutschlands,65301.0
 1042,Stechlin,SPD,1.0,,0.0,2014.0,BB,16775,12065310.0,,Sozialdemikratische Partei Deutschland,65310.0
-1043,Stechlin,Die LINKE,1.0,,1.0,2014.0,BB,16775,12065310.0,,Die LINKE,65310.0
+1043,Stechlin,DIE LINKE,1.0,,1.0,2014.0,BB,16775,12065310.0,,Die LINKE,65310.0
 1044,Stechlin,SPD,3,,1,2019.0,BB,16775,12065310.0,,Sozialdemokratische Partei Deutschlands,65310.0
 1045,Stechlin,GRÜNE,1,,0,2019.0,BB,16775,12065310.0,,BÜNDNIS 90/DIE GRÜNEN,65310.0
 1046,Calau,SPD,6.0,,2.0,2014.0,BB,3205,12066052.0,,Sozialdemokratische Partei Deutschlands,66052.0
 1047,Calau,CDU,15.0,,2.0,2014.0,BB,3205,12066052.0,,Christlich Demokratische Union Deutschlands,66052.0
 1048,Calau,DIE LINKE,14.0,,3.0,2014.0,BB,3205,12066052.0,,DIE LINKE,66052.0
-1049,Calau,Grüne/B90,1.0,,0.0,2014.0,BB,3205,12066052.0,,Bündnis 90/ Die Grünen,66052.0
-1050,Calau,DSU,1.0,,0.0,2014.0,BB,3205,12066052.0,,Deutsche Soziale Union,66052.0
-1051,Calau,Die PARTEI,2.0,,0.0,2014.0,BB,3205,12066052.0,,"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basischdemokratische Initiative",66052.0
+1049,Calau,GRÜNE,1.0,,0.0,2014.0,BB,3205,12066052.0,,Bündnis 90/ Die Grünen,66052.0
 1052,Calau,SPD,6,,2,2019.0,BB,3205,12066052.0,,Sozialdemokratische Partei Deutschlands,66052.0
 1053,Calau,CDU,17,,3,2019.0,BB,3205,12066052.0,,Christlich Demokratische Union Deutschlands,66052.0
 1054,Calau,DIE LINKE,11,,3,2019.0,BB,3205,12066052.0,,DIE LINKE,66052.0
-1055,Calau,NPD,1,,0,2019.0,BB,3205,12066052.0,,Nationaldemokratische Partei Deutschlands,66052.0
 1056,Calau,GRÜNE,4,,2,2019.0,BB,3205,12066052.0,,BÜNDNIS 90/DIE GRÜNEN,66052.0
 1057,Calau,AfD,5,,0,2019.0,BB,3205,12066052.0,,Alternative für Deutschland,66052.0
 1058,Grossraschen,SPD,24.0,,5.0,2014.0,BB,1983,12066112.0,,Sozialdemokratische Partei Deutschlands,66112.0
@@ -17924,30 +17848,26 @@ basisdemokratische Initiative",60181.0
 1068,Lauchhammer,CDU,8.0,,2.0,2014.0,BB,1979,12066176.0,,Christlich Demokratische Union Deutschlands,66176.0
 1069,Lauchhammer,DIE LINKE,10.0,,4.0,2014.0,BB,1979,12066176.0,,DIE LINKE,66176.0
 1070,Lauchhammer,FDP,6.0,,0.0,2014.0,BB,1979,12066176.0,,Freie Demokratische Partei,66176.0
-1071,Lauchhammer,DSU,1.0,,0.0,2014.0,BB,1979,12066176.0,,Deutsche Soziale Union,66176.0
-1072,Lauchhammer,NPD,3.0,,0.0,2014.0,BB,1979,12066176.0,,Nationaldemokratische Partei Deutschlands,66176.0
 1073,Lauchhammer,SPD,6,,1,2019.0,BB,1979,12066176.0,,Sozialdemokratische Partei Deutschlands,66176.0
 1074,Lauchhammer,CDU,8,,2,2019.0,BB,1979,12066176.0,,"
 Christlich Demokratische Union Deutschlands
 ",66176.0
 1075,Lauchhammer,DIE LINKE,9,,4,2019.0,BB,1979,12066176.0,,DIE LINKE,66176.0
-1076,Lauchhammer,NPD,3,,0,2019.0,BB,1979,12066176.0,,Nationaldemokratische Partei Deutschlands,66176.0
 1077,Lauchhammer,FDP,1,,0,2019.0,BB,1979,12066176.0,,Freie Demokratische Partei,66176.0
 1078,Lauchhammer,AfD,6,,0,2019.0,BB,1979,12066176.0,,Alternative für Deutschland,66176.0
 1079,Lubbenau-Spreewald,SPD,19.0,,7.0,2014.0,BB,3222,12066196.0,,Sozialdemokratische Partei Deutschlands,66196.0
 1080,Lubbenau-Spreewald,CDU,18.0,,2.0,2014.0,BB,3222,12066196.0,,Christlich Demokratische Union,66196.0
-1081,Lubbenau-Spreewald,Die Linke,13.0,,7.0,2014.0,BB,3222,12066196.0,,Die Linke,66196.0
-1082,Lubbenau-Spreewald,Grüne/B 90,2.0,,0.0,2014.0,BB,3222,12066196.0,,Bündnis 90/Die Grünen,66196.0
+1081,Lubbenau-Spreewald,DIE LINKE,13.0,,7.0,2014.0,BB,3222,12066196.0,,Die Linke,66196.0
+1082,Lubbenau-Spreewald,GRÜNE,2.0,,0.0,2014.0,BB,3222,12066196.0,,Bündnis 90/Die Grünen,66196.0
 1083,Lubbenau-Spreewald,SPD,18,,6,2019.0,BB,3222,12066196.0,,Sozialdemokratische Partei Deutschland,66196.0
 1084,Lubbenau-Spreewald,CDU,15,,6,2019.0,BB,3222,12066196.0,,Christliche Demokratische Union Deutschlands,66196.0
 1085,Lubbenau-Spreewald,DIE LINKE,11,,4,2019.0,BB,3222,12066196.0,,DIE LINKE,66196.0
-1086,Lubbenau-Spreewald,NPD,1,,0,2019.0,BB,3222,12066196.0,,Nationaldemokratische Partei Deutschlands,66196.0
 1087,Lubbenau-Spreewald,GRÜNE,2,,0,2019.0,BB,3222,12066196.0,,BÜNDINIS 90/DIE GRÜNEN,66196.0
 1088,Lubbenau-Spreewald,FDP,5,,0,2019.0,BB,3222,12066196.0,,Freie Demokratische Partei,66196.0
 1089,Lubbenau-Spreewald,AfD,11,,1,2019.0,BB,3222,12066196.0,,Alternative für Deutschland,66196.0
 1090,Schipkau,SPD,6.0,,2.0,2014.0,BB,1998,12066285.0,,Sozialdemokratische Partei Deutschlands,66285.0
 1091,Schipkau,CDU,20.0,,4.0,2014.0,BB,1998,12066285.0,,Christlich Demokratische Union,66285.0
-1092,Schipkau,Die Linke,8.0,,3.0,2014.0,BB,1998,12066285.0,,Die Linke,66285.0
+1092,Schipkau,DIE LINKE,8.0,,3.0,2014.0,BB,1998,12066285.0,,Die Linke,66285.0
 1093,Schipkau,SPD,5,,1,2019.0,BB,1998,12066285.0,,Sozialdemokratische Partei Deutschland,66285.0
 1094,Schipkau,CDU,16,,5,2019.0,BB,1998,12066285.0,,Christlich Demokratische Union Deutschlands,66285.0
 1095,Schipkau,DIE LINKE,11,,6,2019.0,BB,1998,12066285.0,,DIE LINKE,66285.0
@@ -17964,11 +17884,11 @@ Christlich Demokratische Union Deutschlands
 1106,Vetschau-Spreewald,SPD,10.0,,3.0,2014.0,BB,3226,12066320.0,,Sozaldemokratische Partei Deutschlands,66320.0
 1107,Vetschau-Spreewald,CDU,8.0,,1.0,2014.0,BB,3226,12066320.0,,Christlich Demokrstische Union Deutschlands,66320.0
 1108,Vetschau-Spreewald,DIE LINKE,12.0,,3.0,2014.0,BB,3226,12066320.0,,DIE LINKE,66320.0
-1109,Vetschau-Spreewald,GRÜNE/B90,9.0,,2.0,2014.0,BB,3226,12066320.0,,BÜNDNIS 90/DIE GRÜNEN,66320.0
+1109,Vetschau-Spreewald,GRÜNE,9.0,,2.0,2014.0,BB,3226,12066320.0,,BÜNDNIS 90/DIE GRÜNEN,66320.0
 1110,Vetschau-Spreewald,SPD,5,,1,2019.0,BB,3226,12066320.0,,Sozialdemokratische Partei Deutschland,66320.0
 1111,Vetschau-Spreewald,CDU,10,,1,2019.0,BB,3226,12066320.0,,Christlich Demokratische Union Deutschlands,66320.0
 1112,Vetschau-Spreewald,DIE LINKE,7,,4,2019.0,BB,3226,12066320.0,,DIE LINKE,66320.0
-1113,Vetschau-Spreewald,GRÜNE/B90,9,,3,2019.0,BB,3226,12066320.0,,Bündnis 90/DIE GRÜNEN,66320.0
+1113,Vetschau-Spreewald,GRÜNE,9,,3,2019.0,BB,3226,12066320.0,,Bündnis 90/DIE GRÜNEN,66320.0
 1114,Vetschau-Spreewald,AfD,2,,1,2019.0,BB,3226,12066320.0,,Alternative für Deutschland,66320.0
 1115,Altdobern,SPD,10.0,,2.0,2014.0,BB,3229,12066008.0,,Sozialdemokratische Partei Deutschlands,66008.0
 1116,Altdobern,CDU,6.0,,1.0,2014.0,BB,3229,12066008.0,,Christlich Demokratische Union,66008.0
@@ -17978,7 +17898,7 @@ Christlich Demokratische Union Deutschlands
 1120,Altdobern,CDU,5,,0,2019.0,BB,3229,12066008.0,,Christlich Demokratische Union Deutschlands,66008.0
 1121,Altdobern,DIE LINKE,3,,1,2019.0,BB,3229,12066008.0,,DIE LINKE,66008.0
 1122,Neupetershain,SPD,4.0,,2.0,2014.0,BB,3103,12066228.0,,Sozialdemokratische Partei Deutschlands,66228.0
-1123,Neupetershain,GRÜNE/B90,4.0,,2.0,2014.0,BB,3103,12066228.0,,BÜNDNIS90/DIE GRÜNEN,66228.0
+1123,Neupetershain,GRÜNE,4.0,,2.0,2014.0,BB,3103,12066228.0,,BÜNDNIS90/DIE GRÜNEN,66228.0
 1124,Neupetershain,SPD,5,,2,2019.0,BB,3103,12066228.0,,Sozialdemokratische Partei Deutschlands,66228.0
 1125,Kroppen,CDU,6.0,,1.0,2014.0,BB,1945,12066168.0,,Christlich Demokratische Union,66168.0
 1126,Kroppen,CDU,7,,2,2019.0,BB,1945,12066168.0,,Christlich Demokratische Union Deutschlands,66168.0
@@ -17986,9 +17906,9 @@ Christlich Demokratische Union Deutschlands
 1128,Lindenau,CDU,9,,1,2019.0,BB,1945,12066188.0,,Christlich Demokratische Union,66188.0
 1129,Ortrand,CDU,13.0,,1.0,2014.0,BB,1990,12066240.0,,Christlich Demokratische Union,66240.0
 1130,Ortrand,DIE LINKE,1.0,,1.0,2014.0,BB,1990,12066240.0,,DIE LINKE,66240.0
-1131,Ortrand,Grüne/B90,1.0,,0.0,2014.0,BB,1990,12066240.0,,Bündnis 90 / Die Grünen,66240.0
+1131,Ortrand,GRÜNE,1.0,,0.0,2014.0,BB,1990,12066240.0,,Bündnis 90 / Die Grünen,66240.0
 1132,Ortrand,CDU,14,,3,2019.0,BB,1990,12066240.0,,Christlich Demokratische Union Deutschlands,66240.0
-1133,Ortrand,GRÜNE/B90,1,,1,2019.0,BB,1990,12066240.0,,BÜNDNIS 90/DIE GRÜNEN,66240.0
+1133,Ortrand,GRÜNE,1,,1,2019.0,BB,1990,12066240.0,,BÜNDNIS 90/DIE GRÜNEN,66240.0
 1134,Ortrand,AfD,7,,0,2019.0,BB,1990,12066240.0,,Alternative für Deutschland,66240.0
 1135,Tettau,CDU,7.0,,1.0,2014.0,BB,1945,12066316.0,,Christlich Demokratische Union,66316.0
 1136,Tettau,CDU,7,,2,2019.0,BB,1945,12066316.0,,Christlich Demokratische Union Deutschlands,66316.0
@@ -17998,12 +17918,11 @@ Christlich Demokratische Union Deutschlands
 1140,Ruhland,SPD,,,,2019.0,BB,1945,12066272.0,,Sozialdemokratische Partei Deutschlands,66272.0
 1141,Ruhland,CDU,,,,2019.0,BB,1945,12066272.0,,Christlich Demokratische Union Deutschlands,66272.0
 1142,Ruhland,DIE LINKE,,,,2019.0,BB,1945,12066272.0,,DIE LINKE,66272.0
-1143,Ruhland,NPD,,,,2019.0,BB,1945,12066272.0,,Nationaldemokratische Partei Deutschlands,66272.0
 1144,Ruhland,GRÜNE,,,,2019.0,BB,1945,12066272.0,,BÜNDNIS 90/DIE GRÜNEN,66272.0
 1145,Schwarzbach,SPD,6.0,,2.0,2014.0,BB,1945,12066292.0,,Sozialdemokratische Partei Deutschlands,66292.0
 1146,Schwarzbach,CDU,5.0,,0.0,2014.0,BB,1945,12066292.0,,Christlich Demokratische Union Deutschlands,66292.0
 1147,Beeskow,SPD,9.0,,3.0,2014.0,BB,15848,12067036.0,,SPD,67036.0
-1148,Beeskow,Die Linke,8.0,,5.0,2014.0,BB,15848,12067036.0,,Die Linke,67036.0
+1148,Beeskow,DIE LINKE,8.0,,5.0,2014.0,BB,15848,12067036.0,,Die Linke,67036.0
 1149,Beeskow,CDU,10.0,,2.0,2014.0,BB,15848,12067036.0,,Christlich Demokratische Union Deutschlands,67036.0
 1150,Beeskow,FDP,6.0,,1.0,2014.0,BB,15848,12067036.0,,Freie Demokratsiche Partei,67036.0
 1151,Beeskow,SPD,11,,3,2019.0,BB,15848,12067036.0,,Sozialpolitische Partei Deutschlands,67036.0
@@ -18016,14 +17935,11 @@ Christlich Demokratische Union Deutschlands
 1158,Eisenhuttenstadt,FDP,3.0,,0.0,2014.0,BB,15890,12067120.0,,Freie Demokratische Partei,67120.0
 1159,Eisenhuttenstadt,GRÜNE,2.0,,1.0,2014.0,BB,15890,12067120.0,,BÜNDNIS 90/DIE GRÜNEN,67120.0
 1160,Eisenhuttenstadt,AfD,2.0,,0.0,2014.0,BB,15890,12067120.0,,Alternative für Deutschland,67120.0
-1161,Eisenhuttenstadt,PIRATEN,4.0,,0.0,2014.0,BB,15890,12067120.0,,Piratenpartei Deutschland,67120.0
-1162,Eisenhuttenstadt,REP,2.0,,1.0,2014.0,BB,15890,12067120.0,,Die Republikaner,67120.0
 1163,Eisenhuttenstadt,SPD,16,,5,2019.0,BB,15890,12067120.0,,Sozialdemokratische Partei Deutschlands,67120.0
 1164,Eisenhuttenstadt,DIE LINKE,12,,5,2019.0,BB,15890,12067120.0,,DIE LINKE,67120.0
 1165,Eisenhuttenstadt,CDU,6,,3,2019.0,BB,15890,12067120.0,,Christlich Demikratische Union Deutschlands,67120.0
 1166,Eisenhuttenstadt,AfD,11,,1,2019.0,BB,15890,12067120.0,,Alternative für Deutschland,67120.0
 1167,Eisenhuttenstadt,GRÜNE,4,,1,2019.0,BB,15890,12067120.0,,BÜNDNIS 90/DIE GRÜNEN,67120.0
-1168,Eisenhuttenstadt,PIRATEN,2,,0,2019.0,BB,15890,12067120.0,,Piratenpartei Deutschland,67120.0
 1169,Erkner,SPD,22.0,,4.0,2014.0,BB,15537,12067124.0,,SPD,67124.0
 1170,Erkner,DIE LINKE,12.0,,4.0,2014.0,BB,15537,12067124.0,,DIE LINKE,67124.0
 1171,Erkner,CDU,13.0,,4.0,2014.0,BB,15537,12067124.0,,Christlich Demokratische Union Deutschlands,67124.0
@@ -18044,15 +17960,12 @@ Christlich Demokratische Union Deutschlands
 1186,Furstenwalde-Spree,FDP,12.0,,2.0,2014.0,BB,15517,12067144.0,,Freie Demokratische Partei ,67144.0
 1187,Furstenwalde-Spree,GRÜNE,6.0,,0.0,2014.0,BB,15517,12067144.0,,BÜNDNIS 90/DIE GRÜNEN,67144.0
 1188,Furstenwalde-Spree,AfD,2.0,,0.0,2014.0,BB,15517,12067144.0,,Alternative für Deutschland,67144.0
-1189,Furstenwalde-Spree,PIRATEN,3.0,,0.0,2014.0,BB,15517,12067144.0,,Piratenpartei Deutschland,67144.0
 1190,Furstenwalde-Spree,SPD,16,,8,2019.0,BB,15517,12067144.0,,Sozialdemokratische Partei Deutschlands,67144.0
 1191,Furstenwalde-Spree,DIE LINKE,15,,4,2019.0,BB,15517,12067144.0,,DIE LINKE,67144.0
 1192,Furstenwalde-Spree,CDU,18,,5,2019.0,BB,15517,12067144.0,,Christlich Demokratische Union Deutschlands,67144.0
 1193,Furstenwalde-Spree,AfD,7,,1,2019.0,BB,15517,12067144.0,,Alternative für Deutschland,67144.0
-1194,Furstenwalde-Spree,GÜNE/B 90,8,,2,2019.0,BB,15517,12067144.0,,BÜNDNIS 90/DIE GRÜNEN,67144.0
+1194,Furstenwalde-Spree,GRÜNE,8,,2,2019.0,BB,15517,12067144.0,,BÜNDNIS 90/DIE GRÜNEN,67144.0
 1195,Furstenwalde-Spree,FDP,10,,4,2019.0,BB,15517,12067144.0,,Freie Demokratische Partei,67144.0
-1196,Furstenwalde-Spree,PIRATEN,2,,1,2019.0,BB,15517,12067144.0,,Piratenpartei Deutschland,67144.0
-1197,Furstenwalde-Spree,Die PARTEI,15,,3,2019.0,BB,15517,12067144.0,,"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative",67144.0
 1198,Grunheide (Mark),SPD,14.0,,8.0,2014.0,BB,15537,12067201.0,,SPD,67201.0
 1199,Grunheide (Mark),DIE LINKE,5.0,,1.0,2014.0,BB,15537,12067201.0,,DIE LINKE,67201.0
 1200,Grunheide (Mark),CDU,7.0,,0.0,2014.0,BB,15537,12067201.0,,Christlich Demokratische Union Deutschlands,67201.0
@@ -18067,18 +17980,16 @@ Christlich Demokratische Union Deutschlands
 1209,Rietz-Neuendorf,DIE LINKE,1,,0,2019.0,BB,15848,12067426.0,,DIE LINKE,67426.0
 1210,Rietz-Neuendorf,CDU,1,,0,2019.0,BB,15848,12067426.0,,Christlich Demokratische Union Deutschlands,67426.0
 1211,Rietz-Neuendorf,GRÜNE,1,,0,2019.0,BB,15848,12067426.0,,BÜNDNIS 90/DIE GRÜNEN,67426.0
-1212,Rietz-Neuendorf,PIRATEN,1,,0,2019.0,BB,15848,12067426.0,,Piratenpartei Deutschland,67426.0
 1213,Schoneiche bei Berlin,SPD,16.0,,4.0,2014.0,BB,15566,12067440.0,,SPD,67440.0
 1214,Schoneiche bei Berlin,DIE LINKE,14.0,,8.0,2014.0,BB,15566,12067440.0,,DIE LINKE,67440.0
 1215,Schoneiche bei Berlin,CDU,11.0,,5.0,2014.0,BB,15566,12067440.0,,Christlich Demokratische Union Deutschlands,67440.0
 1216,Schoneiche bei Berlin,FDP,5.0,,0.0,2014.0,BB,15566,12067440.0,,Freie Demokratische Partei,67440.0
-1217,Schoneiche bei Berlin,GRÜNE/ B90,4.0,,1.0,2014.0,BB,15566,12067440.0,,BÜNDNIS 90/DIE GRÜNEN,67440.0
+1217,Schoneiche bei Berlin,GRÜNE,4.0,,1.0,2014.0,BB,15566,12067440.0,,BÜNDNIS 90/DIE GRÜNEN,67440.0
 1218,Schoneiche bei Berlin,SPD,18,,6,2019.0,BB,15566,12067440.0,,Sozialdemokratische Partei Deutschlands,67440.0
 1219,Schoneiche bei Berlin,DIE LINKE,13,,6,2019.0,BB,15566,12067440.0,,DIE LINKE,67440.0
 1220,Schoneiche bei Berlin,CDU,14,,3,2019.0,BB,15566,12067440.0,,Christliche Demokratische Union Deutschlands,67440.0
 1221,Schoneiche bei Berlin,GRÜNE,13,,6,2019.0,BB,15566,12067440.0,,BÜNDNIS 90/DIE GRÜNEN,67440.0
 1222,Schoneiche bei Berlin,FDP,7,,0,2019.0,BB,15566,12067440.0,,Freie Demokratische Partei,67440.0
-1223,Schoneiche bei Berlin,PIRATEN,1,,0,2019.0,BB,15566,12067440.0,,Piratenpartei Deutschland,67440.0
 1224,Steinhofel,SPD,2.0,,1.0,2014.0,BB,15518,12067473.0,,SPD,67473.0
 1225,Steinhofel,DIE LINKE,2.0,,1.0,2014.0,BB,15518,12067473.0,,DIE LINKE,67473.0
 1226,Steinhofel,CDU,5.0,,0.0,2014.0,BB,15518,12067473.0,,Christlich Demokratische Union Deutschlands,67473.0
@@ -18086,18 +17997,16 @@ Christlich Demokratische Union Deutschlands
 1228,Steinhofel,SPD,1,,1,2019.0,BB,15518,12067473.0,,Sozialdemokratische Parteil Deutschlands,67473.0
 1229,Steinhofel,DIE LINKE,3,,3,2019.0,BB,15518,12067473.0,,DIE LINKE,67473.0
 1230,Steinhofel,CDU,1,,0,2019.0,BB,15518,12067473.0,,Christlich Demokratische Union Deutschlands ,67473.0
-1231,Steinhofel,Grüne/B90,1,,0,2019.0,BB,15518,12067473.0,,BÜNDNIS 90/DIE GRÜNEN,67473.0
+1231,Steinhofel,GRÜNE,1,,0,2019.0,BB,15518,12067473.0,,BÜNDNIS 90/DIE GRÜNEN,67473.0
 1232,Storkow (Mark),SPD,15.0,,6.0,2014.0,BB,15859,12067481.0,,SPD,67481.0
 1233,Storkow (Mark),DIE LINKE,7.0,,2.0,2014.0,BB,15859,12067481.0,,DIE LINKE,67481.0
 1234,Storkow (Mark),CDU,5.0,,1.0,2014.0,BB,15859,12067481.0,,Christlich Demokratische Union Deutschlands,67481.0
-1235,Storkow (Mark),NPD,2.0,,0.0,2014.0,BB,15859,12067481.0,,Nationaldemokratische Partei Deutschlands ,67481.0
 1236,Storkow (Mark),SPD,11,,5,2019.0,BB,15859,12067481.0,,Sozialdemokratische Partei Deutschland,67481.0
 1237,Storkow (Mark),DIE LINKE,6,,3,2019.0,BB,15859,12067481.0,,DIE LINKE,67481.0
 1238,Storkow (Mark),CDU,3,,1,2019.0,BB,15859,12067481.0,,Christlich Demokratische Union Deutschland,67481.0
-1239,Storkow (Mark),AFD,3,,0,2019.0,BB,15859,12067481.0,,Alternative für Deutschland,67481.0
+1239,Storkow (Mark),AfD,3,,0,2019.0,BB,15859,12067481.0,,Alternative für Deutschland,67481.0
 1240,Storkow (Mark),FDP,1,,0,2019.0,BB,15859,12067481.0,,Freie Demokratische Partei,67481.0
 1241,Tauche,SPD,3.0,,1.0,2014.0,BB,15848,12067493.0,,SPD,67493.0
-1242,Tauche,,2.0,,1.0,2014.0,BB,15848,12067493.0,,DIE LINKE,67493.0
 1243,Tauche,CDU,1.0,,0.0,2014.0,BB,15848,12067493.0,,Christlich Demokratische Union Deutschlands,67493.0
 1244,Tauche,SPD,1,,0,2019.0,BB,15848,12067493.0,,Sozialdemokratische Partei Deutschlands,67493.0
 1245,Tauche,DIE LINKE,2,,1,2019.0,BB,15848,12067493.0,,DIE LINKE,67493.0
@@ -18107,7 +18016,7 @@ Christlich Demokratische Union Deutschlands
 1249,Woltersdorf,DIE LINKE,10.0,,4.0,2014.0,BB,15569,12067544.0,,DIE LINKE,67544.0
 1250,Woltersdorf,CDU,12.0,,3.0,2014.0,BB,15569,12067544.0,,Christlich Demokratische Union Deutschlands,67544.0
 1251,Woltersdorf,FDP,12.0,,4.0,2014.0,BB,15569,12067544.0,,Freie Demokratische Partei ,67544.0
-1252,Woltersdorf,B90/GRÜNE,6.0,,2.0,2014.0,BB,15569,12067544.0,,Bündnis 90/Die Grünen,67544.0
+1252,Woltersdorf,GRÜNE,6.0,,2.0,2014.0,BB,15569,12067544.0,,Bündnis 90/Die Grünen,67544.0
 1253,Woltersdorf,SPD,11,,4,2019.0,BB,15569,12067544.0,,Sozialdemokratische Partei Deutschlands,67544.0
 1254,Woltersdorf,DIE LINKE,10,,5,2019.0,BB,15569,12067544.0,,DIE LINKE,67544.0
 1255,Woltersdorf,CDU,12,,4,2019.0,BB,15569,12067544.0,,Christlich Demokratische Union Deutschlands,67544.0
@@ -18117,7 +18026,7 @@ Christlich Demokratische Union Deutschlands
 1259,Brieskow-Finkenheerd,DIE LINKE,1.0,,0.0,2014.0,BB,15295,12067076.0,,DIE LINKE,67076.0
 1260,Brieskow-Finkenheerd,CDU,6.0,,2.0,2014.0,BB,15295,12067076.0,,Christlich Demokratische Union Deutschlands,67076.0
 1261,Brieskow-Finkenheerd,SPD,9,,3,2019.0,BB,15295,12067076.0,,Sozialdemokratische Partei Deutschlands,67076.0
-1262,Brieskow-Finkenheerd,Die Linke,1,,0,2019.0,BB,15295,12067076.0,,DIE LINKE,67076.0
+1262,Brieskow-Finkenheerd,DIE LINKE,1,,0,2019.0,BB,15295,12067076.0,,DIE LINKE,67076.0
 1263,Gross Lindow,SPD,2.0,,0.0,2014.0,BB,15295,12067180.0,,SPD,67180.0
 1264,Vogelsang,SPD,1.0,,0.0,2014.0,BB,15890,12067508.0,,SPD,67508.0
 1265,Vogelsang,SPD,1,,0,2019.0,BB,15890,12067508.0,,Sozialdemokratische Partei Deutschland,67508.0
@@ -18152,7 +18061,7 @@ Christlich Demokratische Union Deutschlands
 1294,Bad Saarow,SPD,2,,0,2019.0,BB,15526,12067024.0,,Sozialdemokratische Partei Deutschlands,67024.0
 1295,Bad Saarow,DIE LINKE,8,,3,2019.0,BB,15526,12067024.0,,DIE LINKE,67024.0
 1296,Bad Saarow,CDU,9,,2,2019.0,BB,15526,12067024.0,,Christlich Demokratische Union Deutschlands,67024.0
-1297,Bad Saarow,GRÜNE/B90,1,,0,2019.0,BB,15526,12067024.0,,BÜNDNIS 90/DIE GRÜNEN,67024.0
+1297,Bad Saarow,GRÜNE,1,,0,2019.0,BB,15526,12067024.0,,BÜNDNIS 90/DIE GRÜNEN,67024.0
 1298,Bad Saarow,FDP,5,,1,2019.0,BB,15526,12067024.0,,Freie Demokratische Partei,67024.0
 1299,Reichenwalde,SPD,11.0,,5.0,2014.0,BB,15526,12067413.0,,SPD,67413.0
 1300,Reichenwalde,DIE LINKE,3.0,,2.0,2014.0,BB,15526,12067413.0,,DIE LINKE,67413.0
@@ -18190,11 +18099,9 @@ Christlich Demokratische Union Deutschlands
 1332,Spreenhagen,SPD,11.0,,4.0,2014.0,BB,15528,12067469.0,,SPD,67469.0
 1333,Spreenhagen,DIE LINKE,1.0,,1.0,2014.0,BB,15528,12067469.0,,DIE LINKE,67469.0
 1334,Spreenhagen,CDU,3.0,,1.0,2014.0,BB,15528,12067469.0,,Christlich Demokratische Union Deutschlands,67469.0
-1335,Spreenhagen,NPD,1.0,,1.0,2014.0,BB,15528,12067469.0,,Nationaldemokratische Partei Deutschlands,67469.0
 1336,Spreenhagen,SPD,8,,3,2019.0,BB,15528,12067469.0,,Sozialdemokratische Partei Deutschlands,67469.0
 1337,Spreenhagen,CDU,2,,0,2019.0,BB,15528,12067469.0,,Christlich Demokratische Union Deutschlands,67469.0
 1338,Spreenhagen,GRÜNE,1,,0,2019.0,BB,15528,12067469.0,,BÜNDNIS 90/DIE GRÜNEN,67469.0
-1339,Spreenhagen,NPD,1,,1,2019.0,BB,15528,12067469.0,,Nationaldemokratische Partei Deutschlands,67469.0
 1340,Fehrbellin,SPD,7.0,,1.0,2014.0,BB,16833,12068117.0,,Sozialdemokratische Partei Deutschlands,68117.0
 1341,Fehrbellin,DIE LINKE,5.0,,3.0,2014.0,BB,16833,12068117.0,,DIE LINKE,68117.0
 1342,Fehrbellin,CDU,7.0,,1.0,2014.0,BB,16833,12068117.0,,Christlich Demokratische Union Deutschlands,68117.0
@@ -18202,7 +18109,7 @@ Christlich Demokratische Union Deutschlands
 1344,Fehrbellin,SPD,5,,3,2019.0,BB,16833,12068117.0,,Sozialdemokratische Partei Deutschlands,68117.0
 1345,Fehrbellin,CDU,6,,0,2019.0,BB,16833,12068117.0,,Christlich Demokratische Union,68117.0
 1346,Fehrbellin,DIE LINKE,9,,5,2019.0,BB,16833,12068117.0,,DIE LINKE,68117.0
-1347,Fehrbellin,GRÜNE/ B90,4,,1,2019.0,BB,16833,12068117.0,,Bündnis 90/Die Grünen,68117.0
+1347,Fehrbellin,GRÜNE,4,,1,2019.0,BB,16833,12068117.0,,Bündnis 90/Die Grünen,68117.0
 1348,Heiligengrabe,DIE LINKE,1.0,,1.0,2014.0,BB,16909,12068181.0,,DIE LINKE,68181.0
 1349,Heiligengrabe,CDU,1,,1,2019.0,BB,16909,12068181.0,,Christlich Demokratische Union Deutschland,68181.0
 1350,Heiligengrabe,DIE LINKE,2,,1,2019.0,BB,16909,12068181.0,,DIE LINKE,68181.0
@@ -18213,13 +18120,12 @@ Christlich Demokratische Union Deutschlands
 1355,Kyritz,SPD,11,,3,2019.0,BB,16866,12068264.0,,Sozialdemokratische Partei Deutschlands,68264.0
 1356,Kyritz,CDU,19,,6,2019.0,BB,16866,12068264.0,,Christlich Demokratische Union Deutschlands,68264.0
 1357,Kyritz,DIE LINKE,15,,8,2019.0,BB,16866,12068264.0,,DIE LINKE,68264.0
-1358,Kyritz,Grüne/B90,8,,4,2019.0,BB,16866,12068264.0,,Bündnis 90/Die Grünen,68264.0
+1358,Kyritz,GRÜNE,8,,4,2019.0,BB,16866,12068264.0,,Bündnis 90/Die Grünen,68264.0
 1359,Neuruppin,SPD,19.0,,3.0,2014.0,BB,16816,12068320.0,,Sozialdemokratische Partei Deutschlands,68320.0
 1360,Neuruppin,DIE LINKE,20.0,,7.0,2014.0,BB,16816,12068320.0,,DIE LINKE,68320.0
 1361,Neuruppin,CDU,12.0,,1.0,2014.0,BB,16816,12068320.0,,Christlich Demokratische Union Deutschlands,68320.0
 1362,Neuruppin,FDP,11.0,,3.0,2014.0,BB,16816,12068320.0,,Freie Demokratische Partei,68320.0
 1363,Neuruppin,GRÜNE,7.0,,0.0,2014.0,BB,16816,12068320.0,,BÜNDNIS 90/DIE GRÜNEN,68320.0
-1364,Neuruppin,NPD,1.0,,0.0,2014.0,BB,16816,12068320.0,,Nationaldemokratische Partei Deutschlands,68320.0
 1365,Neuruppin,SPD,23,,5,2019.0,BB,16816,12068320.0,,Sozialdemokratische Partei Deutschlands,68320.0
 1366,Neuruppin,CDU,17,,2,2019.0,BB,16816,12068320.0,,Christlich Demokratische Union Deutschlands,68320.0
 1367,Neuruppin,DIE LINKE,21,,10,2019.0,BB,16816,12068320.0,,DIE LINKE ,68320.0
@@ -18234,7 +18140,6 @@ Christlich Demokratische Union Deutschlands
 1376,Rheinsberg,CDU,13,,4,2019.0,BB,16831,12068353.0,,Christlich Demokratische Union,68353.0
 1377,Rheinsberg,DIE LINKE,8,,1,2019.0,BB,16831,12068353.0,,DIE LINKE,68353.0
 1378,Rheinsberg,FDP,7,,2,2019.0,BB,16831,12068353.0,,Freie Demokratische Partei,68353.0
-1379,Rheinsberg,PIRATEN,2,,0,2019.0,BB,16831,12068353.0,,Piratenpartei Deutschlands,68353.0
 1380,Wittstock-Dosse,SPD,14.0,,4.0,2014.0,BB,16909,12068468.0,,Sozialdemokratische Partei Deutschlands,68468.0
 1381,Wittstock-Dosse,DIE LINKE,12.0,,4.0,2014.0,BB,16909,12068468.0,,DIE LINKE,68468.0
 1382,Wittstock-Dosse,CDU,17.0,,3.0,2014.0,BB,16909,12068468.0,,Christlich Demokratische Union Deutschlands,68468.0
@@ -18260,7 +18165,7 @@ Christlich Demokratische Union Deutschlands
 1402,Lindow (Mark),GRÜNE,1.0,,0.0,2014.0,BB,16835,12068280.0,,BÜNDNIS 90/DIE GRÜNEN,68280.0
 1403,Lindow (Mark),SPD,6,,2,2019.0,BB,16835,12068280.0,,Sozialdemokratische Partei Deutschlands,68280.0
 1404,Lindow (Mark),CDU,8,,3,2019.0,BB,16835,12068280.0,,Christlich Demokratische Union Deutschlands,68280.0
-1405,Lindow (Mark),Grüne/B 90,5,,2,2019.0,BB,16835,12068280.0,,Bündnis 90/Die Grünen,68280.0
+1405,Lindow (Mark),GRÜNE,5,,2,2019.0,BB,16835,12068280.0,,Bündnis 90/Die Grünen,68280.0
 1406,Lindow (Mark),FDP,4,,2,2019.0,BB,16835,12068280.0,,Freie Demokratische Partei,68280.0
 1407,Ruthnick,CDU,1.0,,0.0,2014.0,BB,16835,12068372.0,,Christlich Demokratische Union Deutschlands,68372.0
 1408,Ruthnick,CDU,1,,0,2019.0,BB,16835,12068372.0,,Christlich Demokratische Union Deutschlands,68372.0
@@ -18305,7 +18210,7 @@ Christlich Demokratische Union Deutschlands
 1447,Beelitz,CDU,15,,6,2019.0,BB,14547,12069017.0,,Christlich Demokratische Union Deutschlands,69017.0
 1448,Beelitz,SPD,5,,2,2019.0,BB,14547,12069017.0,,Sozialdemokratische Partei Deutschlands,69017.0
 1449,Beelitz,DIE LINKE,8,,5,2019.0,BB,14547,12069017.0,,DIE LINKE,69017.0
-1450,Beelitz,GRÜNE/B90,21,,11,2019.0,BB,14547,12069017.0,,BÜNDNIS 90/ DIE GRÜNEN,69017.0
+1450,Beelitz,GRÜNE,21,,11,2019.0,BB,14547,12069017.0,,BÜNDNIS 90/ DIE GRÜNEN,69017.0
 1451,Beelitz,FDP,5,,1,2019.0,BB,14547,12069017.0,,Freie Demokratische Partei,69017.0
 1452,Gross Kreutz (Havel),SPD,10.0,,1.0,2014.0,BB,14550,12069249.0,,Sozialdemokratische Partei Deutschlands,69249.0
 1453,Gross Kreutz (Havel),CDU,22.0,,4.0,2014.0,BB,14550,12069249.0,,Christlich Demokratische Partei Deutschlands,69249.0
@@ -18320,11 +18225,10 @@ Christlich Demokratische Union Deutschlands
 1462,Kleinmachnow,FDP,15.0,,3.0,2014.0,BB,14532,12069304.0,,Freie Demokratische Partei,69304.0
 1463,Kleinmachnow,GRÜNE,15.0,,5.0,2014.0,BB,14532,12069304.0,,BÜNDNIS 90 / DIE GRÜNEN,69304.0
 1464,Kleinmachnow,AfD,2.0,,1.0,2014.0,BB,14532,12069304.0,,Alternative für Deutschland ,69304.0
-1465,Kleinmachnow,PIRATEN,2.0,,0.0,2014.0,BB,14532,12069304.0,,Piratenpartei Deutschland,69304.0
 1466,Kleinmachnow,CDU,29,,9,2019.0,BB,14532,12069304.0,,Christlich Demokratische Union Deutslands,69304.0
 1467,Kleinmachnow,SPD,26,,7,2019.0,BB,14532,12069304.0,,Sozialdemokratische Partei Deutschlands,69304.0
 1468,Kleinmachnow,DIE LINKE,10,,2,2019.0,BB,14532,12069304.0,,DIE LINKE,69304.0
-1469,Kleinmachnow,Grüne/B 90,15,,8,2019.0,BB,14532,12069304.0,,BÜNDNIS 90/DIE GRÜNEN,69304.0
+1469,Kleinmachnow,GRÜNE,15,,8,2019.0,BB,14532,12069304.0,,BÜNDNIS 90/DIE GRÜNEN,69304.0
 1470,Kleinmachnow,AfD,1,,1,2019.0,BB,14532,12069304.0,,Alternative für Deutschland,69304.0
 1471,Kleinmachnow,FDP,17,,6,2019.0,BB,14532,12069304.0,,Freie Demokratische Partei,69304.0
 1472,Kloster Lehnin,SPD,18.0,,2.0,2014.0,BB,14797,12069306.0,,Sozialdemokratische Partei Deutschlands,69306.0
@@ -18351,8 +18255,8 @@ Christlich Demokratische Union Deutschlands
 1493,Nuthetal,GRÜNE,6.0,,1.0,2014.0,BB,14558,12069454.0,,BÜNDNIS 90 / DIE GRÜNEN,69454.0
 1494,Nuthetal,CDU,20,,2,2019.0,BB,14558,12069454.0,,Christliche Demokratische Union Deutschlands,69454.0
 1495,Nuthetal,SPD,16,,6,2019.0,BB,14558,12069454.0,,Sozialdemokratische Partei Deutschlands,69454.0
-1496,Nuthetal,Die Linke,14,,5,2019.0,BB,14558,12069454.0,,Die Linke,69454.0
-1497,Nuthetal,Grüne/B 90,6,,1,2019.0,BB,14558,12069454.0,,Bündnis 90/Die Grünen,69454.0
+1496,Nuthetal,DIE LINKE,14,,5,2019.0,BB,14558,12069454.0,,Die Linke,69454.0
+1497,Nuthetal,GRÜNE,6,,1,2019.0,BB,14558,12069454.0,,Bündnis 90/Die Grünen,69454.0
 1498,Nuthetal,AfD,1,,1,2019.0,BB,14558,12069454.0,,Alternative für Deutschland,69454.0
 1499,Schwielowsee,SPD,33.0,,9.0,2014.0,BB,14548,12069590.0,,Sozialdemokratische Parti Deuschlands,69590.0
 1500,Schwielowsee,DIE LINKE,9.0,,5.0,2014.0,BB,14548,12069590.0,,DIE LINKE,69590.0
@@ -18381,7 +18285,6 @@ Christlich Demokratische Union Deutschlands
 1523,Teltow,DIE LINKE,12.0,,1.0,2014.0,BB,14513,12069616.0,,DIE LINKE,69616.0
 1524,Teltow,FDP,17.0,,2.0,2014.0,BB,14513,12069616.0,,Freie Demokratische Partei,69616.0
 1525,Teltow,GRÜNE,7.0,,1.0,2014.0,BB,14513,12069616.0,,BÜNDNIS 90 / DIE GRÜNEN,69616.0
-1526,Teltow,PIRATEN,3.0,,1.0,2014.0,BB,14513,12069616.0,,Piratenpartei Deutschland,69616.0
 1527,Teltow,CDU,16,,6,2019.0,BB,14513,12069616.0,,Christlich Demokratische Union Deutschlands,69616.0
 1528,Teltow,SPD,27,,12,2019.0,BB,14513,12069616.0,,Sozialdemokratische Partei Deutschlands,69616.0
 1529,Teltow,DIE LINKE,10,,2,2019.0,BB,14513,12069616.0,,DIE LINKE,69616.0
@@ -18392,10 +18295,9 @@ Christlich Demokratische Union Deutschlands
 1534,Treuenbrietzen,CDU,13.0,,4.0,2014.0,BB,14929,12069632.0,,Christlich Demokratische Union Deutschlands,69632.0
 1535,Treuenbrietzen,DIE LINKE,2.0,,0.0,2014.0,BB,14929,12069632.0,,DIE LINKE,69632.0
 1536,Treuenbrietzen,FDP,5.0,,1.0,2014.0,BB,14929,12069632.0,,Freie Demokratische Partei ,69632.0
-1537,Treuenbrietzen,PIRATEN,1.0,,0.0,2014.0,BB,14929,12069632.0,,Piratenpartei Deutschland,69632.0
 1538,Treuenbrietzen,CDU,14,,7,2019.0,BB,14929,12069632.0,,Christlich Demokratische Union Deutschlands,69632.0
 1539,Treuenbrietzen,SPD,11,,3,2019.0,BB,14929,12069632.0,,Sozialdemokratische Partei Deutschlands,69632.0
-1540,Treuenbrietzen,DIE LINKE.,3,,1,2019.0,BB,14929,12069632.0,,DIE LINKE,69632.0
+1540,Treuenbrietzen,DIE LINKE,3,,1,2019.0,BB,14929,12069632.0,,DIE LINKE,69632.0
 1541,Treuenbrietzen,GRÜNE,10,,7,2019.0,BB,14929,12069632.0,,BÜNDNIS 90/DIE GRÜNEN,69632.0
 1542,Treuenbrietzen,FDP,3,,1,2019.0,BB,14929,12069632.0,,Freie Demokratische Partei,69632.0
 1543,Werder (Havel),SPD,22.0,,7.0,2014.0,BB,14542,12069656.0,,Sozialdemokratische Partei Deutschlands,69656.0
@@ -18407,14 +18309,14 @@ Christlich Demokratische Union Deutschlands
 1549,Werder (Havel),CDU,48,,12,2019.0,BB,14542,12069656.0,,Christlich Demokratische Union Deutschlands,69656.0
 1550,Werder (Havel),SPD,20,,7,2019.0,BB,14542,12069656.0,,Sozialdemokratische Partei Deutschlands,69656.0
 1551,Werder (Havel),DIE LINKE,11,,5,2019.0,BB,14542,12069656.0,,DIE LINKE,69656.0
-1552,Werder (Havel),GRÜNE/B90,20,,6,2019.0,BB,14542,12069656.0,,BÜNDNIS 90/DIE GRÜNEN,69656.0
+1552,Werder (Havel),GRÜNE,20,,6,2019.0,BB,14542,12069656.0,,BÜNDNIS 90/DIE GRÜNEN,69656.0
 1553,Werder (Havel),AfD,4,,0,2019.0,BB,14542,12069656.0,,Alternative für Deutschland,69656.0
 1554,Werder (Havel),FDP,10,,1,2019.0,BB,14542,12069656.0,,Freie Demokratische Partei,69656.0
 1555,Wiesenburg-Mark,SPD,6.0,,2.0,2014.0,BB,14827,12069665.0,,Sozialdemokratische Partei Deutschlands,69665.0
 1556,Wiesenburg-Mark,CDU,3.0,,0.0,2014.0,BB,14827,12069665.0,,Christlich Demokratische Partei Deutschlands,69665.0
 1557,Wiesenburg-Mark,DIE LINKE,5.0,,3.0,2014.0,BB,14827,12069665.0,,DIE LINKE,69665.0
 1558,Wiesenburg-Mark,FDP,2.0,,1.0,2014.0,BB,14827,12069665.0,,Freie Demokratische Partei,69665.0
-1559,Wiesenburg-Mark,GRÜNE B/90,2.0,,0.0,2014.0,BB,14827,12069665.0,,BÜNDNIS 90 / DIE GRÜNEN,69665.0
+1559,Wiesenburg-Mark,GRÜNE,2.0,,0.0,2014.0,BB,14827,12069665.0,,BÜNDNIS 90 / DIE GRÜNEN,69665.0
 1560,Wiesenburg-Mark,CDU,1,,0,2019.0,BB,14827,12069665.0,,Christlich Demokratische Union Deutschlands,69665.0
 1561,Wiesenburg-Mark,SPD,4,,2,2019.0,BB,14827,12069665.0,,Sozialdemokratische Partei Deutschlands,69665.0
 1562,Wiesenburg-Mark,DIE LINKE,6,,3,2019.0,BB,14827,12069665.0,,DIE LINKE,69665.0
@@ -18442,7 +18344,7 @@ Christlich Demokratische Union Deutschlands
 1584,Borkwalde,DIE LINKE,7.0,,4.0,2014.0,BB,14822,12069056.0,,DIE LINKE,69056.0
 1585,Borkwalde,SPD,3,,0,2019.0,BB,14822,12069056.0,,Sozialdemokratische Partei Deutschlands,69056.0
 1586,Borkwalde,DIE LINKE,5,,2,2019.0,BB,14822,12069056.0,,DIE LINKE,69056.0
-1587,Borkwalde,GRÜNE/ B 90,5,,2,2019.0,BB,14822,12069056.0,,BÜNDNIS 90/ DIE GRÜNEN,69056.0
+1587,Borkwalde,GRÜNE,5,,2,2019.0,BB,14822,12069056.0,,BÜNDNIS 90/ DIE GRÜNEN,69056.0
 1588,Borkwalde,AfD,3,,1,2019.0,BB,14822,12069056.0,,Alternative für Deutschland,69056.0
 1589,Bruck,SPD,9.0,,0.0,2014.0,BB,14822,12069076.0,,Sozialdemokratische Partei Deutschlands,69076.0
 1590,Bruck,CDU,8.0,,1.0,2014.0,BB,14822,12069076.0,,Christlich Demokratische Partei Deutschlands,69076.0
@@ -18488,16 +18390,16 @@ Christlich Demokratische Union Deutschlands
 1630,Gross Pankow (Prignitz),SPD,1.0,,1.0,2014.0,BB,16928,12070125.0,,Sozialdemokratische Partei Deutschlands ,70125.0
 1631,Gross Pankow (Prignitz),DIE LINKE,2.0,,1.0,2014.0,BB,16928,12070125.0,,DIE LINKE,70125.0
 1632,Gross Pankow (Prignitz),FDP,2.0,,0.0,2014.0,BB,16928,12070125.0,,Freie Demokratische Partei ,70125.0
-1633,Gross Pankow (Prignitz),GRÜNE/ B90,1.0,,0.0,2014.0,BB,16928,12070125.0,,Bündnis 90/ DIE GRÜNEN ,70125.0
-1634,Gross Pankow (Prignitz),AfD ,1.0,,0.0,2014.0,BB,16928,12070125.0,,Alternative für Deutschland ,70125.0
+1633,Gross Pankow (Prignitz),GRÜNE,1.0,,0.0,2014.0,BB,16928,12070125.0,,Bündnis 90/ DIE GRÜNEN ,70125.0
+1634,Gross Pankow (Prignitz),AfD,1.0,,0.0,2014.0,BB,16928,12070125.0,,Alternative für Deutschland ,70125.0
 1635,Gross Pankow (Prignitz),DIE LINKE,2,,2,2019.0,BB,16928,12070125.0,,DIE LINKE,70125.0
-1636,Gross Pankow (Prignitz),GRÜNE/B90,2,,0,2019.0,BB,16928,12070125.0,,BÜNDNIS 90/DIE GRÜNEN ,70125.0
+1636,Gross Pankow (Prignitz),GRÜNE,2,,0,2019.0,BB,16928,12070125.0,,BÜNDNIS 90/DIE GRÜNEN ,70125.0
 1637,Gross Pankow (Prignitz),AfD,1,,1,2019.0,BB,16928,12070125.0,,Alternative für Deutschland ,70125.0
 1638,Gumtow,CDU,8.0,,3.0,2014.0,BB,16866,12070149.0,,Christlich-Demokratische-Union-Deutschlands,70149.0
 1639,Gumtow,DIE LINKE,1.0,,0.0,2014.0,BB,16866,12070149.0,,DIE LINKE,70149.0
 1640,Gumtow,CDU,5,,1,2019.0,BB,16866,12070149.0,,Christlich Demokratische Union Deutsschlands,70149.0
 1641,Gumtow,DIE LINKE,1,,0,2019.0,BB,16866,12070149.0,,DIE LINKE,70149.0
-1642,Gumtow,GRÜNE/B90,12,,7,2019.0,BB,16866,12070149.0,,Aktiv für Gumtow/BÜNDNIS 90/DIE GÜNEN,70149.0
+1642,Gumtow,GRÜNE,12,,7,2019.0,BB,16866,12070149.0,,Aktiv für Gumtow/BÜNDNIS 90/DIE GÜNEN,70149.0
 1643,Karstadt,CDU,18.0,,3.0,2014.0,BB,19357,12070173.0,,Christlich Demokratische Union Deutschlands,70173.0
 1644,Karstadt,SPD,7.0,,2.0,2014.0,BB,19357,12070173.0,,Sozialdemokratische Partei Deutschlands,70173.0
 1645,Karstadt,DIE LINKE,3.0,,1.0,2014.0,BB,19357,12070173.0,,DIE LINKE,70173.0
@@ -18511,7 +18413,7 @@ Christlich Demokratische Union Deutschlands
 1653,Perleberg,SPD,11.0,,4.0,2014.0,BB,19348,12070296.0,,Sozialdemokratische Partei Deutschlands,70296.0
 1654,Perleberg,DIE LINKE,15.0,,6.0,2014.0,BB,19348,12070296.0,,DIE LINKE,70296.0
 1655,Perleberg,FDP,5.0,,0.0,2014.0,BB,19348,12070296.0,,Freie Demokratische Partei,70296.0
-1656,Perleberg,GRÜNE/B90,5.0,,1.0,2014.0,BB,19348,12070296.0,,BÜNDNIS 90/DIE GRÜNEN,70296.0
+1656,Perleberg,GRÜNE,5.0,,1.0,2014.0,BB,19348,12070296.0,,BÜNDNIS 90/DIE GRÜNEN,70296.0
 1657,Perleberg,CDU,12,,0,2019.0,BB,19348,12070296.0,,Christlich Demokratische Union Deutschlands,70296.0
 1658,Perleberg,SPD,13,,5,2019.0,BB,19348,12070296.0,,Sozialdemokratische Partei Deutschlands,70296.0
 1659,Perleberg,DIE LINKE,13,,7,2019.0,BB,19348,12070296.0,,DIE LINKE,70296.0
@@ -18520,7 +18422,7 @@ Christlich Demokratische Union Deutschlands
 1662,Plattenburg,CDU,4.0,,0.0,2014.0,BB,19339,12070302.0,,Christlich Demokratische Union,70302.0
 1663,Plattenburg,DIE LINKE,2.0,,1.0,2014.0,BB,19339,12070302.0,,DIE LINKE,70302.0
 1664,Plattenburg,FDP,1.0,,0.0,2014.0,BB,19339,12070302.0,,Freie Demokratische Partei,70302.0
-1665,Plattenburg,GRÜNE/B90,3.0,,1.0,2014.0,BB,19339,12070302.0,,BÜNDNIS 90/DIE GRÜNEN,70302.0
+1665,Plattenburg,GRÜNE,3.0,,1.0,2014.0,BB,19339,12070302.0,,BÜNDNIS 90/DIE GRÜNEN,70302.0
 1666,Plattenburg,CDU,2,,0,2019.0,BB,19339,12070302.0,,Christlich Demokratische Union Deutschlands,70302.0
 1667,Plattenburg,DIE LINKE,1,,1,2019.0,BB,19339,12070302.0,,DIE LINKE,70302.0
 1668,Plattenburg,FDP,1,,0,2019.0,BB,19339,12070302.0,,Freie Demokratische Partei,70302.0
@@ -18533,7 +18435,7 @@ Christlich Demokratische Union Deutschlands
 1675,Wittenberge,SPD,14,,4,2019.0,BB,19322,12070424.0,,Sozialdemokratische Partei Deutschlands,70424.0
 1676,Wittenberge,DIE LINKE,7,,3,2019.0,BB,19322,12070424.0,,DIE LINKE,70424.0
 1677,Wittenberge,FDP,13,,3,2019.0,BB,19322,12070424.0,,Freie Demokratische Partei,70424.0
-1678,Wittenberge,GRÜNE/B90,5,,2,2019.0,BB,19322,12070424.0,,BÜNDNIS 90/DIE GRÜNEN,70424.0
+1678,Wittenberge,GRÜNE,5,,2,2019.0,BB,19322,12070424.0,,BÜNDNIS 90/DIE GRÜNEN,70424.0
 1679,Wittenberge,AfD,4,,1,2019.0,BB,19322,12070424.0,,Alternative für Deutschland,70424.0
 1680,Bad Wilsnack,CDU,7.0,,0.0,2014.0,BB,19336,12070008.0,,Christlich Demokratische Union Deutschlands,70008.0
 1681,Bad Wilsnack,SPD,2.0,,1.0,2014.0,BB,19336,12070008.0,,Sozialdemokratische Partei Deutschlands,70008.0
@@ -18559,7 +18461,6 @@ Christlich Demokratische Union Deutschlands
 1701,Ruhstadt,SPD,1,,0,2019.0,BB,19322,12070348.0,,Sozialdemokratische Partei Deutschlands,70348.0
 1702,Ruhstadt,DIE LINKE,1,,0,2019.0,BB,19322,12070348.0,,DIE LINKE,70348.0
 1703,Weisen,CDU,6.0,,1.0,2014.0,BB,19322,12070416.0,,Christlich Demokratische Union,70416.0
-1704,Weisen,Pro Deutschland,1.0,,0.0,2014.0,BB,19322,12070416.0,,Bürgerbewegung Pro Deutschland,70416.0
 1705,Lanz,CDU,7.0,,1.0,2014.0,BB,19309,12070236.0,,Christlich Demokratische Union Deutschlands,70236.0
 1706,Lanz,DIE LINKE,5.0,,2.0,2014.0,BB,19309,12070236.0,,DIE LINKE,70236.0
 1707,Lanz,FDP,2.0,,1.0,2014.0,BB,19309,12070236.0,,Freie Demokartische Partei,70236.0
@@ -18569,7 +18470,7 @@ Christlich Demokratische Union Deutschlands
 1711,Lenzen (Elbe),SPD,13.0,,6.0,2014.0,BB,19309,12070244.0,,Sozialdemokratische Partei Deutschlands,70244.0
 1712,Lenzen (Elbe),DIE LINKE,3.0,,3.0,2014.0,BB,19309,12070244.0,,DIE LINKE,70244.0
 1713,Lenzen (Elbe),FDP,7.0,,0.0,2014.0,BB,19309,12070244.0,,Freie Demokratische Partei,70244.0
-1714,Lenzen (Elbe),GRÜNE / B 90,1.0,,1.0,2014.0,BB,19309,12070244.0,,BÜNDNIS 90 / DIE GRÜNEN,70244.0
+1714,Lenzen (Elbe),GRÜNE,1.0,,1.0,2014.0,BB,19309,12070244.0,,BÜNDNIS 90 / DIE GRÜNEN,70244.0
 1715,Lenzen (Elbe),CDU,7,,2.0,2019.0,BB,19309,12070244.0,,Christlich Demokratische Union Deutschlands,70244.0
 1716,Lenzen (Elbe),SPD,5,,,2019.0,BB,19309,12070244.0,,Sozialdemokratische Partei Deutschlands,70244.0
 1717,Meyenburg,FDP,2.0,,1.0,2014.0,BB,16945,12070280.0,,Freie Demokratische Partei,70280.0
@@ -18598,26 +18499,21 @@ Christlich Demokratische Union Deutschlands
 1740,Forst (Lausitz),SPD,13.0,,4.0,2014.0,BB,3149,12071076.0,,Sozialdemokratische Partei Deutschlands,71076.0
 1741,Forst (Lausitz),DIE LINKE,18.0,,5.0,2014.0,BB,3149,12071076.0,,DIE LINKE,71076.0
 1742,Forst (Lausitz),FDP,16.0,,3.0,2014.0,BB,3149,12071076.0,,Freie Demokratische Partei,71076.0
-1743,Forst (Lausitz),DSU,3.0,,1.0,2014.0,BB,3149,12071076.0,,Deutsche Soziale Union,71076.0
-1744,Forst (Lausitz),PIRATEN,1.0,,0.0,2014.0,BB,3149,12071076.0,,Piratenpartei Deutschland,71076.0
 1745,Forst (Lausitz),CDU,13,,5,2019.0,BB,3149,12071076.0,,Christlich Demokratische Union Deutschlands,71076.0
 1746,Forst (Lausitz),SPD,13,,5,2019.0,BB,3149,12071076.0,,Sozialdemokratische Partei Deutschlands,71076.0
 1747,Forst (Lausitz),DIE LINKE,15,,6,2019.0,BB,3149,12071076.0,,DIE LINKE,71076.0
 1748,Forst (Lausitz),FDP,16,,5,2019.0,BB,3149,12071076.0,,Frei Demokratische Partei,71076.0
 1749,Forst (Lausitz),GRÜNE,2,,0,2019.0,BB,3149,12071076.0,,BÜNDNIS 90/ DIE GRÜNEN,71076.0
 1750,Forst (Lausitz),AfD,10,,1,2019.0,BB,3149,12071076.0,,Alternative für Deutschland,71076.0
-1751,Forst (Lausitz),PIRATEN,1,,0,2019.0,BB,3149,12071076.0,,Piratenpartei Deutschland,71076.0
 1752,Guben,CDU,14.0,,4.0,2014.0,BB,3172,12071160.0,,Christlich Demokratische Union Deutschlands,71160.0
 1753,Guben,SPD,7.0,,2.0,2014.0,BB,3172,12071160.0,,Sozialdemokratische Partei Deutschlands,71160.0
 1754,Guben,DIE LINKE,13.0,,6.0,2014.0,BB,3172,12071160.0,,DIE LINKE,71160.0
 1755,Guben,FDP,9.0,,2.0,2014.0,BB,3172,12071160.0,,Freie Demokratische Partei,71160.0
-1756,Guben,NPD,3.0,,0.0,2014.0,BB,3172,12071160.0,,Nationaldemokratische Partei Deutschlands,71160.0
 1757,Guben,GRÜNE,2.0,,0.0,2014.0,BB,3172,12071160.0,,BÜNDNIS 90/DIE GRÜNEN,71160.0
 1758,Guben,CDU,11,,2,2019.0,BB,3172,12071160.0,,Christlich Demokratische Union Deutschlands,71160.0
 1759,Guben,SPD,5,,2,2019.0,BB,3172,12071160.0,,Sozialdemokratische Partei Deutschlands,71160.0
 1760,Guben,DIE LINKE,9,,3,2019.0,BB,3172,12071160.0,,DIE LINKE,71160.0
 1761,Guben,FDP,6,,2,2019.0,BB,3172,12071160.0,,Freie Demokratische Partei,71160.0
-1762,Guben,NPD,2,,0,2019.0,BB,3172,12071160.0,,Nationaldemokratische Partei Deutschlands,71160.0
 1763,Guben,GRÜNE,1,,0,2019.0,BB,3172,12071160.0,,BÜNDNIS 90/DIE GRÜNEN,71160.0
 1764,Guben,AfD,9,,0,2019.0,BB,3172,12071160.0,,Alternative für Deutschland,71160.0
 1765,Kolkwitz,CDU,14.0,,3.0,2014.0,BB,3099,12071244.0,,Christlich Demokratische Union Deutschlands,71244.0
@@ -18631,13 +18527,10 @@ Christlich Demokratische Union Deutschlands
 1773,Neuhausen-Spree,CDU,7.0,,1.0,2014.0,BB,3058,12071301.0,,Christlich Demokratische Union Deutschlands,71301.0
 1774,Neuhausen-Spree,DIE LINKE,1.0,,0.0,2014.0,BB,3058,12071301.0,,DIE LINKE,71301.0
 1775,Neuhausen-Spree,FDP,1.0,,0.0,2014.0,BB,3058,12071301.0,,Freie Demokratische Partei,71301.0
-1776,Neuhausen-Spree,DSU,1.0,,1.0,2014.0,BB,3058,12071301.0,,Deutsche Soziale Union,71301.0
-1777,Neuhausen-Spree,PIRATEN,1.0,,0.0,2014.0,BB,3058,12071301.0,,Piratenpartei Deutschland,71301.0
 1778,Neuhausen-Spree,CDU,7,,1,2019.0,BB,3058,12071301.0,,Christlich Demokratische Union Deutschlands  ,71301.0
 1779,Schenkendobern,CDU,8.0,,1.0,2014.0,BB,3172,12071337.0,,Christlich Demokratische Union Deutschlands,71337.0
 1780,Schenkendobern,SPD,4.0,,0.0,2014.0,BB,3172,12071337.0,,Sozialdemokratische Partei Deutschlands,71337.0
 1781,Schenkendobern,DIE LINKE,3.0,,2.0,2014.0,BB,3172,12071337.0,,DIE LINKE,71337.0
-1782,Schenkendobern,DSU,1.0,,0.0,2014.0,BB,3172,12071337.0,,Deutsche Soziale Union,71337.0
 1783,Schenkendobern,CDU,5,,0,2019.0,BB,3172,12071337.0,,Christlich Demokratische Union Deutschlands,71337.0
 1784,Schenkendobern,SPD,2,,0,2019.0,BB,3172,12071337.0,,Sozialdemokratische Partei Deutschlands,71337.0
 1785,Schenkendobern,DIE LINKE,1,,1,2019.0,BB,3172,12071337.0,,DIE LINKE,71337.0
@@ -18647,7 +18540,6 @@ Christlich Demokratische Union Deutschlands
 1789,Spremberg,DIE LINKE,11.0,,8.0,2014.0,BB,3130,12071372.0,,DIE LINKE,71372.0
 1790,Spremberg,FDP,4.0,,1.0,2014.0,BB,3130,12071372.0,,Freie Demokratische Partei,71372.0
 1791,Spremberg,GRÜNE,1.0,,1.0,2014.0,BB,3130,12071372.0,,BÜNDNIS 90/DIE GRÜNEN,71372.0
-1792,Spremberg,DSU,1.0,,0.0,2014.0,BB,3130,12071372.0,,Deutsche Soziale Union,71372.0
 1793,Spremberg,CDU,19,,4,2019.0,BB,3130,12071372.0,,Christlich Demokratische Union Deutschlands,71372.0
 1794,Spremberg,SPD,15,,4,2019.0,BB,3130,12071372.0,,Sozialdemokratische Partei Deutschlands,71372.0
 1795,Spremberg,DIE LINKE,9,,7,2019.0,BB,3130,12071372.0,,DIE LINKE,71372.0
@@ -18769,24 +18661,20 @@ Christlich Demokratische Union Deutschlands
 1911,Luckenwalde,DIE LINKE,21.0,,8.0,2014.0,BB,14943,12072232.0,,DIE LINKE,72232.0
 1912,Luckenwalde,CDU,11.0,,3.0,2014.0,BB,14943,12072232.0,,Christlich Demokratische Union Deutschlands,72232.0
 1913,Luckenwalde,FDP,4.0,,1.0,2014.0,BB,14943,12072232.0,,Freie Demokratische Partei,72232.0
-1914,Luckenwalde,NPD,1.0,,1.0,2014.0,BB,14943,12072232.0,,Nationaldemokratische Partei Deutschlands,72232.0
 1915,Luckenwalde,SPD,17,,4,2019.0,BB,14943,12072232.0,,Sozialdemokratische Partei Deutschlands,72232.0
 1916,Luckenwalde,DIE LINKE,20,,5,2019.0,BB,14943,12072232.0,,DIE LINKE,72232.0
 1917,Luckenwalde,CDU,8,,2,2019.0,BB,14943,12072232.0,,Christlich Demokratische Union Deutschlands,72232.0
 1918,Luckenwalde,AfD,2,,0,2019.0,BB,14943,12072232.0,,Alternative für Deutschland,72232.0
 1919,Luckenwalde,FDP,2,,0,2019.0,BB,14943,12072232.0,,Freie Demokratische Partei ,72232.0
-1920,Luckenwalde,NPD,2,,1,2019.0,BB,14943,12072232.0,,Nationaldemokratische Partei Deutschlands ,72232.0
 1921,Ludwigsfelde,SPD,28.0,,9.0,2014.0,BB,14974,12072240.0,,Sozialdemokratische Partei Deutschlands,72240.0
 1922,Ludwigsfelde,DIE LINKE,17.0,,9.0,2014.0,BB,14974,12072240.0,,DIE LINKE,72240.0
 1923,Ludwigsfelde,CDU,12.0,,1.0,2014.0,BB,14974,12072240.0,,Christlich Demokratische Union Deutschlands,72240.0
 1924,Ludwigsfelde,FDP,2.0,,2.0,2014.0,BB,14974,12072240.0,,Freie Demokratische Partei,72240.0
-1925,Ludwigsfelde,REP,1.0,,0.0,2014.0,BB,14974,12072240.0,,DIE REPUBLIKANER,72240.0
 1926,Ludwigsfelde,SPD,25,,9,2019.0,BB,14974,12072240.0,,Sozialdemokratische Partei Deutschlands,72240.0
 1927,Ludwigsfelde,DIE LINKE,24,,9,2019.0,BB,14974,12072240.0,,DIE LINKE,72240.0
 1928,Ludwigsfelde,CDU,10,,2,2019.0,BB,14974,12072240.0,,Christlich Demokratische Union Deutschlands,72240.0
 1929,Ludwigsfelde,AfD,8,,1,2019.0,BB,14974,12072240.0,,Alternative für Deutschland,72240.0
 1930,Ludwigsfelde,GRÜNE,4,,1,2019.0,BB,14974,12072240.0,,BÜNDNIS 90/DIE GRÜNEN,72240.0
-1931,Ludwigsfelde,Die PARTEI,1,,0,2019.0,BB,14974,12072240.0,,"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative",72240.0
 1932,Niedergorsdorf,SPD,10.0,,3.0,2014.0,BB,14913,12072297.0,,Sozialdemokratische Partei Deutschlands,72297.0
 1933,Niedergorsdorf,DIE LINKE,7.0,,4.0,2014.0,BB,14913,12072297.0,,DIE LINKE,72297.0
 1934,Niedergorsdorf,CDU,8.0,,2.0,2014.0,BB,14913,12072297.0,,Christlich Demokratische Union,72297.0
@@ -18814,9 +18702,8 @@ Christlich Demokratische Union Deutschlands
 1956,Rangsdorf,DIE LINKE,7.0,,0.0,2014.0,BB,15834,12072340.0,,DIE LINKE,72340.0
 1957,Rangsdorf,CDU,16.0,,3.0,2014.0,BB,15834,12072340.0,,Christlich Demokratische Union Deutschlands,72340.0
 1958,Rangsdorf,FDP,16.0,,6.0,2014.0,BB,15834,12072340.0,,Freie Demokratische Partei,72340.0
-1959,Rangsdorf,GRÜNE/B90,4.0,,2.0,2014.0,BB,15834,12072340.0,,BÜNDNIS 90/DIE GRÜNEN,72340.0
+1959,Rangsdorf,GRÜNE,4.0,,2.0,2014.0,BB,15834,12072340.0,,BÜNDNIS 90/DIE GRÜNEN,72340.0
 1960,Rangsdorf,AfD,3.0,,1.0,2014.0,BB,15834,12072340.0,,Alternative für Deutschland,72340.0
-1961,Rangsdorf,PIRATEN,2.0,,1.0,2014.0,BB,15834,12072340.0,,Piratenpartei Deutschland,72340.0
 1962,Rangsdorf,SPD,12,,3,2019.0,BB,15834,12072340.0,,Sozialdemokratische Partei Deutschlands,72340.0
 1963,Rangsdorf,DIE LINKE,5,,1,2019.0,BB,15834,12072340.0,,DIE LINKE,72340.0
 1964,Rangsdorf,CDU,11,,1,2019.0,BB,15834,12072340.0,,Christlich Demokratische Union Deutschlands,72340.0
@@ -18826,14 +18713,13 @@ Christlich Demokratische Union Deutschlands
 1968,Trebbin,SPD,10.0,,4.0,2014.0,BB,14959,12072426.0,,Sozialdemokratische Partei Deutschlands,72426.0
 1969,Trebbin,DIE LINKE,5.0,,0.0,2014.0,BB,14959,12072426.0,,DIE LINKE,72426.0
 1970,Trebbin,CDU,27.0,,6.0,2014.0,BB,14959,12072426.0,,Christlich Demokratische Union Deutschlands ,72426.0
-1971,Trebbin,GRÜNE/B90,1.0,,0.0,2014.0,BB,14959,12072426.0,,Bündnis 90/DIE GRÜNEN,72426.0
+1971,Trebbin,GRÜNE,1.0,,0.0,2014.0,BB,14959,12072426.0,,Bündnis 90/DIE GRÜNEN,72426.0
 1972,Trebbin,AfD,5.0,,1.0,2014.0,BB,14959,12072426.0,,Alternative für Deutschland,72426.0
 1973,Trebbin,SPD,9,,3,2019.0,BB,14959,12072426.0,,Sozialdemokratische Partei Deutschlands,72426.0
 1974,Trebbin,DIE LINKE,4,,1,2019.0,BB,14959,12072426.0,,DIE LINKE,72426.0
 1975,Trebbin,CDU,14,,2,2019.0,BB,14959,12072426.0,,Christlich Demokratische Union Deutschlands,72426.0
 1976,Trebbin,AfD,5,,0,2019.0,BB,14959,12072426.0,,Alternative für Deutschland,72426.0
 1977,Trebbin,GRÜNE,2,,1,2019.0,BB,14959,12072426.0,,BÜNDNIS 90/DIE GRÜNEN,72426.0
-1978,Trebbin,Die PARTEI,1,,0,2019.0,BB,14959,12072426.0,,"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative",72426.0
 1979,Dahme-Mark,SPD,9.0,,1.0,2014.0,BB,15936,12072053.0,,Sozialdemokratische Partei Deutschlands,72053.0
 1980,Dahme-Mark,DIE LINKE,6.0,,4.0,2014.0,BB,15936,12072053.0,,DIE LINKE,72053.0
 1981,Dahme-Mark,CDU,3.0,,1.0,2014.0,BB,15936,12072053.0,,Christlich Demokratische Union Deutschlands,72053.0
@@ -18848,15 +18734,15 @@ Christlich Demokratische Union Deutschlands
 1990,Angermunde,DIE LINKE,12.0,,3.0,2014.0,BB,16278,12073008.0,,DIE LINKE,73008.0
 1991,Angermunde,CDU,21.0,,3.0,2014.0,BB,16278,12073008.0,,Christlich Demokratische Union Deutschlands,73008.0
 1992,Angermunde,FDP,12.0,,2.0,2014.0,BB,16278,12073008.0,,Freie Demokratische Partei,73008.0
-1993,Angermunde,GRÜNE/B90,4.0,,1.0,2014.0,BB,16278,12073008.0,,BÜNDNIS 90/DIE GRÜNEN,73008.0
+1993,Angermunde,GRÜNE,4.0,,1.0,2014.0,BB,16278,12073008.0,,BÜNDNIS 90/DIE GRÜNEN,73008.0
 1994,Angermunde,SPD,16,,1,2019.0,BB,16278,12073008.0,,Sozialdemokratische Partei Deutschlands,73008.0
 1995,Angermunde,CDU,20,,6,2019.0,BB,16278,12073008.0,,Christlich Demokratische Union Deutschlands,73008.0
 1996,Angermunde,DIE LINKE,12,,4,2019.0,BB,16278,12073008.0,,DIE LINKE,73008.0
 1997,Angermunde,FDP,4,,0,2019.0,BB,16278,12073008.0,,Freie Demokratische Partei ,73008.0
-1998,Angermunde,GRÜNE/B90,9,,4,2019.0,BB,16278,12073008.0,,BÜNDNIS 90/DIE GRÜNEN,73008.0
-1999,Boitzenburger Land,Die Linke,6.0,,5.0,2014.0,BB,17268,12073069.0,,Die Linke,73069.0
+1998,Angermunde,GRÜNE,9,,4,2019.0,BB,16278,12073008.0,,BÜNDNIS 90/DIE GRÜNEN,73008.0
+1999,Boitzenburger Land,DIE LINKE,6.0,,5.0,2014.0,BB,17268,12073069.0,,Die Linke,73069.0
 2000,Boitzenburger Land,CDU,7.0,,3.0,2014.0,BB,17268,12073069.0,,Christlich Demokratische Union,73069.0
-2001,Boitzenburger Land,Grüne/B90,2.0,,2.0,2014.0,BB,17268,12073069.0,,Bündnis90/Die Grünen,73069.0
+2001,Boitzenburger Land,GRÜNE,2.0,,2.0,2014.0,BB,17268,12073069.0,,Bündnis90/Die Grünen,73069.0
 2002,Boitzenburger Land,CDU,8,,4,2019.0,BB,17268,12073069.0,,Christlich Demokratische Union,73069.0
 2003,Boitzenburger Land,DIE LINKE,4,,4,2019.0,BB,17268,12073069.0,,DIE LINKE,73069.0
 2004,Boitzenburger Land,GRÜNE,5,,3,2019.0,BB,17268,12073069.0,,BÜNDNIS90/DIE GRÜNEN,73069.0
@@ -18868,7 +18754,7 @@ Christlich Demokratische Union Deutschlands
 2010,Nordwestuckermark,SPD,5.0,,2.0,2014.0,BB,17291,12073429.0,,Sozialdemokratische Partei Deutschlands,73429.0
 2011,Nordwestuckermark,DIE LINKE,2.0,,0.0,2014.0,BB,17291,12073429.0,,DIE LINKE,73429.0
 2012,Nordwestuckermark,CDU,10.0,,2.0,2014.0,BB,17291,12073429.0,,Christlich Demokratische Union,73429.0
-2013,Nordwestuckermark,Grüne/B 90,3.0,,0.0,2014.0,BB,17291,12073429.0,,Bündnis 90/Die Grünen,73429.0
+2013,Nordwestuckermark,GRÜNE,3.0,,0.0,2014.0,BB,17291,12073429.0,,Bündnis 90/Die Grünen,73429.0
 2014,Nordwestuckermark,SPD,,,,2019.0,BB,17291,12073429.0,,Sozialdemokratische Partei Deutschlands,73429.0
 2015,Nordwestuckermark,CDU,,,,2019.0,BB,17291,12073429.0,,Christlich Demokratische Union Deutschlands,73429.0
 2016,Nordwestuckermark,GRÜNE,,,,2019.0,BB,17291,12073429.0,,BÜNDNIS 90/ DIE GRÜNEN,73429.0
@@ -18876,31 +18762,27 @@ Christlich Demokratische Union Deutschlands
 2018,Prenzlau,DIE LINKE,13.0,,6.0,2014.0,BB,17291,12073452.0,,DIE LINKE,73452.0
 2019,Prenzlau,CDU,20.0,,1.0,2014.0,BB,17291,12073452.0,,Christlich Demokratische Partei Deutschlands,73452.0
 2020,Prenzlau,FDP,12.0,,3.0,2014.0,BB,17291,12073452.0,,Freie Demokratische Partei,73452.0
-2021,Prenzlau,NPD,1.0,,0.0,2014.0,BB,17291,12073452.0,,Nationaldemokratische Partei Deutschlands,73452.0
 2022,Prenzlau,SPD,21,,9,2019.0,BB,17291,12073452.0,,Sozialdemokratische Partei Deutschlands,73452.0
 2023,Prenzlau,CDU,20,,3,2019.0,BB,17291,12073452.0,,Christlich Demokratische Union Deutschlands,73452.0
 2024,Prenzlau,DIE LINKE,7,,3,2019.0,BB,17291,12073452.0,,DIE LINKE,73452.0
 2025,Prenzlau,FDP,6,,1,2019.0,BB,17291,12073452.0,,Freie Demokartische Partei,73452.0
-2026,Prenzlau,NPD,3,,0,2019.0,BB,17291,12073452.0,,Nationaldemokratische Partei Deutschlands,73452.0
 2027,Prenzlau,AfD,6,,2,2019.0,BB,17291,12073452.0,,Alternative für Deutschland,73452.0
 2028,Schwedt-Oder,SPD,26.0,,11.0,2014.0,BB,16303,12073532.0,,Sozialdemokratische Partei Deutschlands,73532.0
 2029,Schwedt-Oder,DIE LINKE,10.0,,5.0,2014.0,BB,16303,12073532.0,,DIE LINKE,73532.0
 2030,Schwedt-Oder,CDU,15.0,,3.0,2014.0,BB,16303,12073532.0,,Christlich Demokratische Union Deutschlands,73532.0
 2031,Schwedt-Oder,FDP,42.0,,9.0,2014.0,BB,16303,12073532.0,,Freie Demokratische Partei,73532.0
-2032,Schwedt-Oder,NPD,2.0,,1.0,2014.0,BB,16303,12073532.0,,Nationaldemokratische Partei Deutschlands,73532.0
 2033,Schwedt-Oder,GRÜNE,2.0,,0.0,2014.0,BB,16303,12073532.0,,BÜNDNIS 90/DIE GRÜNEN,73532.0
 2034,Schwedt-Oder,SPD,19,,8,2019.0,BB,16303,12073532.0,,Sozialdemokratische Partei Deutschlands,73532.0
 2035,Schwedt-Oder,CDU,13,,2,2019.0,BB,16303,12073532.0,,Christlich Demokratische Union Deutschlands,73532.0
 2036,Schwedt-Oder,DIE LINKE,6,,2,2019.0,BB,16303,12073532.0,,DIE LINKE,73532.0
 2037,Schwedt-Oder,FDP,34,,8,2019.0,BB,16303,12073532.0,,Freie Demokratische Partei,73532.0
 2038,Schwedt-Oder,GRÜNE,2,,1,2019.0,BB,16303,12073532.0,,BÜNDNIS 90/DIE GRÜNEN,73532.0
-2039,Schwedt-Oder,NPD,2,,1,2019.0,BB,16303,12073532.0,,Nationaldemokratische Partei Deutschlands,73532.0
 2040,Schwedt-Oder,AfD,7,,1,2019.0,BB,16303,12073532.0,,Alternative für Deutschland,73532.0
 2041,Templin,SPD,18.0,,3.0,2014.0,BB,17268,12073572.0,,Sozialdemokratische Partei Deutschlands,73572.0
 2042,Templin,DIE LINKE,11.0,,4.0,2014.0,BB,17268,12073572.0,,DIE LINKE,73572.0
 2043,Templin,CDU,10.0,,2.0,2014.0,BB,17268,12073572.0,,Christlich Demokratische Union,73572.0
 2044,Templin,FDP,1.0,,0.0,2014.0,BB,17268,12073572.0,,Frei Demokratische Partei,73572.0
-2045,Templin,GRÜNE/B90,6.0,,2.0,2014.0,BB,17268,12073572.0,,BÜNDNIS 90/ DIE GRÜNEN,73572.0
+2045,Templin,GRÜNE,6.0,,2.0,2014.0,BB,17268,12073572.0,,BÜNDNIS 90/ DIE GRÜNEN,73572.0
 2046,Templin,AfD,3.0,,0.0,2014.0,BB,17268,12073572.0,,Alternative für Deutschland,73572.0
 2047,Templin,SPD,15,,3,2019.0,BB,17268,12073572.0,,Sozialdemokratische Partei Deutschlands,73572.0
 2048,Templin,CDU,11,,3,2019.0,BB,17268,12073572.0,,Christlich Demokratische Union,73572.0
@@ -18933,16 +18815,14 @@ Christlich Demokratische Union Deutschlands
 2075,Mescherin,DIE LINKE,2.0,,0.0,2014.0,BB,16307,12073393.0,,DIE LINKE,73393.0
 2076,Tantow,DIE LINKE,1.0,,0.0,2014.0,BB,16307,12073565.0,,DIE LINKE,73565.0
 2077,Tantow,CDU,2,,1,2019.0,BB,16307,12073565.0,,Christlich Demokratische Union Deutschlands,73565.0
-2078,Tantow,PIRATEN,1,,0,2019.0,BB,16307,12073565.0,,Piratenpartei Deutschland,73565.0
 2079,Gerswalde,DIE LINKE,3.0,,2.0,2014.0,BB,17268,12073201.0,,DIE LINKE,73201.0
 2080,Gerswalde,CDU,8.0,,2.0,2014.0,BB,17268,12073201.0,,Christlich Demokratische Union Deutschlands,73201.0
-2081,Gerswalde,GRÜNE/90,2.0,,0.0,2014.0,BB,17268,12073201.0,,Bündnis 90/DIE GRÜNEN,73201.0
+2081,Gerswalde,GRÜNE,2.0,,0.0,2014.0,BB,17268,12073201.0,,Bündnis 90/DIE GRÜNEN,73201.0
 2082,Gerswalde,CDU,4,,1,2019.0,BB,17268,12073201.0,,Christlich Demokratische Union Deutschlands,73201.0
 2083,Gerswalde,DIE LINKE,4,,2,2019.0,BB,17268,12073201.0,,DIE LINKE,73201.0
 2084,Gerswalde,FDP,1,,0,2019.0,BB,17268,12073201.0,,Freie Demokratische Partei,73201.0
 2085,Gerswalde,GRÜNE,1,,0,2019.0,BB,17268,12073201.0,,BÜNDNIS90/DIE GRÜNEN,73201.0
 2086,Milmersdorf,SPD,6.0,,2.0,2014.0,BB,17268,12073396.0,,Sozialdemokratische Partei Deutschlands,73396.0
-2087,Milmersdorf,,3.0,,0.0,2014.0,BB,17268,12073396.0,,DIE LINKE,73396.0
 2088,Milmersdorf,CDU,1.0,,1.0,2014.0,BB,17268,12073396.0,,Christilich Demokratische Union Deutschlands,73396.0
 2089,Milmersdorf,CDU,1,,1,2019.0,BB,17268,12073396.0,,Christlich Demokratische Union Deutschlands,73396.0
 2090,Milmersdorf,DIE LINKE,1,,0,2019.0,BB,17268,12073396.0,,DIE LINKE,73396.0
@@ -18968,7 +18848,7 @@ Christlich Demokratische Union Deutschlands
 2110,Pinnow,SPD,9.0,,2.0,2014.0,BB,16278,12073440.0,,Sozialdemokratische Partei Deutschlands,73440.0
 2111,Pinnow,DIE LINKE,5.0,,4.0,2014.0,BB,16278,12073440.0,,DIE LINKE,73440.0
 2112,Pinnow,CDU,12.0,,2.0,2014.0,BB,16278,12073440.0,,Christlich Demokratische Union,73440.0
-2113,Pinnow,GRÜNE/B90,1.0,,0.0,2014.0,BB,16278,12073440.0,,BÜNDNIS 90/DIE GRÜNEN,73440.0
+2113,Pinnow,GRÜNE,1.0,,0.0,2014.0,BB,16278,12073440.0,,BÜNDNIS 90/DIE GRÜNEN,73440.0
 2114,Pinnow,CDU,9,,2,2019.0,BB,16278,12073440.0,,Christlich Demokratische Union Deutschlands,73440.0
 2115,Pinnow,DIE LINKE,1,,1,2019.0,BB,16278,12073440.0,,DIE LINKE,73440.0
 2116,Pinnow,GRÜNE,1,,0,2019.0,BB,16278,12073440.0,,BÜNDNIS 90/DIE GRÜNEN,73440.0
@@ -18976,14 +18856,14 @@ Christlich Demokratische Union Deutschlands
 2118,Passow,FDP,15.0,,5.0,2014.0,BB,16306,12073603.0,,Freie Demokratische Partei,73603.0
 2119,Passow,CDU,2,,0,2019.0,BB,16306,12073603.0,,Christliche Demokratische Union Deutschlands,73603.0
 2120,Lunow-Stolzenhagen,CDU,1.0,,0.0,2019.0,BB,16248,12060149.0,,Christlich Demokratische Union Deutschlands,60149.0
-2121,Lunow-Stolzenhagen,GRÜNE/B90,1.0,,1.0,2019.0,BB,16248,12060149.0,,Bündnis 90/Die Grünen,60149.0
+2121,Lunow-Stolzenhagen,GRÜNE,1.0,,1.0,2019.0,BB,16248,12060149.0,,Bündnis 90/Die Grünen,60149.0
 2122,Steinreich,DIE LINKE,1,,1,2019.0,BB,15938,12061471.0,,DIE LINKE,61471.0
 2123,Fichtwald,AfD,1,,0,2019.0,BB,4936,12062134.0,,Alternative für Deutschland,62134.0
 2124,Muhlenberge,SPD,1,,0,2019.0,BB,14662,12063202.0,,Sozialdemokratische Partei Deutschlands,63202.0
 2125,Senftenberg,SPD,27,,7,2019.0,BB,1968,12066304.0,,Sozialdemokratische Partei Deutschlands,66304.0
-2126,Senftenberg,CDU ,17,,2,2019.0,BB,1968,12066304.0,,Christlich Demokratische Union Deutschlands,66304.0
-2127,Senftenberg,Die Linke,14,,4,2019.0,BB,1968,12066304.0,,Die Linke,66304.0
-2128,Senftenberg,Grüne/B 90,3,,1,2019.0,BB,1968,12066304.0,,Bündnis 90/Die Grünen,66304.0
+2126,Senftenberg,CDU,17,,2,2019.0,BB,1968,12066304.0,,Christlich Demokratische Union Deutschlands,66304.0
+2127,Senftenberg,DIE LINKE,14,,4,2019.0,BB,1968,12066304.0,,Die Linke,66304.0
+2128,Senftenberg,GRÜNE,3,,1,2019.0,BB,1968,12066304.0,,Bündnis 90/Die Grünen,66304.0
 2129,Senftenberg,FDP,2,,0,2019.0,BB,1968,12066304.0,,Freie Demokratische Partei,66304.0
 2130,Senftenberg,AfD,12,,1,2019.0,BB,1968,12066304.0,,Alternative für Deutschland,66304.0
 2131,Grosskmehlen,CDU,8,,1,2019.0,BB,1990,12066104.0,,Christlich Demokratische Union Deutschlands,66104.0
@@ -18994,7 +18874,7 @@ Christlich Demokratische Union Deutschlands
 2136,Diensdorf-Radlow,FDP,1,,0,2019.0,BB,15864,12067112.0,,Freie Demokratische Partei,67112.0
 2137,Vielitzsee,FDP,1,,0,2019.0,BB,16835,12068437.0,,Freie Demokratische Partei,68437.0
 2138,Walsleben,SPD,1,,0,2019.0,BB,16818,12068452.0,,Sozialdemokratische Partei Deutschlands,68452.0
-2139,Planebruch,GRÜNE/ B90,2,,1,2019.0,BB,14822,12069470.0,,BÜNDNIS 90/ DIE GRÜNEN,69470.0
+2139,Planebruch,GRÜNE,2,,1,2019.0,BB,14822,12069470.0,,BÜNDNIS 90/ DIE GRÜNEN,69470.0
 2140,Muhlenfliess,SPD,1,,0,2019.0,BB,14823,12069402.0,,Sozialdemokratische Partei Deutschlands,69402.0
 2141,Halenbeck-Rohlsdorf,SPD,1,,0,2019.0,BB,16945,12070153.0,,Sozialdemokratische Partei Deutschlands,70153.0
 2142,Gross Schacksdorf-Simmersdorf,SPD,,,,2019.0,BB,3149,12071153.0,,Sozialdemokratische Partei Deutschlands,71153.0
@@ -19002,87 +18882,8 @@ Christlich Demokratische Union Deutschlands
 2144,Zossen,DIE LINKE,7,,1,2019.0,BB,15806,12072477.0,,DIE LINKE,72477.0
 2145,Zossen,CDU,11,,1,2019.0,BB,15806,12072477.0,,Christlich Demokratische Union Deutschlands,72477.0
 2146,Zossen,AfD,7,,3,2019.0,BB,15806,12072477.0,,Alternative für Deutschland,72477.0
-2147,Zossen,GRÜNE/B90,5,,1,2019.0,BB,15806,12072477.0,,BÜNDNIS 90/DIE GRÜNEN,72477.0
+2147,Zossen,GRÜNE,5,,1,2019.0,BB,15806,12072477.0,,BÜNDNIS 90/DIE GRÜNEN,72477.0
 2148,Zossen,FDP,1,,1,2019.0,BB,15806,12072477.0,,Freie Demokratische Partei,72477.0
-2149,Zossen,NPD,1,,0,2019.0,BB,15806,12072477.0,,Nationaldemokratische Partei Deutschlands,72477.0
 2150,Uckerfelde,AfD,1,,0,2019.0,BB,17291,12073578.0,,Alternative für Deutschland,73578.0
 2151,Zichow,CDU,5,,1,2019.0,BB,16306,12073645.0,,Christlich Demokratische Union Deutschlands,73645.0
 2152,Schoneberg,DIE LINKE,1,,0,2019.0,BB,16278,12073505.0,,DIE LINKE,73505.0
-2153,,,,,,,,16321,12060192.0,,,60192.0
-2154,,,,,,,,16230,12060250.0,,,60250.0
-2155,,,,,,,,16247,12060012.0,,,60012.0
-2156,,,,,,,,16247,12060100.0,,,60100.0
-2157,,,,,,,,16247,12060296.0,,,60296.0
-2158,,,,,,,,16248,12060092.0,,,60092.0
-2159,,,,,,,,16248,12060128.0,,,60128.0
-2160,,,,,,,,15907,12061316.0,,,61316.0
-2161,,,,,,,,15749,12061332.0,,,61332.0
-2162,,,,,,,,15913,12061005.0,,,61005.0
-2163,,,,,,,,15868,12061224.0,,,61224.0
-2164,,,,,,,,15913,12061450.0,,,61450.0
-2165,,,,,,,,15910,12061405.0,,,61405.0
-2166,,,,,,,,15910,12061428.0,,,61428.0
-2167,,,,,,,,15910,12061510.0,,,61510.0
-2168,,,,,,,,3253,12062440.0,,,62440.0
-2169,,,,,,,,3238,12062293.0,,,62293.0
-2170,,,,,,,,4928,12062464.0,,,62464.0
-2171,,,,,,,,4936,12062237.0,,,62237.0
-2172,,,,,,,,14641,12063208.0,,,63208.0
-2173,,,,,,,,14641,12063240.0,,,63240.0
-2174,,,,,,,,14641,12063256.0,,,63256.0
-2175,,,,,,,,14715,12063165.0,,,63165.0
-2176,,,,,,,,14715,12063293.0,,,63293.0
-2177,,,,,,,,16259,12064053.0,,,64053.0
-2178,,,,,,,,16259,12064205.0,,,64205.0
-2179,,,,,,,,15328,12064009.0,,,64009.0
-2180,,,,,,,,15328,12064172.0,,,64172.0
-2181,,,,,,,,15328,12064420.0,,,64420.0
-2182,,,,,,,,15236,12064480.0,,,64480.0
-2183,,,,,,,,15377,12064370.0,,,64370.0
-2184,,,,,,,,15377,12064484.0,,,64484.0
-2185,,,,,,,,15306,12064190.0,,,64190.0
-2186,,,,,,,,15377,12064303.0,,,64303.0
-2187,,,,,,,,15306,12064288.0,,,64288.0
-2188,,,,,,,,15306,12064290.0,,,64290.0
-2189,,,,,,,,16259,12064349.0,,,64349.0
-2190,,,,,,,,15345,12064417.0,,,64417.0
-2191,,,,,,,,16775,12065276.0,,,65276.0
-2192,,,,,,,,3205,12066041.0,,,66041.0
-2193,,,,,,,,3229,12066202.0,,,66202.0
-2194,,,,,,,,3103,12066226.0,,,66226.0
-2195,,,,,,,,1945,12066064.0,,,66064.0
-2196,,,,,,,,1945,12066120.0,,,66120.0
-2197,,,,,,,,1945,12066124.0,,,66124.0
-2198,,,,,,,,1945,12066132.0,,,66132.0
-2199,,,,,,,,15898,12067292.0,,,67292.0
-2200,,,,,,,,15518,12067288.0,,,67288.0
-2201,,,,,,,,15299,12067324.0,,,67324.0
-2202,,,,,,,,15848,12067397.0,,,67397.0
-2203,,,,,,,,15890,12067438.0,,,67438.0
-2204,,,,,,,,16835,12068188.0,,,68188.0
-2205,,,,,,,,16845,12068409.0,,,68409.0
-2206,,,,,,,,14806,12069020.0,,,69020.0
-2207,,,,,,,,14778,12069541.0,,,69541.0
-2208,,,,,,,,14778,12069216.0,,,69216.0
-2209,,,,,,,,14823,12069485.0,,,69485.0
-2210,,,,,,,,14793,12069089.0,,,69089.0
-2211,,,,,,,,14778,12069648.0,,,69648.0
-2212,,,,,,,,14778,12069680.0,,,69680.0
-2213,,,,,,,,16928,12070316.0,,,70316.0
-2214,,,,,,,,19322,12070060.0,,,70060.0
-2215,,,,,,,,19309,12070246.0,,,70246.0
-2216,,,,,,,,16928,12070096.0,,,70096.0
-2217,,,,,,,,16945,12070222.0,,,70222.0
-2218,,,,,,,,16945,12070266.0,,,70266.0
-2219,,,,,,,,19348,12070028.0,,,70028.0
-2220,,,,,,,,19348,12070145.0,,,70145.0
-2221,,,,,,,,16949,12070393.0,,,70393.0
-2222,,,,,,,,3096,12071164.0,,,71164.0
-2223,,,,,,,,3185,12071060.0,,,71060.0
-2224,,,,,,,,3185,12071176.0,,,71176.0
-2225,,,,,,,,17291,12073093.0,,,73093.0
-2226,,,,,,,,17291,12073490.0,,,73490.0
-2227,,,,,,,,17291,12073520.0,,,73520.0
-2228,,,,,,,,16306,12073309.0,,,73309.0
-2229,,,,,,,,17268,12073157.0,,,73157.0
-2230,,,,,,,,17268,12073404.0,,,73404.0
