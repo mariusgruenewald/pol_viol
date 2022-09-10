@@ -1,0 +1,12 @@
+,Satz-art,Text-kenn-zeichen,Land,RB,Kreis,VB,Gem,city,plz,Längengrad,Breitengrad,reiseziel,Besiedlungsgrad,AGS,candidate,year,candidates_name,party,first_name,BL
+0,60,61.0,6,4.0,11.0,0.0,0.0,Darmstadt,64283.0,"8,653838","49,872238",Odenwald-Bergstrasse-Neckartal,dicht besiedelt,06411000,,,,,,
+4564,60,66.0,6,4.0,31.0,9200.0,200.0,Michelbuch,,"8,868951","49,431175",Odenwald-Bergstrasse-Neckartal,gering besiedelt,064310200,,,,,,
+6500,60,64.0,6,4.0,32.0,15.0,15.0,Münster (Hessen),64839.0,"8,859343","49,925685",Odenwald-Bergstrasse-Neckartal,mittlere Besiedlungsdichte,06432015,,,,,,
+9606,60,63.0,6,4.0,33.0,12.0,12.0,Rüsselsheim am Main,65428.0,"8,411404","49,994936",Odenwald-Bergstrasse-Neckartal,dicht besiedelt,06433012,,,,,,
+16486,60,66.0,6,4.0,35.0,9200.0,200.0,Gutsbezirk Spessart,,"9,539483","50,241618",Spessart-Kinzigtal-Vogelsberg,gering besiedelt,064350200,,,,,,
+29998,60,64.0,6,5.0,31.0,7.0,7.0,Heuchelheim a. d. Lahn,35452.0,"8,631242","50,582394",Lahn-Dill,mittlere Besiedlungsdichte,06531007,,,,,,
+35283,60,63.0,6,5.0,33.0,9.0,9.0,Limburg a.d. Lahn,65549.0,"8,064098","50,387254",Westerwald-Lahn-Taunus,mittlere Besiedlungsdichte,06533009,,,,,,
+43771,60,64.0,6,6.0,32.0,4.0,4.0,Breitenbach a. Herzberg,36287.0,"9,514424","50,7763",Waldhessen (Hersfeld-Rotenburg),gering besiedelt,06632004,,,,,,
+48332,60,66.0,6,6.0,33.0,9200.0,200.0,Gutsbezirk Reinhardswald,,"9,592741","51,441518",Kassel- Land,gering besiedelt,066330200,,,,,,
+54359,60,63.0,6,6.0,36.0,16.0,16.0,Witzenhausen,37213.0,"9,858869","51,341392",Werra-Meissner Land,gering besiedelt,06636016,,,,,,
+54360,60,66.0,6,6.0,36.0,9200.0,200.0,Gutsbezirk Kaufunger Wald,,"9,737941","51,27982",Werra-Meissner Land,gering besiedelt,066360200,,,,,,
