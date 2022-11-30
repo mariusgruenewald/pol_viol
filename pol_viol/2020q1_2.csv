@@ -1,0 +1,162 @@
+﻿Lfd. Nr.;Tatzeit;Tatort;TV1;Phänomenbereich;Zähldelikt;Bezeichnung;Betroffene Partei
+1;02.01.2020;Berlin;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+2;02.01.2020;Ebersbach;0;Nicht zuzuordnen;§ 130 StGB;Volksverhetzung;keine Angabe
+3;02.01.2020;Dresden;0;Rechts;§ 185 StGB;Beleidigung;Bündnis 90/Die Grünen
+4;02.01.2020;Dresden;0;Rechts;§ 185 StGB;Beleidigung;Bündnis 90/Die Grünen
+5;06.01.2020;Oberhausen;0;Links;§ 241 StGB;Bedrohung;CDU
+6;06.01.2020;Dresden;1;Links;§ 240 StGB;Nötigung;AfD
+7;07.01.2020;Bremen;0;Links;§ 186 StGB;Üble Nachrede;AfD
+8;07.01.2020;Bremen;0;Links;§ 186 StGB;Üble Nachrede;AfD
+9;07.01.2020;Neubrandenburg;0;Rechts;§ 189 StGB;Verunglimpfung des Andenkens Verstorbener;CDU
+10;07.01.2020;Kiel;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+11;07.01.2020;Wurzen;1;Rechts;§ 241 StGB;Bedrohung;Die Linke
+12;08.01.2020;Hamburg;0;Nicht zuzuordnen;§ 202a StGB;Ausspähen von Daten;Die Linke
+13;08.01.2020;Saarbrücken;1;Nicht zuzuordnen;§ 185 StGB;Beleidigung;Bündnis 90/Die Grünen
+14;09.01.2020;Stuttgart;0;Rechts;§ 187 StGB;Verleumdung;CDU
+15;09.01.2020;Waiblingen;0;Nicht zuzuordnen;§ 241 StGB;Bedrohung;Bündnis 90/Die Grünen, FDP, CSU, SPD, CDU
+16;09.01.2020;Hoyerswerda;1;Rechts;§ 86a StGB;Volksverhetzung;keine Angabe
+17;10.01.2020;Ebersbach;0;Rechts;§ 130 StGB;Volksverhetzung;keine Angabe
+18;10.01.2020;Leipzig;0;Nicht zuzuordnen;§ 303 StGB;Sachbeschädigung;CDU
+19;11.01.2020;Dresden;1;Rechts;§ 86a StGB;Volksverhetzung;CDU
+20;12.01.2020;Salzgitter;0;Nicht zuzuordnen;§ 185 StGB;Beleidigung;CDU
+21;12.01.2020;Dresden;0;Links;§ 241 StGB;Bedrohung;AfD
+22;13.01.2020;Leipzig;0;Rechts;§ 86a StGB;Volksverhetzung;CDU
+23;13.01.2020;Leipzig;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+24;14.01.2020;Berlin;0;Links;§ 185 StGB;Beleidigung;AfD
+25;14.01.2020;Hannover;0;Nicht zuzuordnen;§ 185 StGB;Beleidigung;Bündnis 90/Die Grünen, CDU
+26;15.01.2020;Lübeck;0;Rechts;§ 303 StGB;Sachbeschädigung;keine Angabe
+27;15.01.2020;Wurzen;0;Rechts;§ 185 StGB;Beleidigung;CDU
+28;15.01.2020;Erfurt;0;Links;§ 185 StGB;Beleidigung;AfD
+29;16.01.2020;Dresden;0;Links;§ 241 StGB;Bedrohung;AfD
+30;17.01.2020;Berlin;0;Links;§ 185 StGB;Beleidigung;AfD
+31;17.01.2020;Heusenstamm;0;Rechts;§ 86a StGB;Volksverhetzung;keine Angabe
+32;17.01.2020;Landau;0;Links;§ 185 StGB;Beleidigung;AfD
+33;17.01.2020;Leipzig;1;Links;§ 303 StGB;Sachbeschädigung;SPD
+34;18.01.2020;Leipzig;0;Rechts;§ 241 StGB;Bedrohung;Die Linke
+35;19.01.2020;Berlin;0;Links;§ 185 StGB;Beleidigung;AfD
+36;19.01.2020;Hamburg;0;Rechts;§ 86a StGB;Volksverhetzung;SPD
+37;20.01.2020;Langenau;0;Nicht zuzuordnen;§ 185 StGB;Beleidigung;Bündnis 90/Die Grünen
+38;20.01.2020;Jena;0;Links;§ 188 StGB;Üble Nachrede und Verleumdung gegen Personen des politischen Lebens;FDP
+39;21.01.2020;Berlin;0;Nicht zuzuordnen;§ 185 StGB;Beleidigung;Die Linke
+40;21.01.2020;Freising;0;Nicht zuzuordnen;§ 269 StGB;Fälschung beweiserheblicher Daten;Bündnis 90/Die Grünen
+41;21.01.2020;Hannover;0;Nicht zuzuordnen;§ 185 StGB;Beleidigung;SPD
+42;21.01.2020;Zülpich;0;Rechts;§ 241 StGB;Bedrohung;Die Linke
+43;21.01.2020;Mülheim;1;Nicht zuzuordnen;§ 241 StGB;Bedrohung;CDU
+44;21.01.2020;Gera;0;Links;§ 185 StGB;Beleidigung;AfD
+45;22.01.2020;Erfurt;0;Nicht zuzuordnen;§ 241 StGB;Bedrohung;Bündnis 90/Die Grünen, CDU
+46;23.01.2020;Gera;0;Links;§ 185 StGB;Beleidigung;AfD
+47;24.01.2020;Wilhelmshaven;1;Links;§ 187 StGB;Verleumdung;AfD
+48;25.01.2020;Berlin;2;Links;§ 189 StGB;Verunglimpfung des Andenkens Verstorbener;AfD
+49;26.01.2020;Wilhelmshaven;1;Rechts;§ 185 StGB;Beleidigung;Bündnis 90/Die Grünen
+50;26.01.2020;Radeberg;1;Nicht zuzuordnen;§ 185 StGB;Beleidigung;SPD
+51;27.01.2020;Berlin;0;Links;§ 240 StGB;Nötigung;AfD
+52;27.01.2020;Stuttgart;1;Nicht zuzuordnen;§ 130 StGB;Volksverhetzung;SPD, CDU
+53;27.01.2020;Braunschweig;5;Links;§ 224 StGB;Gefährliche Körperverletzung;AfD
+54;28.01.2020;Halle;0;Links;§ 185 StGB;Beleidigung;keine Angabe
+55;28.01.2020;Berlin;0;Nicht zuzuordnen;§ 303 StGB;Sachbeschädigung;Die Linke
+56;28.01.2020;Otterfing;0;Rechts;§ 86a StGB;Volksverhetzung;Bündnis 90/Die Grünen
+57;30.01.2020;Bliedersdorf;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+58;30.01.2020;Werl;0;Nicht zuzuordnen;§ 241 StGB;Bedrohung;CDU
+59;31.01.2020;Halle;0;Rechts;§ 241 StGB;Bedrohung;keine Angabe
+60;31.01.2020;Berlin;0;Links;§ 185 StGB;Beleidigung;AfD
+61;31.01.2020;Osnabrück;0;Rechts;§ 86a StGB;Volksverhetzung;SPD
+62;31.01.2020;Recklinghausen;0;Nicht zuzuordnen;§ 185 StGB;Beleidigung;Die Linke
+63;01.02.2020;Hamburg;0;Rechts;§ 185 StGB;Beleidigung;keine Angabe
+64;01.02.2020;Hamburg;0;Rechts;§ 185 StGB;Beleidigung;SPD
+65;02.02.2020;Wiesloch;0;Links;§ 304 StGB;Gemeinschädliche Sachbeschädigung;AfD
+66;02.02.2020;Dresden;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+67;03.02.2020;Stuttgart;1;Rechts;§ 185 StGB;Beleidigung;SPD
+68;03.02.2020;Darmstadt;0;Links;§ 187 StGB;Verleumdung;AfD
+69;03.02.2020;Lingen;0;Rechts;§ 130 StGB;Volksverhetzung;Bündnis 90/Die Grünen
+70;04.02.2020;Kiel;0;Links;§ 188 StGB;Üble Nachrede und Verleumdung gegen Personen des politischen Lebens;AfD
+71;05.02.2020;Göttingen;0;Links;§ 303 StGB;Sachbeschädigung;FDP
+72;05.02.2020;Lüneburg;0;Links;§ 186 StGB;Üble Nachrede;CSU, Sonstige Partei, CDU
+73;05.02.2020;Lüneburg;0;Links;§ 186 StGB;Üble Nachrede;CSU, Sonstige Partei, CDU
+74;05.02.2020;Erfurt;0;Links;§ 241 StGB;Bedrohung;FDP
+75;06.02.2020;Bremen;0;Links;§ 223 StGB;Körperverletzung;FDP
+76;06.02.2020;Raddestorf;1;Rechts;§ 130 StGB;Volksverhetzung;Bündnis 90/Die Grünen, SPD, Die Linke
+77;06.02.2020;Bielefeld;0;Rechts;§ 86a StGB;Volksverhetzung;keine Angabe
+78;06.02.2020;Bochum;1;Links;§ 185 StGB;Beleidigung;Sonstige Partei
+79;07.02.2020;Berlin;0;Links;KUG;Kunsturhebergesetz;AfD
+80;07.02.2020;Bremen;0;Links;§ 185 StGB;Beleidigung;FDP
+81;07.02.2020;Bochum;1;Links;§ 185 StGB;Beleidigung;AfD
+82;07.02.2020;Leipzig;0;Nicht zuzuordnen;§ 303 StGB;Sachbeschädigung;Bündnis 90/Die Grünen
+83;08.02.2020;Altenberg;0;Nicht zuzuordnen;§ 187 StGB;Verleumdung;CDU
+84;08.02.2020;Freiberg;0;Links;§ 186 StGB;Üble Nachrede;AfD
+85;09.02.2020;Backnang;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+86;09.02.2020;Bad Bramstedt;0;Links;§ 303 StGB;Sachbeschädigung;FDP
+87;10.02.2020;Berlin;0;Links;§ 185 StGB;Beleidigung;AfD
+88;10.02.2020;Hamburg;0;Nicht zuzuordnen;§ 185 StGB;Beleidigung;FDP
+89;12.02.2020;Göttingen;0;Links;§ 303 StGB;Sachbeschädigung;CDU
+90;12.02.2020;Hannover;0;Nicht zuzuordnen;§ 185 StGB;Beleidigung;AfD
+91;12.02.2020;Gera;0;Links;§ 185 StGB;Beleidigung;AfD
+92;13.02.2020;Tangermünde;1;Links;§ 188 StGB;Üble Nachrede und Verleumdung gegen Personen des politischen Lebens;AfD
+93;13.02.2020;Göttingen;0;Nicht zuzuordnen;§ 303 StGB;Sachbeschädigung;FDP
+94;13.02.2020;Dortmund;1;Rechts;KUG;Kunsturhebergesetz;SPD
+95;13.02.2020;Dresden;0;Rechts;§ 241 StGB;Bedrohung;Die Linke
+96;13.02.2020;Altenburg;1;Links;§ 185 StGB;Beleidigung;AfD
+97;14.02.2020;Hamburg;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+98;15.02.2020;Schwerin;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+99;15.02.2020;Lüneburg;1;Links;§ 187 StGB;Verleumdung;SPD
+100;16.02.2020;Böblingen;2;Links;§ 185 StGB;Beleidigung;AfD
+101;16.02.2020;Krefeld;0;Links;§ 303 StGB;Sachbeschädigung;FDP
+102;16.02.2020;Dresden;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+103;17.02.2020;Hamburg;0;Links;§ 188 StGB;Üble Nachrede und Verleumdung gegen Personen des politischen Lebens;AfD
+104;17.02.2020;Hamburg;1;Links;§ 185 StGB;Beleidigung;Die Linke
+105;17.02.2020;Leipzig;0;Rechts;§ 86a StGB;Volksverhetzung;CDU
+106;18.02.2020;Wuppertal;1;Nicht zuzuordnen;§ 185 StGB;Beleidigung;FDP
+107;19.02.2020;Berlin;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+108;19.02.2020;Timmendorfer Strand;0;Links;§ 241 StGB;Bedrohung;AfD
+109;20.02.2020;Stuttgart;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+110;20.02.2020;Schortens;1;Links;§ 188 StGB;Üble Nachrede und Verleumdung gegen Personen des politischen Lebens;AfD
+111;20.02.2020;Jena;0;Links;§ 241 StGB;Bedrohung;AfD
+112;21.02.2020;Großefehn;0;Links;§ 185 StGB;Beleidigung;AfD
+113;21.02.2020;Erfurt;0;Links;§ 241 StGB;Bedrohung;AfD
+114;22.02.2020;Heidelberg;1;Nicht zuzuordnen;§ 241 StGB;Bedrohung;AfD
+115;22.02.2020;Kirchheim;0;Links;§ 86a StGB;Volksverhetzung;CSU
+116;23.02.2020;Dietmannsried;0;Rechts;§ 187 StGB;Verleumdung;keine Angabe
+117;23.02.2020;Schwerin;1;Links;§ 185 StGB;Beleidigung;AfD
+118;24.02.2020;Hamburg;0;Rechts;§ 86a StGB;Volksverhetzung;Bündnis 90/Die Grünen
+119;24.02.2020;Erfurt;0;Links;§ 241 StGB;Bedrohung;AfD
+120;25.02.2020;Hannover;0;Rechts;§ 185 StGB;Beleidigung;Bündnis 90/Die Grünen
+121;26.02.2020;Leipzig;0;Links;§ 306 StGB;Brandstiftung;AfD
+122;27.02.2020;Görlitz;0;Links;§ 185 StGB;Beleidigung;AfD
+123;27.02.2020;Erfurt;0;Links;§ 240 StGB;Nötigung;CDU, FDP
+124;28.02.2020;Rehau;1;Links;§ 185 StGB;Beleidigung;AfD
+125;28.02.2020;Pechbrunn;0;Rechts;§ 86a StGB;Volksverhetzung;CSU
+126;28.02.2020;Kiel;1;Rechts;§ 130 StGB;Volksverhetzung;Bündnis 90/Die Grünen
+127;29.02.2020;Stuttgart;1;Links;§ 223 StGB;Körperverletzung;CDU
+128;01.03.2020;Gablenz;0;Links;§ 306 StGB;Brandstiftung;AfD
+129;02.03.2020;Berlin;0;Nicht zuzuordnen;§ 185 StGB;Beleidigung;Bündnis 90/Die Grünen
+130;02.03.2020;Hamburg;0;Rechts;§ 185 StGB;Beleidigung;Die Linke
+131;02.03.2020;Hannover;0;Nicht zuzuordnen;§ 187 StGB;Verleumdung;AfD
+132;02.03.2020;Heilbad Heiligenstadt;0;Links;§ 241 StGB;Bedrohung;AfD
+133;03.03.2020;Hannover;0;Rechts;§ 185 StGB;Beleidigung;SPD
+134;03.03.2020;Germersheim;4;Links;§ 185 StGB;Beleidigung;AfD
+135;04.03.2020;Solingen;1;Rechts;§ 130 StGB;Volksverhetzung;Bündnis 90/Die Grünen
+136;04.03.2020;Wolken;1;Rechts;§ 185 StGB;Beleidigung;Die Linke
+137;04.03.2020;Torgau;0;Nicht zuzuordnen;§ 241 StGB;Bedrohung;Die Linke
+138;04.03.2020;Dresden;1;Rechts;§ 86a StGB;Volksverhetzung;SPD
+139;05.03.2020;Hannover;0;Nicht zuzuordnen;§ 185 StGB;Beleidigung;CDU
+140;06.03.2020;Alpen;0;Nicht zuzuordnen;§ 303 StGB;Sachbeschädigung;FDP
+141;06.03.2020;Mainz;1;Links;§ 188 StGB;Üble Nachrede und Verleumdung gegen Personen des politischen Lebens;AfD
+142;07.03.2020;Lübeck;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+143;07.03.2020;Dresden;1;Links;§ 240 StGB;Nötigung;AfD
+144;07.03.2020;Brandis;1;Links;§ 187 StGB;Verleumdung;AfD
+145;08.03.2020;Lübeck;0;Links;§ 303 StGB;Sachbeschädigung;CDU
+146;10.03.2020;Berlin;0;Links;§ 306 StGB;Brandstiftung;AfD
+147;11.03.2020;Freystadt;0;Nicht zuzuordnen;§ 185 StGB;Beleidigung;CSU
+148;11.03.2020;Burgdorf;0;Nicht zuzuordnen;§ 303 StGB;Sachbeschädigung;Bündnis 90/Die Grünen
+149;13.03.2020;Neuenkirchen;1;Links;§ 185 StGB;Beleidigung;AfD
+150;13.03.2020;Chemnitz;1;Rechts;§ 186 StGB;Üble Nachrede;Bündnis 90/Die Grünen
+151;14.03.2020;Regensburg;1;Links;§ 223 StGB;Körperverletzung;AfD
+152;14.03.2020;Dresden;0;Links;§ 241 StGB;Bedrohung;AfD
+153;16.03.2020;Potsdam;0;Links;§ 241 StGB;Bedrohung;AfD
+154;18.03.2020;Lindau;0;Links;§ 241 StGB;Bedrohung;AfD
+155;20.03.2020;Kassel;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+156;22.03.2020;Potsdam;0;Nicht zuzuordnen;§ 241 StGB;Bedrohung;Bündnis 90/Die Grünen
+157;23.03.2020;Potsdam;0;Links;§ 241 StGB;Bedrohung;AfD
+158;25.03.2020;Berlin;0;Rechts;§ 130 StGB;Volksverhetzung;SPD
+159;25.03.2020;Wegberg;0;Rechts;§ 86a StGB;Volksverhetzung;keine Angabe
+160;26.03.2020;Ludwigslust;0;Nicht zuzuordnen;§ 303 StGB;Sachbeschädigung;keine Angabe
+161;27.03.2020;Saaldorf-Surheim;0;Nicht zuzuordnen;§ 202a StGB;Ausspähen von Daten;CSU

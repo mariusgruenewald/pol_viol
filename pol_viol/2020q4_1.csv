@@ -1,0 +1,74 @@
+﻿Lfd Nr;Tatzeit;Tatort;TV*;PHB**;Zähldelikt;Bezeichnung;Betroffene Partei
+1;16.11.2020;Dessau Roßlau;0;Links;§ 243 Strafgesetzbuch (StGB);Bes. schwerer Diebstahl;FDP
+2;12.12.2020;Dessau Roßlau;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+3;20.10.2020;Elsterwerda;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+4;12.10.2020;Potsdam;0;Nicht zuzuordnen;§ 303 StGB;Sachbeschädigung;FDP
+5;19.11.2020;Cottbus;0;Rechts;§ 303 StGB;Sachbeschädigung;DIE LINKE.
+6;19.11.2020;Brandenburg;0;Nicht zuzuordnen;§ 303 StGB;Sachbeschädigung;CDU
+7;23.11.2020;Königs-Wusterhausen;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+8;19.10.2020;Finsterwalde;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+9;10.11.2020;Bad Belzig;0;Religiöse Ideologie;§ 304 StGB;Gemeinschädliche Sachbeschädigung;DIE LINKE.
+10;07.10.2020;Berlin;0;Links;§ 303 StGB;Sachbeschädigung;SPD
+11;09.10.2020;Berlin;0;Links;§ 303 StGB;Sachbeschädigung;SPD
+12;09.10.2020;Berlin;0;Links;§ 303 StGB;Sachbeschädigung;SPD
+13;09.10.2020;Berlin;0;Links;§ 303 StGB;Sachbeschädigung;SPD
+14;09.10.2020;Berlin;0;Links;§ 303 StGB;Sachbeschädigung;SPD
+15;07.10.2020;Berlin;0;Links;§ 303 StGB;Sachbeschädigung;DIE LINKE.
+16;09.10.2020;Berlin;0;Links;§ 303 StGB;Sachbeschädigung;SPD
+17;16.10.2020;Berlin;0;Links;§ 303 StGB;Sachbeschädigung;SPD
+18;19.10.2020;Berlin;0;Rechts;§ 86a StGB;Verwenden von Kennzeichen verfassungswidriger Organisationen;SPD
+19;19.10.2020;Berlin;0;Rechts;§ 303 StGB;Sachbeschädigung;DIE LINKE.
+20;16.10.2020;Berlin;0;Links;§ 303 StGB;Sachbeschädigung;SPD
+21;09.10.2020;Berlin;0;Links;§ 303 StGB;Sachbeschädigung;SPD
+22;29.10.2020;Berlin;0;Links;§ 185 StGB;Beleidigung;SPD
+23;03.11.2020;Berlin;0;Links;§ 306a StGB;Schwere Brandstiftung;SPD
+24;18.11.2020;Berlin;0;Links;§ 303 StGB;Sachbeschädigung;Sonstige Partei
+25;18.11.2020;Berlin;0;Links;§ 303 StGB;Sachbeschädigung;Sonstige Partei
+26;12.10.2020;Berlin;0;Links;§ 303 StGB;Sachbeschädigung;SPD
+27;30.11.2020;Berlin;0;Nicht zuzuordnen;§ 303 StGB;Sachbeschädigung;BÜNDNIS 90/DIE GRÜNEN
+28;06.12.2020;Berlin;0;Links;§ 185 StGB;Beleidigung;AfD
+29;01.11.2020;Berlin;0;Links;§ 303 SGB;Sachbeschädigung;SPD
+30;12.12.2020;Berlin;0;Links;§ 303 StGB;Sachbeschädigung;Sonstige Partei
+31;18.11.2020;Berlin;0;Rechts;§ 185 StGB;Beleidigung;SPD
+32;29.10.2020;München;1;Links;§ 303 StGB;Sachbeschädigung;CSU
+33;28.10.2020;Fürth;0;Rechts;§ 303 StGB;Sachbeschädigung;CSU
+34;13.11.2020;München;0;Links;§ 303 StGB;Sachbeschädigung;BÜNDNIS 90/DIE GRÜNEN
+35;22.11.2020;Nürnberg;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+36;14.12.2020;Memmingen;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+37;09.10.2020;Bremen;1;Rechts;§ 303 StGB;Sachbeschädigung;DIE LINKE.
+38;17.11.2020;Bremerhaven;0;Nicht zuzuordnen;§ 303 StGB;Sachbeschädigung;SPD
+39;17.11.2020;Bremerhaven;0;Nicht zuzuordnen;§ 303 StGB;Sachbeschädigung;CDU
+40;17.11.2020;Bremerhaven;0;Nicht zuzuordnen;§ 303 StGB;Sachbeschädigung;BÜNDNIS 90/DIE GRÜNEN
+41;10.10.2020;Wiesbaden;0;Links;§ 303 StGB;Sachbeschädigung;BÜNDNIS 90/DIE GRÜNEN
+42;10.10.2020;Wiesbaden;0;Links;§ 303 StGB;Sachbeschädigung;BÜNDNIS 90/DIE GRÜNEN
+43;10.10.2020;Hamburg;0;Links;§ 303 StGB;Sachbeschädigung;SPD
+44;23.11.2020;Hamburg;0;Links;§ 303 StGB;Sachbeschädigung;SPD
+45;08.11.2020;Güstrow;0;Links;§ 303 StGB;Sachbeschädigung;Sonstige Partei
+46;04.10.2020;Hildesheim;0;Rechts;§ 86a StGB;Verwenden von Kennzeichen verfassungswidriger Organisationen;DIE LINKE.
+47;16.10.2020;Hildesheim;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+48;21.10.2020;Hildesheim;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+49;14.11.2020;Hildesheim;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+50;14.11.2020;Göttingen;0;Links;§ 303 StGB;Sachbeschädigung;BÜNDNIS 90/DIE GRÜNEN
+51;24.11.2020;Hann. Münden;0;Nicht zuzuordnen;§ 303 StGB;Sachbeschädigung;CDU
+52;05.12.2020;Stade;0;Nicht zuzuordnen;§ 303 StGB;Sachbeschädigung;SPD
+53;09.12.2020;Oldenburg;0;Links;§ 303 StGB;Sachbeschädigung;BÜNDNIS 90/DIE GRÜNEN
+54;04.10.2020;Hürth;0;Nicht zuzuordnen;§ 303 StGB;Sachbeschädigung;CDU
+55;10.11.2020;Recklinghausen;0;Nicht zuzuordnen;§ 303 StGB;Sachbeschädigung;SPD
+56;07.11.2020;Recklinghausen;0;Nicht zuzuordnen;§ 243 StGB;Bes. schwerer Diebstahl;CDU
+57;22.11.2020;Neuwied;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+58;30.11.2020;Ludwigshafen;0;Nicht zuzuordnen;§ 303 StGB;Sachbeschädigung;AfD
+59;09.12.2020;Trier;1;Nicht zuzuordnen;§ 185 StGB;Beleidigung;SPD
+60;02.10.2020;Plauen;0;Links;§ 303 StGB;Sachbeschädigung;Sonstige Partei
+61;27.10.2020;Zittau;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+62;08.11.2020;Lugau;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+63;11.11.2020;Dresden;0;Links;§ 303 StGB;Sachbeschädigung;BÜNDNIS 90/DIE GRÜNEN
+64;13.11.2020;Aue;0;Nicht zuzuordnen;§ 303 StGB;Sachbeschädigung;CDU
+65;18.11.2020;Chemnitz;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+66;05.12.2020;Bautzen;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+67;06.12.2020;Grimma;0;Rechts;§ 86a StGB;Verwenden von Kennzeichen verfassungswidriger Organisationen;DIE LINKE.
+68;07.12.2020;Leipzig;0;Links;§ 303 StGB;Sachbeschädigung;BÜNDNIS 90/DIE GRÜNEN
+69;09.10.2020;Glauchau;1;Rechts;§ 185 StGB;Beleidigung;DIE LINKE.
+70;02.11.2020;Nordhausen;0;Nicht zuzuordnen;§ 303 StGB;Sachbeschädigung;BÜNDNIS 90/DIE GRÜNEN
+71;04.10.2020;Bad Langensalza;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+72;29.10.2020;Bad Langensalza;0;Links;§ 303 StGB;Sachbeschädigung;AfD
+73;18.11.2020;Erfurt;0;Links;§ 303 StGB;Sachbeschädigung;AfD
